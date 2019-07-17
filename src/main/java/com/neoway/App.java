@@ -17,6 +17,5 @@ public class App {
 		ufs.add("SP");
 		FaixaCepServico fcs = new FaixaCepServico();
 		fcs.getFaixaCep(ufs);
-		fcs.imprimirJson();
 	}
 }

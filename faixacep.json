@@ -1,1 +1,5491 @@
-[{"localidade":"Abdon Batista","faixaCep":"89636-000 a 89637-999"},{"localidade":"Abelardo Luz","faixaCep":"89830-000 a 89831-999"},{"localidade":"Agrolândia","faixaCep":"88420-000 a 88429-999"},{"localidade":"Agronômica","faixaCep":"89188-000 a 89189-999"},{"localidade":"Água Doce","faixaCep":"89654-000 a 89659-999"},{"localidade":"Águas de Chapecó","faixaCep":"89883-000 a 89884-999"},{"localidade":"Águas Frias","faixaCep":"89843-000 a 89844-999"},{"localidade":"Águas Mornas","faixaCep":"88150-000 a 88159-999"},{"localidade":"Alfredo Wagner","faixaCep":"88450-000 a 88459-999"},{"localidade":"Alto Bela Vista","faixaCep":"89730-000 a 89734-999"},{"localidade":"Anchieta","faixaCep":"89970-000 a 89979-999"},{"localidade":"Angelina","faixaCep":"88460-000 a 88469-999"},{"localidade":"Anita Garibaldi","faixaCep":"88590-000 a 88597-999"},{"localidade":"Anitápolis","faixaCep":"88475-000 a 88484-999"},{"localidade":"Antônio Carlos","faixaCep":"88180-000 a 88189-999"},{"localidade":"Apiúna","faixaCep":"89135-000 a 89135-999"},{"localidade":"Arabutã","faixaCep":"89740-000 a 89744-999"},{"localidade":"Araquari","faixaCep":"89245-000 a 89246-999"},{"localidade":"Araranguá","faixaCep":"88900-001 a 88913-999"},{"localidade":"Araranguá","faixaCep":"88900-001 a 88913-999"},{"localidade":"Armazém","faixaCep":"88740-000 a 88744-999"},{"localidade":"Arroio Trinta","faixaCep":"89590-000 a 89594-999"},{"localidade":"Arvoredo","faixaCep":"89778-000 a 89779-999"},{"localidade":"Ascurra","faixaCep":"89138-000 a 89139-999"},{"localidade":"Atalanta","faixaCep":"88410-000 a 88419-999"},{"localidade":"Aurora","faixaCep":"89186-000 a 89187-999"},{"localidade":"Balneário Arroio do Silva","faixaCep":"88914-000 a 88914-999"},{"localidade":"Balneário Barra do Sul","faixaCep":"89247-000 a 89247-999"},{"localidade":"Balneário Camboriú","faixaCep":"88330-001 a 88339-999"},{"localidade":"Balneário Camboriú","faixaCep":"88330-001 a 88339-999"},{"localidade":"Balneário Gaivota","faixaCep":"88955-000 a 88959-999"},{"localidade":"Balneário Piçarras","faixaCep":"88380-000 a 88384-999"},{"localidade":"Balneário Rincão","faixaCep":"88828-000 a 88829-999"},{"localidade":"Bandeirante","faixaCep":"89905-000 a 89905-999"},{"localidade":"Barra Bonita","faixaCep":"89909-000 a 89909-999"},{"localidade":"Barra Velha","faixaCep":"88390-000 a 88394-999"},{"localidade":"Bela Vista do Toldo","faixaCep":"89478-000 a 89479-999"},{"localidade":"Belmonte","faixaCep":"89925-000 a 89929-999"},{"localidade":"Benedito Novo","faixaCep":"89124-000 a 89125-999"},{"localidade":"Biguaçu","faixaCep":"88160-001 a 88179-999"},{"localidade":"Biguaçu","faixaCep":"88160-001 a 88169-999"},{"localidade":"Blumenau","faixaCep":"89000-001 a 89079-999"},{"localidade":"Blumenau","faixaCep":"89000-001 a 89079-999"},{"localidade":"Bocaína do Sul","faixaCep":"88538-000 a 88539-999"},{"localidade":"Bom Jardim da Serra","faixaCep":"88640-000 a 88649-999"},{"localidade":"Bom Jesus","faixaCep":"89824-000 a 89824-999"},{"localidade":"Bom Jesus do Oeste","faixaCep":"89873-000 a 89873-999"},{"localidade":"Bom Retiro","faixaCep":"88680-000 a 88699-999"},{"localidade":"Bombinhas","faixaCep":"88215-000 a 88219-999"},{"localidade":"Botuverá","faixaCep":"88295-000 a 88299-999"},{"localidade":"Braço do Norte","faixaCep":"88750-000 a 88759-999"},{"localidade":"Braço do Trombudo","faixaCep":"89178-000 a 89179-999"},{"localidade":"Brunópolis","faixaCep":"89634-000 a 89635-999"},{"localidade":"Brusque","faixaCep":"88350-001 a 88359-999"},{"localidade":"Brusque","faixaCep":"88350-001 a 88359-999"},{"localidade":"Caçador","faixaCep":"89500-001 a 89514-999"},{"localidade":"Caçador","faixaCep":"89500-001 a 89514-999"},{"localidade":"Caibi","faixaCep":"89888-000 a 89889-999"},{"localidade":"Calmon","faixaCep":"89430-000 a 89439-999"},{"localidade":"Camboriú","faixaCep":"88340-001 a 88349-999"},{"localidade":"Camboriú","faixaCep":"88340-001 a 88349-999"},{"localidade":"Campo Alegre","faixaCep":"89294-000 a 89294-999"},{"localidade":"Campo Belo do Sul","faixaCep":"88580-000 a 88584-999"},{"localidade":"Campo Erê","faixaCep":"89980-000 a 89980-999"},{"localidade":"Campos Novos","faixaCep":"89620-000 a 89632-999"},{"localidade":"Canelinha","faixaCep":"88230-000 a 88239-999"},{"localidade":"Canoinhas","faixaCep":"89460-001 a 89477-999"},{"localidade":"Canoinhas","faixaCep":"89460-001 a 89477-999"},{"localidade":"Capão Alto","faixaCep":"88548-000 a 88549-999"},{"localidade":"Capinzal","faixaCep":"89665-000 a 89666-999"},{"localidade":"Capivari de Baixo","faixaCep":"88745-000 a 88749-999"},{"localidade":"Catanduvas","faixaCep":"89670-000 a 89674-999"},{"localidade":"Caxambu do Sul","faixaCep":"89880-000 a 89881-999"},{"localidade":"Celso Ramos","faixaCep":"88598-000 a 88599-999"},{"localidade":"Cerro Negro","faixaCep":"88585-000 a 88589-999"},{"localidade":"Chapadão do Lageado","faixaCep":"88407-000 a 88409-999"},{"localidade":"Chapecó","faixaCep":"89800-001 a 89816-999"},{"localidade":"Chapecó","faixaCep":"89800-001 a 89816-199"},{"localidade":"Cocal do Sul","faixaCep":"88845-000 a 88849-999"},{"localidade":"Concórdia","faixaCep":"89700-001 a 89729-999"},{"localidade":"Concórdia","faixaCep":"89700-001 a 89715-999"},{"localidade":"Cordilheira Alta","faixaCep":"89819-000 a 89819-999"},{"localidade":"Coronel Freitas","faixaCep":"89840-000 a 89842-999"},{"localidade":"Coronel Martins","faixaCep":"89837-000 a 89837-999"},{"localidade":"Correia Pinto","faixaCep":"88535-000 a 88537-999"},{"localidade":"Corupá","faixaCep":"89278-000 a 89279-999"},{"localidade":"Criciúma","faixaCep":"88800-001 a 88819-999"},{"localidade":"Criciúma","faixaCep":"88800-001 a 88819-999"},{"localidade":"Cunha Porã","faixaCep":"89890-000 a 89890-999"},{"localidade":"Cunhataí","faixaCep":"89886-000 a 89886-999"},{"localidade":"Curitibanos","faixaCep":"89520-000 a 89529-999"},{"localidade":"Descanso","faixaCep":"89910-000 a 89914-999"},{"localidade":"Dionísio Cerqueira","faixaCep":"89950-000 a 89969-999"},{"localidade":"Dona Emma","faixaCep":"89155-000 a 89156-999"},{"localidade":"Doutor Pedrinho","faixaCep":"89126-000 a 89127-999"},{"localidade":"Entre Rios","faixaCep":"89862-000 a 89864-999"},{"localidade":"Ermo","faixaCep":"88935-000 a 88939-999"},{"localidade":"Erval Velho","faixaCep":"89613-000 a 89617-999"},{"localidade":"Faxinal dos Guedes","faixaCep":"89694-000 a 89699-999"},{"localidade":"Flor do Sertão","faixaCep":"89878-000 a 89878-999"},{"localidade":"Florianópolis","faixaCep":"88000-001 a 88099-999"},{"localidade":"Florianópolis","faixaCep":"88000-001 a 88099-999"},{"localidade":"Formosa do Sul","faixaCep":"89859-000 a 89859-999"},{"localidade":"Forquilhinha","faixaCep":"88850-000 a 88859-999"},{"localidade":"Fraiburgo","faixaCep":"89580-000 a 89589-999"},{"localidade":"Frei Rogério","faixaCep":"89530-000 a 89532-999"},{"localidade":"Galvão","faixaCep":"89838-000 a 89838-999"},{"localidade":"Garopaba","faixaCep":"88495-000 a 88499-999"},{"localidade":"Garuva","faixaCep":"89248-000 a 89248-999"},{"localidade":"Gaspar","faixaCep":"89110-001 a 89119-999"},{"localidade":"Gaspar","faixaCep":"89110-001 a 89119-999"},{"localidade":"Governador Celso Ramos","faixaCep":"88190-000 a 88199-999"},{"localidade":"Grão Pará","faixaCep":"88890-000 a 88899-999"},{"localidade":"Gravatal","faixaCep":"88735-000 a 88739-999"},{"localidade":"Guabiruba","faixaCep":"88360-000 a 88369-999"},{"localidade":"Guaraciaba","faixaCep":"89920-000 a 89924-999"},{"localidade":"Guaramirim","faixaCep":"89270-000 a 89274-999"},{"localidade":"Guarujá do Sul","faixaCep":"89940-000 a 89949-999"},{"localidade":"Guatambú","faixaCep":"89817-000 a 89817-999"},{"localidade":"Herval D\u0027Oeste","faixaCep":"89610-000 a 89612-999"},{"localidade":"Ibiam","faixaCep":"89652-000 a 89653-999"},{"localidade":"Ibicaré","faixaCep":"89640-000 a 89641-999"},{"localidade":"Ibirama","faixaCep":"89140-000 a 89144-999"},{"localidade":"Içara","faixaCep":"88820-000 a 88827-999"},{"localidade":"Ilhota","faixaCep":"88320-000 a 88329-999"},{"localidade":"Imaruí","faixaCep":"88770-000 a 88779-999"},{"localidade":"Imbituba","faixaCep":"88780-000 a 88789-999"},{"localidade":"Imbuia","faixaCep":"88440-000 a 88442-999"},{"localidade":"Indaial","faixaCep":"89080-000 a 89099-999"},{"localidade":"Indaial","faixaCep":"89080-000 a 89089-999"},{"localidade":"Iomerê","faixaCep":"89558-000 a 89559-999"},{"localidade":"Ipira","faixaCep":"89669-000 a 89669-999"},{"localidade":"Iporã do Oeste","faixaCep":"89899-000 a 89899-999"},{"localidade":"Ipuaçu","faixaCep":"89832-000 a 89833-999"},{"localidade":"Ipumirim","faixaCep":"89790-000 a 89799-999"},{"localidade":"Iraceminha","faixaCep":"89891-000 a 89892-999"},{"localidade":"Irani","faixaCep":"89680-000 a 89682-999"},{"localidade":"Irati","faixaCep":"89856-000 a 89858-999"},{"localidade":"Irineópolis","faixaCep":"89440-000 a 89459-999"},{"localidade":"Itá","faixaCep":"89760-000 a 89764-999"},{"localidade":"Itaiópolis","faixaCep":"89340-000 a 89369-999"},{"localidade":"Itajaí","faixaCep":"88300-001 a 88319-999"},{"localidade":"Itajaí","faixaCep":"88300-001 a 88319-999"},{"localidade":"Itapema","faixaCep":"88220-000 a 88229-999"},{"localidade":"Itapiranga","faixaCep":"89896-000 a 89896-999"},{"localidade":"Itapoá","faixaCep":"89249-000 a 89249-999"},{"localidade":"Ituporanga","faixaCep":"88400-000 a 88406-999"},{"localidade":"Jaborá","faixaCep":"89677-000 a 89679-999"},{"localidade":"Jacinto Machado","faixaCep":"88950-000 a 88954-999"},{"localidade":"Jaguaruna","faixaCep":"88715-000 a 88716-999"},{"localidade":"Jaraguá do Sul","faixaCep":"89250-001 a 89269-999"},{"localidade":"Jaraguá do Sul","faixaCep":"89250-001 a 89269-999"},{"localidade":"Jardinópolis","faixaCep":"89848-000 a 89849-999"},{"localidade":"Joaçaba","faixaCep":"89600-000 a 89608-999"},{"localidade":"Joinville","faixaCep":"89200-001 a 89239-999"},{"localidade":"Joinville","faixaCep":"89200-001 a 89239-999"},{"localidade":"José Boiteux","faixaCep":"89145-000 a 89147-999"},{"localidade":"Jupiá","faixaCep":"89839-000 a 89839-999"},{"localidade":"Lacerdópolis","faixaCep":"89660-000 a 89662-999"},{"localidade":"Lages","faixaCep":"88500-001 a 88534-999"},{"localidade":"Lages","faixaCep":"88500-001 a 88531-999"},{"localidade":"Laguna","faixaCep":"88790-000 a 88797-999"},{"localidade":"Lajeado Grande","faixaCep":"89828-000 a 89829-999"},{"localidade":"Laurentino","faixaCep":"89170-000 a 89171-999"},{"localidade":"Lauro Müller","faixaCep":"88880-000 a 88889-999"},{"localidade":"Lebon Régis","faixaCep":"89515-000 a 89517-999"},{"localidade":"Leoberto Leal","faixaCep":"88445-000 a 88449-999"},{"localidade":"Lindóia do Sul","faixaCep":"89735-000 a 89739-999"},{"localidade":"Lontras","faixaCep":"89182-000 a 89183-999"},{"localidade":"Luiz Alves","faixaCep":"89128-000 a 89129-999"},{"localidade":"Luzerna","faixaCep":"89609-000 a 89609-999"},{"localidade":"Macieira","faixaCep":"89518-000 a 89519-999"},{"localidade":"Mafra","faixaCep":"89300-001 a 89339-999"},{"localidade":"Mafra","faixaCep":"89300-001 a 89309-999"},{"localidade":"Major Gercino","faixaCep":"88260-000 a 88269-999"},{"localidade":"Major Vieira","faixaCep":"89480-000 a 89489-999"},{"localidade":"Maracajá","faixaCep":"88915-000 a 88919-999"},{"localidade":"Maravilha","faixaCep":"89874-000 a 89874-999"},{"localidade":"Marema","faixaCep":"89860-000 a 89861-999"},{"localidade":"Massaranduba","faixaCep":"89108-000 a 89109-999"},{"localidade":"Matos Costa","faixaCep":"89420-000 a 89429-999"},{"localidade":"Meleiro","faixaCep":"88920-000 a 88924-999"},{"localidade":"Mirim Doce","faixaCep":"89194-000 a 89195-999"},{"localidade":"Modelo","faixaCep":"89872-000 a 89872-999"},{"localidade":"Mondaí","faixaCep":"89893-000 a 89894-999"},{"localidade":"Monte Carlo","faixaCep":"89618-000 a 89619-999"},{"localidade":"Monte Castelo","faixaCep":"89380-000 a 89399-999"},{"localidade":"Morro da Fumaça","faixaCep":"88830-000 a 88839-999"},{"localidade":"Morro Grande","faixaCep":"88925-000 a 88929-999"},{"localidade":"Navegantes","faixaCep":"88370-001 a 88379-999"},{"localidade":"Navegantes","faixaCep":"88370-001 a 88379-999"},{"localidade":"Nova Erechim","faixaCep":"89865-000 a 89867-999"},{"localidade":"Nova Itaberaba","faixaCep":"89818-000 a 89818-999"},{"localidade":"Nova Trento","faixaCep":"88270-000 a 88294-999"},{"localidade":"Nova Veneza","faixaCep":"88865-000 a 88869-999"},{"localidade":"Novo Horizonte","faixaCep":"89998-000 a 89999-999"},{"localidade":"Orleans","faixaCep":"88870-000 a 88879-999"},{"localidade":"Otacílio Costa","faixaCep":"88540-000 a 88542-999"},{"localidade":"Ouro","faixaCep":"89663-000 a 89664-999"},{"localidade":"Ouro Verde","faixaCep":"89834-000 a 89834-999"},{"localidade":"Paial","faixaCep":"89765-000 a 89769-999"},{"localidade":"Painel","faixaCep":"88543-000 a 88544-999"},{"localidade":"Palhoça","faixaCep":"88130-001 a 88139-999"},{"localidade":"Palhoça","faixaCep":"88130-001 a 88139-999"},{"localidade":"Palma Sola","faixaCep":"89985-000 a 89989-999"},{"localidade":"Palmeira","faixaCep":"88545-000 a 88547-999"},{"localidade":"Palmitos","faixaCep":"89887-000 a 89887-999"},{"localidade":"Papanduva","faixaCep":"89370-000 a 89379-999"},{"localidade":"Paraíso","faixaCep":"89906-000 a 89907-999"},{"localidade":"Passo de Torres","faixaCep":"88980-000 a 88989-999"},{"localidade":"Passos Maia","faixaCep":"89687-000 a 89689-999"},{"localidade":"Paulo Lopes","faixaCep":"88490-000 a 88494-999"},{"localidade":"Pedras Grandes","faixaCep":"88720-000 a 88729-999"},{"localidade":"Penha","faixaCep":"88385-000 a 88389-999"},{"localidade":"Peritiba","faixaCep":"89750-000 a 89759-999"},{"localidade":"Pescaria Brava","faixaCep":"88798-000 a 88799-999"},{"localidade":"Petrolândia","faixaCep":"88430-000 a 88439-999"},{"localidade":"Pinhalzinho","faixaCep":"89870-000 a 89870-999"},{"localidade":"Pinheiro Preto","faixaCep":"89570-000 a 89579-999"},{"localidade":"Piratuba","faixaCep":"89667-000 a 89668-999"},{"localidade":"Planalto Alegre","faixaCep":"89882-000 a 89882-999"},{"localidade":"Pomerode","faixaCep":"89107-000 a 89107-999"},{"localidade":"Ponte Alta","faixaCep":"88550-000 a 88569-999"},{"localidade":"Ponte Alta do Norte","faixaCep":"89535-000 a 89539-999"},{"localidade":"Ponte Serrada","faixaCep":"89683-000 a 89686-999"},{"localidade":"Porto Belo","faixaCep":"88210-000 a 88214-999"},{"localidade":"Porto União","faixaCep":"89400-000 a 89419-999"},{"localidade":"Pouso Redondo","faixaCep":"89172-000 a 89175-999"},{"localidade":"Praia Grande","faixaCep":"88990-000 a 88999-999"},{"localidade":"Presidente Castello Branco","faixaCep":"89745-000 a 89749-999"},{"localidade":"Presidente Getúlio","faixaCep":"89150-000 a 89154-999"},{"localidade":"Presidente Nereu","faixaCep":"89184-000 a 89185-999"},{"localidade":"Princesa","faixaCep":"89935-000 a 89939-999"},{"localidade":"Quilombo","faixaCep":"89850-000 a 89853-999"},{"localidade":"Rancho Queimado","faixaCep":"88470-000 a 88474-999"},{"localidade":"Rio das Antas","faixaCep":"89550-000 a 89557-999"},{"localidade":"Rio do Campo","faixaCep":"89198-000 a 89198-999"},{"localidade":"Rio do Oeste","faixaCep":"89180-000 a 89181-999"},{"localidade":"Rio do Sul","faixaCep":"89160-001 a 89169-999"},{"localidade":"Rio do Sul","faixaCep":"89160-001 a 89169-999"},{"localidade":"Rio dos Cedros","faixaCep":"89121-000 a 89123-999"},{"localidade":"Rio Fortuna","faixaCep":"88760-000 a 88762-999"},{"localidade":"Rio Negrinho","faixaCep":"89295-000 a 89299-999"},{"localidade":"Rio Rufino","faixaCep":"88658-000 a 88679-999"},{"localidade":"Riqueza","faixaCep":"89895-000 a 89895-999"},{"localidade":"Rodeio","faixaCep":"89136-000 a 89137-999"},{"localidade":"Romelândia","faixaCep":"89908-000 a 89908-999"},{"localidade":"Salete","faixaCep":"89196-000 a 89197-999"},{"localidade":"Saltinho","faixaCep":"89981-000 a 89981-999"},{"localidade":"Salto Veloso","faixaCep":"89595-000 a 89599-999"},{"localidade":"Sangão","faixaCep":"88717-000 a 88719-999"},{"localidade":"Santa Cecília","faixaCep":"89540-000 a 89544-999"},{"localidade":"Santa Helena","faixaCep":"89915-000 a 89919-999"},{"localidade":"Santa Rosa de Lima","faixaCep":"88763-000 a 88764-999"},{"localidade":"Santa Rosa do Sul","faixaCep":"88965-000 a 88969-999"},{"localidade":"Santa Terezinha","faixaCep":"89199-000 a 89199-999"},{"localidade":"Santa Terezinha do Progresso","faixaCep":"89983-000 a 89984-999"},{"localidade":"Santiago do Sul","faixaCep":"89854-000 a 89854-999"},{"localidade":"Santo Amaro da Imperatriz","faixaCep":"88140-000 a 88149-999"},{"localidade":"São Bento do Sul","faixaCep":"89280-001 a 89293-999"},{"localidade":"São Bento do Sul","faixaCep":"89280-001 a 89293-999"},{"localidade":"São Bernardino","faixaCep":"89982-000 a 89982-999"},{"localidade":"São Bonifácio","faixaCep":"88485-000 a 88489-999"},{"localidade":"São Carlos","faixaCep":"89885-000 a 89885-999"},{"localidade":"São Cristóvão do Sul","faixaCep":"89533-000 a 89534-999"},{"localidade":"São Domingos","faixaCep":"89835-000 a 89836-999"},{"localidade":"São Francisco do Sul","faixaCep":"89240-000 a 89244-999"},{"localidade":"São João Batista","faixaCep":"88240-000 a 88259-999"},{"localidade":"São João do Itaperiú","faixaCep":"88395-000 a 88399-999"},{"localidade":"São João do Oeste","faixaCep":"89897-000 a 89897-999"},{"localidade":"São João do Sul","faixaCep":"88970-000 a 88979-999"},{"localidade":"São Joaquim","faixaCep":"88600-000 a 88624-999"},{"localidade":"São José","faixaCep":"88100-001 a 88124-999"},{"localidade":"São José","faixaCep":"88100-001 a 88123-999"},{"localidade":"São José do Cedro","faixaCep":"89930-000 a 89934-999"},{"localidade":"São José do Cerrito","faixaCep":"88570-000 a 88579-999"},{"localidade":"São Lourenço do Oeste","faixaCep":"89990-000 a 89997-999"},{"localidade":"São Ludgero","faixaCep":"88730-000 a 88734-999"},{"localidade":"São Martinho","faixaCep":"88765-000 a 88769-999"},{"localidade":"São Miguel da Boa Vista","faixaCep":"89879-000 a 89879-999"},{"localidade":"São Miguel do Oeste","faixaCep":"89900-000 a 89904-999"},{"localidade":"São Pedro de Alcântara","faixaCep":"88125-000 a 88129-999"},{"localidade":"Saudades","faixaCep":"89868-000 a 89869-999"},{"localidade":"Schroeder","faixaCep":"89275-000 a 89277-999"},{"localidade":"Seara","faixaCep":"89770-000 a 89777-999"},{"localidade":"Serra Alta","faixaCep":"89871-000 a 89871-999"},{"localidade":"Siderópolis","faixaCep":"88860-000 a 88861-999"},{"localidade":"Sombrio","faixaCep":"88960-000 a 88964-999"},{"localidade":"Sul Brasil","faixaCep":"89855-000 a 89855-999"},{"localidade":"Taió","faixaCep":"89190-000 a 89193-999"},{"localidade":"Tangará","faixaCep":"89642-000 a 89649-999"},{"localidade":"Tigrinhos","faixaCep":"89875-000 a 89877-999"},{"localidade":"Tijucas","faixaCep":"88200-000 a 88209-999"},{"localidade":"Timbé do Sul","faixaCep":"88940-000 a 88949-999"},{"localidade":"Timbó","faixaCep":"89120-000 a 89120-999"},{"localidade":"Timbó Grande","faixaCep":"89545-000 a 89549-999"},{"localidade":"Três Barras","faixaCep":"89490-000 a 89499-999"},{"localidade":"Treviso","faixaCep":"88862-000 a 88864-999"},{"localidade":"Treze de Maio","faixaCep":"88710-000 a 88714-999"},{"localidade":"Treze Tílias","faixaCep":"89650-000 a 89651-999"},{"localidade":"Trombudo Central","faixaCep":"89176-000 a 89177-999"},{"localidade":"Tubarão","faixaCep":"88700-001 a 88709-999"},{"localidade":"Tubarão","faixaCep":"88700-001 a 88709-999"},{"localidade":"Tunápolis","faixaCep":"89898-000 a 89898-999"},{"localidade":"Turvo","faixaCep":"88930-000 a 88934-999"},{"localidade":"União do Oeste","faixaCep":"89845-000 a 89847-999"},{"localidade":"Urubici","faixaCep":"88650-000 a 88657-999"},{"localidade":"Urupema","faixaCep":"88625-000 a 88639-999"},{"localidade":"Urussanga","faixaCep":"88840-000 a 88844-999"},{"localidade":"Vargeão","faixaCep":"89690-000 a 89693-999"},{"localidade":"Vargem","faixaCep":"89638-000 a 89639-999"},{"localidade":"Vargem Bonita","faixaCep":"89675-000 a 89676-999"},{"localidade":"Vidal Ramos","faixaCep":"88443-000 a 88444-999"},{"localidade":"Videira","faixaCep":"89560-001 a 89569-999"},{"localidade":"Videira","faixaCep":"89560-001 a 89567-999"},{"localidade":"Vitor Meireles","faixaCep":"89148-000 a 89149-999"},{"localidade":"Witmarsum","faixaCep":"89157-000 a 89159-999"},{"localidade":"Xanxerê","faixaCep":"89820-000 a 89823-999"},{"localidade":"Xavantina","faixaCep":"89780-000 a 89789-999"},{"localidade":"Xaxim","faixaCep":"89825-000 a 89827-999"},{"localidade":"Zortéa","faixaCep":"89633-000 a 89633-999"},{"localidade":"Adamantina","faixaCep":"17800-000 a 17809-999"},{"localidade":"Adolfo","faixaCep":"15230-000 a 15239-999"},{"localidade":"Aguaí","faixaCep":"13860-000 a 13869-999"},{"localidade":"Águas da Prata","faixaCep":"13890-000 a 13899-999"},{"localidade":"Águas de Lindóia","faixaCep":"13940-000 a 13949-999"},{"localidade":"Águas de Santa Bárbara","faixaCep":"18770-000 a 18774-999"},{"localidade":"Águas de São Pedro","faixaCep":"13525-000 a 13529-999"},{"localidade":"Agudos","faixaCep":"17120-001 a 17149-999"},{"localidade":"Agudos","faixaCep":"17120-001 a 17139-999"},{"localidade":"Alambari","faixaCep":"18220-000 a 18224-999"},{"localidade":"Alfredo Marcondes","faixaCep":"19180-000 a 19189-999"},{"localidade":"Altair","faixaCep":"15430-000 a 15439-999"},{"localidade":"Altinópolis","faixaCep":"14350-000 a 14389-999"},{"localidade":"Alto Alegre","faixaCep":"16310-000 a 16339-999"},{"localidade":"Alumínio","faixaCep":"18125-000 a 18129-999"},{"localidade":"Álvares Florence","faixaCep":"15540-000 a 15549-999"},{"localidade":"Álvares Machado","faixaCep":"19160-000 a 19179-999"},{"localidade":"Álvaro de Carvalho","faixaCep":"17410-000 a 17419-999"},{"localidade":"Alvinlândia","faixaCep":"17430-000 a 17439-999"},{"localidade":"Americana","faixaCep":"13465-001 a 13479-999"},{"localidade":"Americana","faixaCep":"13465-001 a 13479-999"},{"localidade":"Américo Brasiliense","faixaCep":"14820-000 a 14824-999"},{"localidade":"Américo de Campos","faixaCep":"15550-000 a 15559-999"},{"localidade":"Amparo","faixaCep":"13900-001 a 13909-999"},{"localidade":"Amparo","faixaCep":"13900-001 a 13909-999"},{"localidade":"Analândia","faixaCep":"13550-000 a 13559-999"},{"localidade":"Andradina","faixaCep":"16900-001 a 16919-999"},{"localidade":"Andradina","faixaCep":"16900-001 a 16914-999"},{"localidade":"Angatuba","faixaCep":"18240-000 a 18244-999"},{"localidade":"Anhembi","faixaCep":"18620-000 a 18639-999"},{"localidade":"Anhumas","faixaCep":"19580-000 a 19589-999"},{"localidade":"Aparecida","faixaCep":"12570-000 a 12579-999"},{"localidade":"Aparecida D\u0027Oeste","faixaCep":"15735-000 a 15739-999"},{"localidade":"Apiaí","faixaCep":"18320-000 a 18324-999"},{"localidade":"Araçariguama","faixaCep":"18147-000 a 18149-999"},{"localidade":"Araçatuba","faixaCep":"16000-001 a 16129-999"},{"localidade":"Araçatuba","faixaCep":"16000-001 a 16129-999"},{"localidade":"Araçoiaba da Serra","faixaCep":"18190-000 a 18194-999"},{"localidade":"Aramina","faixaCep":"14550-000 a 14569-999"},{"localidade":"Arandu","faixaCep":"18710-000 a 18719-999"},{"localidade":"Arapeí","faixaCep":"12870-000 a 12899-999"},{"localidade":"Araraquara","faixaCep":"14800-001 a 14812-999"},{"localidade":"Araraquara","faixaCep":"14800-001 a 14811-999"},{"localidade":"Araras","faixaCep":"13600-001 a 13609-999"},{"localidade":"Araras","faixaCep":"13600-001 a 13609-999"},{"localidade":"Arco-Íris","faixaCep":"17630-000 a 17649-999"},{"localidade":"Arealva","faixaCep":"17160-000 a 17179-999"},{"localidade":"Areias","faixaCep":"12820-000 a 12829-999"},{"localidade":"Areiópolis","faixaCep":"18670-000 a 18674-999"},{"localidade":"Ariranha","faixaCep":"15960-000 a 15969-999"},{"localidade":"Artur Nogueira","faixaCep":"13160-001 a 13169-999"},{"localidade":"Artur Nogueira","faixaCep":"13160-001 a 13169-999"},{"localidade":"Arujá","faixaCep":"07400-001 a 07499-999"},{"localidade":"Arujá","faixaCep":"07400-001 a 07499-999"},{"localidade":"Aspásia","faixaCep":"15763-000 a 15764-999"},{"localidade":"Assis","faixaCep":"19800-001 a 19819-999"},{"localidade":"Assis","faixaCep":"19800-001 a 19819-999"},{"localidade":"Atibaia","faixaCep":"12940-001 a 12954-999"},{"localidade":"Atibaia","faixaCep":"12940-001 a 12954-999"},{"localidade":"Auriflama","faixaCep":"15350-000 a 15354-999"},{"localidade":"Avaí","faixaCep":"16680-000 a 16699-999"},{"localidade":"Avanhandava","faixaCep":"16360-000 a 16369-999"},{"localidade":"Avaré","faixaCep":"18700-001 a 18709-999"},{"localidade":"Avaré","faixaCep":"18700-001 a 18709-999"},{"localidade":"Bady Bassitt","faixaCep":"15115-000 a 15119-999"},{"localidade":"Balbinos","faixaCep":"16640-000 a 16649-999"},{"localidade":"Bálsamo","faixaCep":"15140-000 a 15144-999"},{"localidade":"Bananal","faixaCep":"12850-000 a 12869-999"},{"localidade":"Barão de Antonina","faixaCep":"18490-000 a 18499-999"},{"localidade":"Barbosa","faixaCep":"16350-000 a 16359-999"},{"localidade":"Bariri","faixaCep":"17250-000 a 17259-999"},{"localidade":"Barra Bonita","faixaCep":"17340-000 a 17349-999"},{"localidade":"Barra do Chapéu","faixaCep":"18325-000 a 18329-999"},{"localidade":"Barra do Turvo","faixaCep":"11955-000 a 11959-999"},{"localidade":"Barretos","faixaCep":"14780-001 a 14789-999"},{"localidade":"Barretos","faixaCep":"14780-001 a 14789-999"},{"localidade":"Barrinha","faixaCep":"14860-000 a 14869-999"},{"localidade":"Barueri","faixaCep":"06400-001 a 06499-999"},{"localidade":"Barueri","faixaCep":"06400-001 a 06499-999"},{"localidade":"Bastos","faixaCep":"17690-000 a 17699-999"},{"localidade":"Batatais","faixaCep":"14300-001 a 14339-999"},{"localidade":"Batatais","faixaCep":"14300-001 a 14319-999"},{"localidade":"Bauru","faixaCep":"17000-001 a 17119-999"},{"localidade":"Bauru","faixaCep":"17000-001 a 17110-999"},{"localidade":"Bebedouro","faixaCep":"14700-001 a 14719-999"},{"localidade":"Bebedouro","faixaCep":"14700-001 a 14718-999"},{"localidade":"Bento de Abreu","faixaCep":"16790-000 a 16799-999"},{"localidade":"Bernardino de Campos","faixaCep":"18960-000 a 18969-999"},{"localidade":"Bertioga","faixaCep":"11250-000 a 11299-999"},{"localidade":"Bertioga","faixaCep":"11250-001 a 11299-999"},{"localidade":"Bilac","faixaCep":"16210-000 a 16219-999"},{"localidade":"Birigüi","faixaCep":"16200-001 a 16209-999"},{"localidade":"Birigüi","faixaCep":"16200-001 a 16209-999"},{"localidade":"Biritiba-Mirim","faixaCep":"08940-000 a 08969-999"},{"localidade":"Boa Esperança do Sul","faixaCep":"14930-000 a 14934-999"},{"localidade":"Bocaina","faixaCep":"17240-000 a 17249-999"},{"localidade":"Bofete","faixaCep":"18590-000 a 18599-999"},{"localidade":"Boituva","faixaCep":"18550-000 a 18559-999"},{"localidade":"Bom Jesus dos Perdões","faixaCep":"12955-000 a 12959-999"},{"localidade":"Bom Sucesso de Itararé","faixaCep":"18475-000 a 18479-999"},{"localidade":"Borá","faixaCep":"19740-000 a 19749-999"},{"localidade":"Boracéia","faixaCep":"17270-000 a 17279-999"},{"localidade":"Borborema","faixaCep":"14955-000 a 14959-999"},{"localidade":"Borebi","faixaCep":"18675-000 a 18679-999"},{"localidade":"Botucatu","faixaCep":"18600-001 a 18619-999"},{"localidade":"Botucatu","faixaCep":"18600-001 a 18619-999"},{"localidade":"Bragança Paulista","faixaCep":"12900-001 a 12929-999"},{"localidade":"Bragança Paulista","faixaCep":"12900-001 a 12929-999"},{"localidade":"Braúna","faixaCep":"16290-000 a 16299-999"},{"localidade":"Brejo Alegre","faixaCep":"16265-000 a 16269-999"},{"localidade":"Brodowski","faixaCep":"14340-000 a 14349-999"},{"localidade":"Brotas","faixaCep":"17380-000 a 17399-999"},{"localidade":"Buri","faixaCep":"18290-000 a 18299-999"},{"localidade":"Buritama","faixaCep":"15290-000 a 15299-999"},{"localidade":"Buritizal","faixaCep":"14570-000 a 14579-999"},{"localidade":"Cabrália Paulista","faixaCep":"17480-000 a 17489-999"},{"localidade":"Cabreúva","faixaCep":"13315-000 a 13319-999"},{"localidade":"Caçapava","faixaCep":"12280-001 a 12299-999"},{"localidade":"Caçapava","faixaCep":"12280-001 a 12299-999"},{"localidade":"Cachoeira Paulista","faixaCep":"12630-000 a 12689-999"},{"localidade":"Caconde","faixaCep":"13770-000 a 13779-999"},{"localidade":"Cafelândia","faixaCep":"16500-000 a 16569-999"},{"localidade":"Caiabu","faixaCep":"19530-000 a 19559-999"},{"localidade":"Caieiras","faixaCep":"07700-001 a 07749-999"},{"localidade":"Caieiras","faixaCep":"07700-001 a 07749-999"},{"localidade":"Caiuá","faixaCep":"19450-000 a 19469-999"},{"localidade":"Cajamar","faixaCep":"07750-001 a 07799-999"},{"localidade":"Cajamar","faixaCep":"07750-001 a 07799-999"},{"localidade":"Cajati","faixaCep":"11950-000 a 11954-999"},{"localidade":"Cajobi","faixaCep":"15410-000 a 15419-999"},{"localidade":"Cajuru","faixaCep":"14240-000 a 14249-999"},{"localidade":"Campina do Monte Alegre","faixaCep":"18245-000 a 18249-999"},{"localidade":"Campinas","faixaCep":"13000-001 a 13139-999"},{"localidade":"Campinas","faixaCep":"13000-001 a 13139-999"},{"localidade":"Campo Limpo Paulista","faixaCep":"13230-001 a 13239-999"},{"localidade":"Campo Limpo Paulista","faixaCep":"13230-001 a 13239-999"},{"localidade":"Campos do Jordão","faixaCep":"12460-000 a 12489-999"},{"localidade":"Campos Novos Paulista","faixaCep":"19960-000 a 19969-999"},{"localidade":"Cananéia","faixaCep":"11990-000 a 11999-999"},{"localidade":"Canas","faixaCep":"12615-000 a 12619-999"},{"localidade":"Cândido Mota","faixaCep":"19880-000 a 19899-999"},{"localidade":"Cândido Rodrigues","faixaCep":"15930-000 a 15939-999"},{"localidade":"Canitar","faixaCep":"18990-001 a 18999-999"},{"localidade":"Canitar","faixaCep":"18990-001 a 18994-999"},{"localidade":"Capão Bonito","faixaCep":"18300-001 a 18309-999"},{"localidade":"Capão Bonito","faixaCep":"18300-001 a 18308-999"},{"localidade":"Capela do Alto","faixaCep":"18195-000 a 18199-999"},{"localidade":"Capivari","faixaCep":"13360-000 a 13369-999"},{"localidade":"Caraguatatuba","faixaCep":"11660-001 a 11679-999"},{"localidade":"Caraguatatuba","faixaCep":"11660-001 a 11679-999"},{"localidade":"Carapicuíba","faixaCep":"06300-001 a 06399-999"},{"localidade":"Carapicuíba","faixaCep":"06300-001 a 06399-999"},{"localidade":"Cardoso","faixaCep":"15570-000 a 15579-999"},{"localidade":"Casa Branca","faixaCep":"13700-000 a 13709-999"},{"localidade":"Cássia dos Coqueiros","faixaCep":"14260-000 a 14269-999"},{"localidade":"Castilho","faixaCep":"16920-000 a 16939-999"},{"localidade":"Catanduva","faixaCep":"15800-001 a 15819-999"},{"localidade":"Catanduva","faixaCep":"15800-001 a 15819-999"},{"localidade":"Catiguá","faixaCep":"15870-000 a 15879-999"},{"localidade":"Cedral","faixaCep":"15895-000 a 15899-999"},{"localidade":"Cerqueira César","faixaCep":"18760-001 a 18769-999"},{"localidade":"Cerqueira César","faixaCep":"18760-001 a 18769-999"},{"localidade":"Cerquilho","faixaCep":"18520-000 a 18529-999"},{"localidade":"Cesário Lange","faixaCep":"18285-000 a 18289-999"},{"localidade":"Charqueada","faixaCep":"13515-000 a 13519-999"},{"localidade":"Chavantes","faixaCep":"18970-001 a 18989-999"},{"localidade":"Chavantes","faixaCep":"18970-001 a 18989-999"},{"localidade":"Clementina","faixaCep":"16250-000 a 16259-999"},{"localidade":"Colina","faixaCep":"14770-000 a 14774-999"},{"localidade":"Colômbia","faixaCep":"14795-000 a 14799-999"},{"localidade":"Conchal","faixaCep":"13835-000 a 13839-999"},{"localidade":"Conchas","faixaCep":"18570-000 a 18579-999"},{"localidade":"Cordeirópolis","faixaCep":"13490-000 a 13494-999"},{"localidade":"Coroados","faixaCep":"16260-000 a 16264-999"},{"localidade":"Coronel Macedo","faixaCep":"18745-000 a 18759-999"},{"localidade":"Corumbataí","faixaCep":"13540-000 a 13549-999"},{"localidade":"Cosmópolis","faixaCep":"13150-001 a 13159-999"},{"localidade":"Cosmópolis","faixaCep":"13150-001 a 13159-999"},{"localidade":"Cosmorama","faixaCep":"15530-000 a 15539-999"},{"localidade":"Cotia","faixaCep":"06700-001 a 06729-999"},{"localidade":"Cotia","faixaCep":"06700-001 a 06729-999"},{"localidade":"Cravinhos","faixaCep":"14140-000 a 14149-999"},{"localidade":"Cristais Paulista","faixaCep":"14460-000 a 14469-999"},{"localidade":"Cruzália","faixaCep":"19860-000 a 19864-999"},{"localidade":"Cruzeiro","faixaCep":"12700-001 a 12759-999"},{"localidade":"Cruzeiro","faixaCep":"12700-001 a 12759-999"},{"localidade":"Cubatão","faixaCep":"11500-001 a 11599-999"},{"localidade":"Cubatão","faixaCep":"11500-001 a 11599-999"},{"localidade":"Cunha","faixaCep":"12530-000 a 12569-999"},{"localidade":"Descalvado","faixaCep":"13690-000 a 13699-999"},{"localidade":"Diadema","faixaCep":"09900-001 a 09999-999"},{"localidade":"Diadema","faixaCep":"09900-001 a 09999-999"},{"localidade":"Dirce Reis","faixaCep":"15715-000 a 15717-999"},{"localidade":"Divinolândia","faixaCep":"13780-000 a 13789-999"},{"localidade":"Dobrada","faixaCep":"15980-000 a 15989-999"},{"localidade":"Dois Córregos","faixaCep":"17300-000 a 17319-999"},{"localidade":"Dolcinópolis","faixaCep":"15740-000 a 15744-999"},{"localidade":"Dourado","faixaCep":"13590-000 a 13599-999"},{"localidade":"Dracena","faixaCep":"17900-000 a 17919-999"},{"localidade":"Duartina","faixaCep":"17470-000 a 17474-999"},{"localidade":"Dumont","faixaCep":"14120-000 a 14139-999"},{"localidade":"Echaporã","faixaCep":"19830-000 a 19839-999"},{"localidade":"Eldorado","faixaCep":"11960-000 a 11989-999"},{"localidade":"Elias Fausto","faixaCep":"13350-000 a 13359-999"},{"localidade":"Elisiário","faixaCep":"15823-000 a 15824-999"},{"localidade":"Embaúba","faixaCep":"15425-000 a 15429-999"},{"localidade":"Embu das Artes","faixaCep":"06800-001 a 06849-999"},{"localidade":"Embu das Artes","faixaCep":"06800-001 a 06849-999"},{"localidade":"Embu-Guaçu","faixaCep":"06900-000 a 06949-999"},{"localidade":"Emilianópolis","faixaCep":"19350-000 a 19359-999"},{"localidade":"Engenheiro Coelho","faixaCep":"13445-001 a 13449-999"},{"localidade":"Engenheiro Coelho","faixaCep":"13445-001 a 13449-999"},{"localidade":"Espírito Santo do Pinhal","faixaCep":"13990-000 a 13994-999"},{"localidade":"Espírito Santo do Turvo","faixaCep":"18935-001 a 18939-999"},{"localidade":"Espírito Santo do Turvo","faixaCep":"18935-001 a 18939-999"},{"localidade":"Estiva Gerbi","faixaCep":"13857-000 a 13859-999"},{"localidade":"Estrela do Norte","faixaCep":"19230-000 a 19249-999"},{"localidade":"Estrela D\u0027Oeste","faixaCep":"15650-000 a 15669-999"},{"localidade":"Euclides da Cunha Paulista","faixaCep":"19275-000 a 19279-999"},{"localidade":"Fartura","faixaCep":"18870-000 a 18889-999"},{"localidade":"Fernando Prestes","faixaCep":"15940-000 a 15949-999"},{"localidade":"Fernandópolis","faixaCep":"15600-001 a 15619-999"},{"localidade":"Fernandópolis","faixaCep":"15600-001 a 15614-999"},{"localidade":"Fernão","faixaCep":"17455-000 a 17469-999"},{"localidade":"Ferraz de Vasconcelos","faixaCep":"08500-001 a 08549-999"},{"localidade":"Ferraz de Vasconcelos","faixaCep":"08500-001 a 08549-999"},{"localidade":"Flora Rica","faixaCep":"17870-000 a 17879-999"},{"localidade":"Floreal","faixaCep":"15320-000 a 15329-999"},{"localidade":"Flórida Paulista","faixaCep":"17830-000 a 17859-999"},{"localidade":"Florínea","faixaCep":"19870-000 a 19879-999"},{"localidade":"Franca","faixaCep":"14400-001 a 14414-999"},{"localidade":"Franca","faixaCep":"14400-001 a 14414-999"},{"localidade":"Francisco Morato","faixaCep":"07900-001 a 07999-999"},{"localidade":"Francisco Morato","faixaCep":"07900-001 a 07999-999"},{"localidade":"Franco da Rocha","faixaCep":"07800-001 a 07899-999"},{"localidade":"Franco da Rocha","faixaCep":"07800-001 a 07899-999"},{"localidade":"Gabriel Monteiro","faixaCep":"16220-000 a 16229-999"},{"localidade":"Gália","faixaCep":"17450-000 a 17454-999"},{"localidade":"Garça","faixaCep":"17400-000 a 17409-999"},{"localidade":"Gastão Vidigal","faixaCep":"15330-000 a 15339-999"},{"localidade":"Gavião Peixoto","faixaCep":"14813-000 a 14814-999"},{"localidade":"General Salgado","faixaCep":"15300-000 a 15309-999"},{"localidade":"Getulina","faixaCep":"16450-000 a 16479-999"},{"localidade":"Glicério","faixaCep":"16270-000 a 16289-999"},{"localidade":"Guaiçara","faixaCep":"16430-000 a 16439-999"},{"localidade":"Guaimbê","faixaCep":"16480-000 a 16499-999"},{"localidade":"Guaíra","faixaCep":"14790-000 a 14794-999"},{"localidade":"Guapiaçu","faixaCep":"15110-000 a 15114-999"},{"localidade":"Guapiara","faixaCep":"18310-000 a 18314-999"},{"localidade":"Guará","faixaCep":"14580-000 a 14599-999"},{"localidade":"Guaraçaí","faixaCep":"16980-000 a 16999-999"},{"localidade":"Guaraci","faixaCep":"15420-000 a 15424-999"},{"localidade":"Guarani D\u0027Oeste","faixaCep":"15680-000 a 15684-999"},{"localidade":"Guarantã","faixaCep":"16570-000 a 16599-999"},{"localidade":"Guararapes","faixaCep":"16700-000 a 16749-999"},{"localidade":"Guararema","faixaCep":"08900-000 a 08939-999"},{"localidade":"Guaratinguetá","faixaCep":"12500-001 a 12524-999"},{"localidade":"Guaratinguetá","faixaCep":"12500-001 a 12524-999"},{"localidade":"Guareí","faixaCep":"18250-000 a 18254-999"},{"localidade":"Guariba","faixaCep":"14840-000 a 14849-999"},{"localidade":"Guarujá","faixaCep":"11400-001 a 11499-999"},{"localidade":"Guarujá","faixaCep":"11400-001 a 11499-999"},{"localidade":"Guarulhos","faixaCep":"07000-001 a 07399-999"},{"localidade":"Guarulhos","faixaCep":"07000-001 a 07399-999"},{"localidade":"Guatapará","faixaCep":"14115-000 a 14119-999"},{"localidade":"Guzolândia","faixaCep":"15355-000 a 15359-999"},{"localidade":"Herculândia","faixaCep":"17650-000 a 17669-999"},{"localidade":"Holambra","faixaCep":"13825-000 a 13829-999"},{"localidade":"Hortolândia","faixaCep":"13183-001 a 13189-999"},{"localidade":"Hortolândia","faixaCep":"13183-001 a 13189-999"},{"localidade":"Iacanga","faixaCep":"17180-000 a 17189-999"},{"localidade":"Iacri","faixaCep":"17680-000 a 17689-999"},{"localidade":"Iaras","faixaCep":"18775-000 a 18779-999"},{"localidade":"Ibaté","faixaCep":"14815-000 a 14819-999"},{"localidade":"Ibirá","faixaCep":"15860-000 a 15869-999"},{"localidade":"Ibirarema","faixaCep":"19940-000 a 19959-999"},{"localidade":"Ibitinga","faixaCep":"14940-001 a 14954-999"},{"localidade":"Ibitinga","faixaCep":"14940-001 a 14949-999"},{"localidade":"Ibiúna","faixaCep":"18150-000 a 18159-999"},{"localidade":"Icém","faixaCep":"15460-000 a 15469-999"},{"localidade":"Iepê","faixaCep":"19640-000 a 19644-999"},{"localidade":"Igaraçu do Tietê","faixaCep":"17350-000 a 17359-999"},{"localidade":"Igarapava","faixaCep":"14540-000 a 14549-999"},{"localidade":"Igaratá","faixaCep":"12350-000 a 12379-999"},{"localidade":"Iguape","faixaCep":"11920-000 a 11924-999"},{"localidade":"Ilha Comprida","faixaCep":"11925-000 a 11929-999"},{"localidade":"Ilha Solteira","faixaCep":"15385-000 a 15389-999"},{"localidade":"Ilhabela","faixaCep":"11630-000 a 11659-999"},{"localidade":"Indaiatuba","faixaCep":"13330-001 a 13349-999"},{"localidade":"Indaiatuba","faixaCep":"13330-001 a 13349-999"},{"localidade":"Indiana","faixaCep":"19560-000 a 19569-999"},{"localidade":"Indiaporã","faixaCep":"15690-000 a 15699-999"},{"localidade":"Inúbia Paulista","faixaCep":"17760-000 a 17779-999"},{"localidade":"Ipaussu","faixaCep":"18950-000 a 18959-999"},{"localidade":"Iperó","faixaCep":"18560-000 a 18569-999"},{"localidade":"Ipeúna","faixaCep":"13537-000 a 13539-999"},{"localidade":"Ipiguá","faixaCep":"15108-000 a 15109-999"},{"localidade":"Iporanga","faixaCep":"18330-000 a 18359-999"},{"localidade":"Ipuã","faixaCep":"14610-000 a 14619-999"},{"localidade":"Iracemápolis","faixaCep":"13495-000 a 13499-999"},{"localidade":"Irapuã","faixaCep":"14990-000 a 14999-999"},{"localidade":"Irapuru","faixaCep":"17880-000 a 17889-999"},{"localidade":"Itaberá","faixaCep":"18440-000 a 18459-999"},{"localidade":"Itaí","faixaCep":"18730-001 a 18739-999"},{"localidade":"Itaí","faixaCep":"18730-001 a 18739-999"},{"localidade":"Itajobi","faixaCep":"15840-000 a 15844-999"},{"localidade":"Itaju","faixaCep":"17260-000 a 17269-999"},{"localidade":"Itanhaém","faixaCep":"11740-000 a 11749-999"},{"localidade":"Itaóca","faixaCep":"18360-000 a 18379-999"},{"localidade":"Itapecerica da Serra","faixaCep":"06850-001 a 06889-999"},{"localidade":"Itapecerica da Serra","faixaCep":"06850-001 a 06889-999"},{"localidade":"Itapetininga","faixaCep":"18200-001 a 18219-999"},{"localidade":"Itapetininga","faixaCep":"18200-001 a 18215-999"},{"localidade":"Itapeva","faixaCep":"18400-001 a 18424-999"},{"localidade":"Itapeva","faixaCep":"18400-001 a 18419-999"},{"localidade":"Itapevi","faixaCep":"06650-001 a 06699-999"},{"localidade":"Itapevi","faixaCep":"06650-001 a 06699-999"},{"localidade":"Itapira","faixaCep":"13970-001 a 13989-999"},{"localidade":"Itapira","faixaCep":"13970-001 a 13985-999"},{"localidade":"Itapirapuã Paulista","faixaCep":"18385-000 a 18399-999"},{"localidade":"Itápolis","faixaCep":"14900-000 a 14909-999"},{"localidade":"Itaporanga","faixaCep":"18480-000 a 18489-999"},{"localidade":"Itapuí","faixaCep":"17230-000 a 17239-999"},{"localidade":"Itapura","faixaCep":"15390-000 a 15399-999"},{"localidade":"Itaquaquecetuba","faixaCep":"08570-001 a 08599-999"},{"localidade":"Itaquaquecetuba","faixaCep":"08570-001 a 08599-999"},{"localidade":"Itararé","faixaCep":"18460-000 a 18469-999"},{"localidade":"Itariri","faixaCep":"11760-000 a 11789-999"},{"localidade":"Itatiba","faixaCep":"13250-001 a 13259-999"},{"localidade":"Itatiba","faixaCep":"13250-001 a 13259-999"},{"localidade":"Itatinga","faixaCep":"18690-000 a 18699-999"},{"localidade":"Itirapina","faixaCep":"13530-000 a 13536-999"},{"localidade":"Itirapuã","faixaCep":"14420-000 a 14429-999"},{"localidade":"Itobi","faixaCep":"13715-000 a 13719-999"},{"localidade":"Itu","faixaCep":"13300-001 a 13314-999"},{"localidade":"Itu","faixaCep":"13300-001 a 13314-999"},{"localidade":"Itupeva","faixaCep":"13295-000 a 13299-999"},{"localidade":"Ituverava","faixaCep":"14500-000 a 14529-999"},{"localidade":"Jaborandi","faixaCep":"14775-000 a 14779-999"},{"localidade":"Jaboticabal","faixaCep":"14870-001 a 14899-999"},{"localidade":"Jaboticabal","faixaCep":"14870-001 a 14898-999"},{"localidade":"Jacareí","faixaCep":"12300-001 a 12349-999"},{"localidade":"Jacareí","faixaCep":"12300-001 a 12349-999"},{"localidade":"Jaci","faixaCep":"15155-000 a 15159-999"},{"localidade":"Jacupiranga","faixaCep":"11940-000 a 11949-999"},{"localidade":"Jaguariúna","faixaCep":"13910-001 a 13919-999"},{"localidade":"Jaguariúna","faixaCep":"13910-001 a 13919-999"},{"localidade":"Jales","faixaCep":"15700-001 a 15709-999"},{"localidade":"Jales","faixaCep":"15700-001 a 15709-999"},{"localidade":"Jambeiro","faixaCep":"12270-000 a 12279-999"},{"localidade":"Jandira","faixaCep":"06600-001 a 06649-999"},{"localidade":"Jandira","faixaCep":"06600-001 a 06649-999"},{"localidade":"Jardinópolis","faixaCep":"14680-000 a 14699-999"},{"localidade":"Jarinu","faixaCep":"13240-000 a 13249-999"},{"localidade":"Jaú","faixaCep":"17200-001 a 17229-999"},{"localidade":"Jaú","faixaCep":"17200-001 a 17220-999"},{"localidade":"Jeriquara","faixaCep":"14450-000 a 14459-999"},{"localidade":"Joanópolis","faixaCep":"12980-000 a 12989-999"},{"localidade":"João Ramalho","faixaCep":"19680-000 a 19699-999"},{"localidade":"José Bonifácio","faixaCep":"15200-000 a 15209-999"},{"localidade":"Júlio Mesquita","faixaCep":"17550-000 a 17559-999"},{"localidade":"Jumirim","faixaCep":"18535-000 a 18539-999"},{"localidade":"Jundiaí","faixaCep":"13200-001 a 13219-999"},{"localidade":"Jundiaí","faixaCep":"13200-001 a 13219-999"},{"localidade":"Junqueirópolis","faixaCep":"17890-000 a 17899-999"},{"localidade":"Juquiá","faixaCep":"11800-000 a 11849-999"},{"localidade":"Juquitiba","faixaCep":"06950-000 a 06999-999"},{"localidade":"Lagoinha","faixaCep":"12130-000 a 12139-999"},{"localidade":"Laranjal Paulista","faixaCep":"18500-000 a 18519-999"},{"localidade":"Lavínia","faixaCep":"16850-000 a 16879-999"},{"localidade":"Lavrinhas","faixaCep":"12760-000 a 12799-999"},{"localidade":"Leme","faixaCep":"13610-001 a 13624-999"},{"localidade":"Leme","faixaCep":"13610-001 a 13624-999"},{"localidade":"Lençóis Paulista","faixaCep":"18680-001 a 18689-999"},{"localidade":"Lençóis Paulista","faixaCep":"18680-001 a 18687-999"},{"localidade":"Limeira","faixaCep":"13480-001 a 13489-999"},{"localidade":"Limeira","faixaCep":"13480-001 a 13489-999"},{"localidade":"Lindóia","faixaCep":"13950-000 a 13959-999"},{"localidade":"Lins","faixaCep":"16400-001 a 16429-999"},{"localidade":"Lins","faixaCep":"16400-001 a 16419-999"},{"localidade":"Lorena","faixaCep":"12600-001 a 12614-999"},{"localidade":"Lorena","faixaCep":"12600-001 a 12614-999"},{"localidade":"Lourdes","faixaCep":"15285-000 a 15289-999"},{"localidade":"Louveira","faixaCep":"13290-000 a 13294-999"},{"localidade":"Lucélia","faixaCep":"17780-000 a 17789-999"},{"localidade":"Lucianópolis","faixaCep":"17475-000 a 17479-999"},{"localidade":"Luís Antônio","faixaCep":"14210-000 a 14229-999"},{"localidade":"Luiziânia","faixaCep":"16340-000 a 16349-999"},{"localidade":"Lupércio","faixaCep":"17420-000 a 17429-999"},{"localidade":"Lutécia","faixaCep":"19750-000 a 19769-999"},{"localidade":"Macatuba","faixaCep":"17290-000 a 17299-999"},{"localidade":"Macaubal","faixaCep":"15270-000 a 15274-999"},{"localidade":"Macedônia","faixaCep":"15620-000 a 15624-999"},{"localidade":"Mágda","faixaCep":"15310-000 a 15312-999"},{"localidade":"Mairinque","faixaCep":"18120-000 a 18124-999"},{"localidade":"Mairiporã","faixaCep":"07600-000 a 07699-999"},{"localidade":"Manduri","faixaCep":"18780-000 a 18789-999"},{"localidade":"Marabá Paulista","faixaCep":"19430-000 a 19449-999"},{"localidade":"Maracaí","faixaCep":"19840-000 a 19859-999"},{"localidade":"Marapoama","faixaCep":"15845-000 a 15849-999"},{"localidade":"Mariápolis","faixaCep":"17810-000 a 17829-999"},{"localidade":"Marília","faixaCep":"17500-001 a 17539-999"},{"localidade":"Marília","faixaCep":"17500-001 a 17539-999"},{"localidade":"Marinópolis","faixaCep":"15730-000 a 15734-999"},{"localidade":"Martinópolis","faixaCep":"19500-000 a 19529-999"},{"localidade":"Matão","faixaCep":"15990-001 a 15999-999"},{"localidade":"Matão","faixaCep":"15990-001 a 15999-999"},{"localidade":"Mauá","faixaCep":"09300-001 a 09399-999"},{"localidade":"Mauá","faixaCep":"09300-001 a 09399-999"},{"localidade":"Mendonça","faixaCep":"15220-000 a 15224-999"},{"localidade":"Meridiano","faixaCep":"15625-000 a 15629-999"},{"localidade":"Mesópolis","faixaCep":"15748-000 a 15749-999"},{"localidade":"Miguelópolis","faixaCep":"14530-000 a 14539-999"},{"localidade":"Mineiros do Tietê","faixaCep":"17320-000 a 17339-999"},{"localidade":"Mira Estrela","faixaCep":"15580-000 a 15599-999"},{"localidade":"Miracatu","faixaCep":"11850-000 a 11899-999"},{"localidade":"Mirandópolis","faixaCep":"16800-000 a 16849-999"},{"localidade":"Mirante do Paranapanema","faixaCep":"19260-000 a 19272-999"},{"localidade":"Mirassol","faixaCep":"15130-001 a 15139-999"},{"localidade":"Mirassol","faixaCep":"15130-001 a 15139-999"},{"localidade":"Mirassolândia","faixaCep":"15145-000 a 15149-999"},{"localidade":"Mococa","faixaCep":"13730-001 a 13759-999"},{"localidade":"Mococa","faixaCep":"13730-001 a 13749-999"},{"localidade":"Mogi das Cruzes","faixaCep":"08700-001 a 08899-999"},{"localidade":"Mogi das Cruzes","faixaCep":"08700-001 a 08889-999"},{"localidade":"Mogi Guaçu","faixaCep":"13840-001 a 13856-999"},{"localidade":"Mogi Guaçu","faixaCep":"13840-001 a 13855-999"},{"localidade":"Mogi Mirim","faixaCep":"13800-001 a 13819-999"},{"localidade":"Mogi Mirim","faixaCep":"13800-001 a 13817-999"},{"localidade":"Mombuca","faixaCep":"13375-000 a 13379-999"},{"localidade":"Monções","faixaCep":"15275-000 a 15279-999"},{"localidade":"Mongaguá","faixaCep":"11730-000 a 11739-999"},{"localidade":"Monte Alegre do Sul","faixaCep":"13820-000 a 13824-999"},{"localidade":"Monte Alto","faixaCep":"15910-000 a 15919-999"},{"localidade":"Monte Aprazível","faixaCep":"15150-000 a 15154-999"},{"localidade":"Monte Azul Paulista","faixaCep":"14730-000 a 14734-999"},{"localidade":"Monte Castelo","faixaCep":"17960-000 a 17969-999"},{"localidade":"Monte Mor","faixaCep":"13190-000 a 13199-999"},{"localidade":"Monteiro Lobato","faixaCep":"12250-000 a 12259-999"},{"localidade":"Morro Agudo","faixaCep":"14640-000 a 14659-999"},{"localidade":"Morungaba","faixaCep":"13260-000 a 13269-999"},{"localidade":"Motuca","faixaCep":"14835-000 a 14839-999"},{"localidade":"Murutinga do Sul","faixaCep":"16950-000 a 16979-999"},{"localidade":"Nantes","faixaCep":"19645-000 a 19679-999"},{"localidade":"Narandiba","faixaCep":"19220-000 a 19229-999"},{"localidade":"Natividade da Serra","faixaCep":"12180-000 a 12199-999"},{"localidade":"Nazaré Paulista","faixaCep":"12960-000 a 12969-999"},{"localidade":"Neves Paulista","faixaCep":"15120-000 a 15129-999"},{"localidade":"Nhandeara","faixaCep":"15190-000 a 15199-999"},{"localidade":"Nipoã","faixaCep":"15240-000 a 15249-999"},{"localidade":"Nova Aliança","faixaCep":"15210-000 a 15219-999"},{"localidade":"Nova Campina","faixaCep":"18435-000 a 18439-999"},{"localidade":"Nova Canaã Paulista","faixaCep":"15773-000 a 15774-999"},{"localidade":"Nova Castilho","faixaCep":"15313-000 a 15314-999"},{"localidade":"Nova Europa","faixaCep":"14920-000 a 14929-999"},{"localidade":"Nova Granada","faixaCep":"15440-000 a 15449-999"},{"localidade":"Nova Guataporanga","faixaCep":"17950-000 a 17959-999"},{"localidade":"Nova Independência","faixaCep":"16940-000 a 16949-999"},{"localidade":"Nova Luzitânia","faixaCep":"15340-000 a 15349-999"},{"localidade":"Nova Odessa","faixaCep":"13380-001 a 13389-999"},{"localidade":"Nova Odessa","faixaCep":"13380-001 a 13389-999"},{"localidade":"Novais","faixaCep":"15885-000 a 15889-999"},{"localidade":"Novo Horizonte","faixaCep":"14960-000 a 14979-999"},{"localidade":"Nuporanga","faixaCep":"14670-000 a 14679-999"},{"localidade":"Ocauçu","faixaCep":"17540-000 a 17549-999"},{"localidade":"Óleo","faixaCep":"18790-000 a 18799-999"},{"localidade":"Olímpia","faixaCep":"15400-000 a 15409-999"},{"localidade":"Onda Verde","faixaCep":"15450-000 a 15459-999"},{"localidade":"Oriente","faixaCep":"17570-000 a 17579-999"},{"localidade":"Orindiúva","faixaCep":"15480-000 a 15489-999"},{"localidade":"Orlândia","faixaCep":"14620-000 a 14639-999"},{"localidade":"Osasco","faixaCep":"06000-001 a 06299-999"},{"localidade":"Osasco","faixaCep":"06000-001 a 06299-999"},{"localidade":"Oscar Bressane","faixaCep":"19770-000 a 19779-999"},{"localidade":"Osvaldo Cruz","faixaCep":"17700-000 a 17709-999"},{"localidade":"Ourinhos","faixaCep":"19900-001 a 19919-999"},{"localidade":"Ourinhos","faixaCep":"19900-001 a 19919-999"},{"localidade":"Ouro Verde","faixaCep":"17920-000 a 17929-999"},{"localidade":"Ouroeste","faixaCep":"15685-000 a 15689-999"},{"localidade":"Pacaembu","faixaCep":"17860-000 a 17869-999"},{"localidade":"Palestina","faixaCep":"15470-000 a 15479-999"},{"localidade":"Palmares Paulista","faixaCep":"15828-000 a 15829-999"},{"localidade":"Palmeira D\u0027Oeste","faixaCep":"15720-000 a 15729-999"},{"localidade":"Palmital","faixaCep":"19970-000 a 19989-999"},{"localidade":"Panorama","faixaCep":"17980-000 a 17989-999"},{"localidade":"Paraguaçu Paulista","faixaCep":"19700-000 a 19739-999"},{"localidade":"Paraibuna","faixaCep":"12260-000 a 12269-999"},{"localidade":"Paraíso","faixaCep":"15825-000 a 15827-999"},{"localidade":"Paranapanema","faixaCep":"18720-000 a 18729-999"},{"localidade":"Paranapuã","faixaCep":"15745-000 a 15747-999"},{"localidade":"Parapuã","faixaCep":"17730-000 a 17739-999"},{"localidade":"Pardinho","faixaCep":"18640-000 a 18649-999"},{"localidade":"Pariquera-Açu","faixaCep":"11930-000 a 11939-999"},{"localidade":"Parisi","faixaCep":"15525-000 a 15529-999"},{"localidade":"Patrocínio Paulista","faixaCep":"14415-000 a 14419-999"},{"localidade":"Paulicéia","faixaCep":"17990-000 a 17999-999"},{"localidade":"Paulínia","faixaCep":"13140-001 a 13149-999"},{"localidade":"Paulínia","faixaCep":"13140-001 a 13149-999"},{"localidade":"Paulistânia","faixaCep":"17150-001 a 17159-999"},{"localidade":"Paulistânia","faixaCep":"17150-001 a 17154-999"},{"localidade":"Paulo de Faria","faixaCep":"15490-000 a 15494-999"},{"localidade":"Pederneiras","faixaCep":"17280-000 a 17289-999"},{"localidade":"Pedra Bela","faixaCep":"12990-000 a 12994-999"},{"localidade":"Pedranópolis","faixaCep":"15630-000 a 15639-999"},{"localidade":"Pedregulho","faixaCep":"14470-000 a 14489-999"},{"localidade":"Pedreira","faixaCep":"13920-000 a 13929-999"},{"localidade":"Pedrinhas Paulista","faixaCep":"19865-000 a 19869-999"},{"localidade":"Pedro de Toledo","faixaCep":"11790-000 a 11799-999"},{"localidade":"Penápolis","faixaCep":"16300-001 a 16309-999"},{"localidade":"Penápolis","faixaCep":"16300-001 a 16309-999"},{"localidade":"Pereira Barreto","faixaCep":"15370-000 a 15379-999"},{"localidade":"Pereiras","faixaCep":"18580-000 a 18589-999"},{"localidade":"Peruíbe","faixaCep":"11750-000 a 11759-999"},{"localidade":"Piacatu","faixaCep":"16230-000 a 16239-999"},{"localidade":"Piedade","faixaCep":"18170-000 a 18179-999"},{"localidade":"Pilar do Sul","faixaCep":"18185-000 a 18189-999"},{"localidade":"Pindamonhangaba","faixaCep":"12400-001 a 12449-999"},{"localidade":"Pindamonhangaba","faixaCep":"12400-001 a 12449-999"},{"localidade":"Pindorama","faixaCep":"15830-000 a 15839-999"},{"localidade":"Pinhalzinho","faixaCep":"12995-000 a 12999-999"},{"localidade":"Piquerobi","faixaCep":"19410-000 a 19429-999"},{"localidade":"Piquete","faixaCep":"12620-000 a 12629-999"},{"localidade":"Piracaia","faixaCep":"12970-000 a 12979-999"},{"localidade":"Piracicaba","faixaCep":"13400-001 a 13439-999"},{"localidade":"Piracicaba","faixaCep":"13400-001 a 13434-999"},{"localidade":"Piraju","faixaCep":"18800-000 a 18829-999"},{"localidade":"Pirajuí","faixaCep":"16600-001 a 16639-999"},{"localidade":"Pirajuí","faixaCep":"16600-001 a 16619-999"},{"localidade":"Pirangi","faixaCep":"15820-000 a 15822-999"},{"localidade":"Pirapora do Bom Jesus","faixaCep":"06550-000 a 06599-999"},{"localidade":"Pirapozinho","faixaCep":"19200-000 a 19209-999"},{"localidade":"Pirassununga","faixaCep":"13630-001 a 13649-999"},{"localidade":"Pirassununga","faixaCep":"13630-001 a 13644-999"},{"localidade":"Piratininga","faixaCep":"17490-001 a 17499-999"},{"localidade":"Piratininga","faixaCep":"17490-001 a 17499-999"},{"localidade":"Pitangueiras","faixaCep":"14750-000 a 14764-999"},{"localidade":"Planalto","faixaCep":"15260-000 a 15264-999"},{"localidade":"Platina","faixaCep":"19990-000 a 19999-999"},{"localidade":"Poá","faixaCep":"08550-001 a 08569-999"},{"localidade":"Poá","faixaCep":"08550-001 a 08569-999"},{"localidade":"Poloni","faixaCep":"15160-000 a 15169-999"},{"localidade":"Pompéia","faixaCep":"17580-000 a 17589-999"},{"localidade":"Pongaí","faixaCep":"16660-000 a 16669-999"},{"localidade":"Pontal","faixaCep":"14180-000 a 14199-999"},{"localidade":"Pontalinda","faixaCep":"15718-000 a 15719-999"},{"localidade":"Pontes Gestal","faixaCep":"15560-000 a 15569-999"},{"localidade":"Populina","faixaCep":"15670-000 a 15679-999"},{"localidade":"Porangaba","faixaCep":"18260-000 a 18264-999"},{"localidade":"Porto Feliz","faixaCep":"18540-000 a 18549-999"},{"localidade":"Porto Ferreira","faixaCep":"13660-001 a 13669-999"},{"localidade":"Porto Ferreira","faixaCep":"13660-001 a 13669-999"},{"localidade":"Potim","faixaCep":"12525-000 a 12529-999"},{"localidade":"Potirendaba","faixaCep":"15105-000 a 15107-999"},{"localidade":"Pracinha","faixaCep":"17790-000 a 17799-999"},{"localidade":"Pradópolis","faixaCep":"14850-000 a 14859-999"},{"localidade":"Praia Grande","faixaCep":"11700-001 a 11729-999"},{"localidade":"Praia Grande","faixaCep":"11700-001 a 11729-999"},{"localidade":"Pratânia","faixaCep":"18660-000 a 18669-999"},{"localidade":"Presidente Alves","faixaCep":"16670-000 a 16679-999"},{"localidade":"Presidente Bernardes","faixaCep":"19300-000 a 19349-999"},{"localidade":"Presidente Epitácio","faixaCep":"19470-000 a 19499-999"},{"localidade":"Presidente Prudente","faixaCep":"19000-001 a 19159-999"},{"localidade":"Presidente Prudente","faixaCep":"19000-001 a 19140-999"},{"localidade":"Presidente Venceslau","faixaCep":"19400-000 a 19409-999"},{"localidade":"Promissão","faixaCep":"16370-000 a 16399-999"},{"localidade":"Quadra","faixaCep":"18255-000 a 18259-999"},{"localidade":"Quatá","faixaCep":"19780-000 a 19799-999"},{"localidade":"Queiroz","faixaCep":"17590-000 a 17599-999"},{"localidade":"Queluz","faixaCep":"12800-000 a 12819-999"},{"localidade":"Quintana","faixaCep":"17670-000 a 17679-999"},{"localidade":"Rafard","faixaCep":"13370-000 a 13374-999"},{"localidade":"Rancharia","faixaCep":"19600-000 a 19639-999"},{"localidade":"Redenção da Serra","faixaCep":"12170-000 a 12179-999"},{"localidade":"Regente Feijó","faixaCep":"19570-000 a 19579-999"},{"localidade":"Reginópolis","faixaCep":"17190-000 a 17199-999"},{"localidade":"Registro","faixaCep":"11900-000 a 11909-999"},{"localidade":"Restinga","faixaCep":"14430-000 a 14439-999"},{"localidade":"Ribeira","faixaCep":"18380-000 a 18384-999"},{"localidade":"Ribeirão Bonito","faixaCep":"13580-000 a 13589-999"},{"localidade":"Ribeirão Branco","faixaCep":"18430-000 a 18434-999"},{"localidade":"Ribeirão Corrente","faixaCep":"14445-000 a 14449-999"},{"localidade":"Ribeirão do Sul","faixaCep":"19930-000 a 19939-999"},{"localidade":"Ribeirão dos Índios","faixaCep":"19380-000 a 19399-999"},{"localidade":"Ribeirão Grande","faixaCep":"18315-000 a 18319-999"},{"localidade":"Ribeirão Pires","faixaCep":"09400-001 a 09449-999"},{"localidade":"Ribeirão Pires","faixaCep":"09400-001 a 09449-999"},{"localidade":"Ribeirão Preto","faixaCep":"14000-001 a 14114-999"},{"localidade":"Ribeirão Preto","faixaCep":"14000-001 a 14109-999"},{"localidade":"Rifaina","faixaCep":"14490-000 a 14499-999"},{"localidade":"Rincão","faixaCep":"14830-000 a 14834-999"},{"localidade":"Rinópolis","faixaCep":"17740-000 a 17759-999"},{"localidade":"Rio Claro","faixaCep":"13500-001 a 13509-999"},{"localidade":"Rio Claro","faixaCep":"13500-001 a 13509-999"},{"localidade":"Rio das Pedras","faixaCep":"13390-000 a 13399-999"},{"localidade":"Rio Grande da Serra","faixaCep":"09450-000 a 09499-999"},{"localidade":"Riolândia","faixaCep":"15495-000 a 15499-999"},{"localidade":"Riversul","faixaCep":"18470-000 a 18474-999"},{"localidade":"Rosana","faixaCep":"19273-000 a 19274-999"},{"localidade":"Roseira","faixaCep":"12580-000 a 12599-999"},{"localidade":"Rubiácea","faixaCep":"16750-000 a 16789-999"},{"localidade":"Rubinéia","faixaCep":"15790-000 a 15799-999"},{"localidade":"Sabino","faixaCep":"16440-000 a 16449-999"},{"localidade":"Sagres","faixaCep":"17710-000 a 17719-999"},{"localidade":"Sales","faixaCep":"14980-000 a 14989-999"},{"localidade":"Sales Oliveira","faixaCep":"14660-000 a 14669-999"},{"localidade":"Salesópolis","faixaCep":"08970-000 a 08999-999"},{"localidade":"Salmourão","faixaCep":"17720-000 a 17729-999"},{"localidade":"Saltinho","faixaCep":"13440-000 a 13444-999"},{"localidade":"Salto","faixaCep":"13320-001 a 13329-999"},{"localidade":"Salto","faixaCep":"13320-001 a 13329-999"},{"localidade":"Salto de Pirapora","faixaCep":"18160-000 a 18169-999"},{"localidade":"Salto Grande","faixaCep":"19920-001 a 19929-999"},{"localidade":"Salto Grande","faixaCep":"19920-001 a 19929-999"},{"localidade":"Sandovalina","faixaCep":"19250-000 a 19259-999"},{"localidade":"Santa Adélia","faixaCep":"15950-000 a 15959-999"},{"localidade":"Santa Albertina","faixaCep":"15750-000 a 15754-999"},{"localidade":"Santa Bárbara D\u0027Oeste","faixaCep":"13450-001 a 13464-999"},{"localidade":"Santa Bárbara D\u0027Oeste","faixaCep":"13450-001 a 13464-999"},{"localidade":"Santa Branca","faixaCep":"12380-000 a 12399-999"},{"localidade":"Santa Clara D\u0027Oeste","faixaCep":"15785-000 a 15789-999"},{"localidade":"Santa Cruz da Conceição","faixaCep":"13625-000 a 13629-999"},{"localidade":"Santa Cruz da Esperança","faixaCep":"14250-000 a 14259-999"},{"localidade":"Santa Cruz das Palmeiras","faixaCep":"13650-000 a 13659-999"},{"localidade":"Santa Cruz do Rio Pardo","faixaCep":"18900-000 a 18934-999"},{"localidade":"Santa Ernestina","faixaCep":"15970-000 a 15979-999"},{"localidade":"Santa Fé do Sul","faixaCep":"15775-000 a 15779-999"},{"localidade":"Santa Gertrudes","faixaCep":"13510-000 a 13514-999"},{"localidade":"Santa Isabel","faixaCep":"07500-000 a 07599-999"},{"localidade":"Santa Lúcia","faixaCep":"14825-000 a 14829-999"},{"localidade":"Santa Maria da Serra","faixaCep":"17370-000 a 17379-999"},{"localidade":"Santa Mercedes","faixaCep":"17940-000 a 17949-999"},{"localidade":"Santa Rita do Passa Quatro","faixaCep":"13670-000 a 13689-999"},{"localidade":"Santa Rita D\u0027Oeste","faixaCep":"15780-000 a 15784-999"},{"localidade":"Santa Rosa de Viterbo","faixaCep":"14270-000 a 14299-999"},{"localidade":"Santa Salete","faixaCep":"15768-000 a 15769-999"},{"localidade":"Santana da Ponte Pensa","faixaCep":"15765-000 a 15767-999"},{"localidade":"Santana de Parnaíba","faixaCep":"06500-001 a 06549-999"},{"localidade":"Santana de Parnaíba","faixaCep":"06500-001 a 06549-999"},{"localidade":"Santo Anastácio","faixaCep":"19360-000 a 19379-999"},{"localidade":"Santo André","faixaCep":"09000-001 a 09299-999"},{"localidade":"Santo André","faixaCep":"09000-001 a 09299-999"},{"localidade":"Santo Antônio da Alegria","faixaCep":"14390-000 a 14399-999"},{"localidade":"Santo Antônio de Posse","faixaCep":"13830-001 a 13834-999"},{"localidade":"Santo Antônio de Posse","faixaCep":"13830-001 a 13834-999"},{"localidade":"Santo Antônio do Aracanguá","faixaCep":"16130-000 a 16199-999"},{"localidade":"Santo Antônio do Jardim","faixaCep":"13995-000 a 13999-999"},{"localidade":"Santo Antônio do Pinhal","faixaCep":"12450-000 a 12459-999"},{"localidade":"Santo Expedito","faixaCep":"19190-000 a 19199-999"},{"localidade":"Santópolis do Aguapeí","faixaCep":"16240-000 a 16249-999"},{"localidade":"Santos","faixaCep":"11000-001 a 11249-999"},{"localidade":"Santos","faixaCep":"11000-001 a 11199-999"},{"localidade":"São Bento do Sapucaí","faixaCep":"12490-000 a 12499-999"},{"localidade":"São Bernardo do Campo","faixaCep":"09600-001 a 09899-999"},{"localidade":"São Bernardo do Campo","faixaCep":"09600-001 a 09899-999"},{"localidade":"São Caetano do Sul","faixaCep":"09500-001 a 09599-999"},{"localidade":"São Caetano do Sul","faixaCep":"09500-001 a 09599-999"},{"localidade":"São Carlos","faixaCep":"13560-001 a 13579-999"},{"localidade":"São Carlos","faixaCep":"13560-001 a 13577-999"},{"localidade":"São Francisco","faixaCep":"15710-000 a 15712-999"},{"localidade":"São João da Boa Vista","faixaCep":"13870-001 a 13879-999"},{"localidade":"São João da Boa Vista","faixaCep":"13870-001 a 13879-999"},{"localidade":"São João das Duas Pontes","faixaCep":"15640-000 a 15649-999"},{"localidade":"São João de Iracema","faixaCep":"15315-000 a 15319-999"},{"localidade":"São João do Pau d\u0027Alho","faixaCep":"17970-000 a 17979-999"},{"localidade":"São Joaquim da Barra","faixaCep":"14600-000 a 14609-999"},{"localidade":"São José da Bela Vista","faixaCep":"14440-000 a 14444-999"},{"localidade":"São José do Barreiro","faixaCep":"12830-000 a 12849-999"},{"localidade":"São José do Rio Pardo","faixaCep":"13720-000 a 13729-999"},{"localidade":"São José do Rio Preto","faixaCep":"15000-001 a 15104-999"},{"localidade":"São José do Rio Preto","faixaCep":"15000-001 a 15104-999"},{"localidade":"São José dos Campos","faixaCep":"12200-001 a 12249-999"},{"localidade":"São José dos Campos","faixaCep":"12200-001 a 12249-999"},{"localidade":"São Lourenço da Serra","faixaCep":"06890-000 a 06899-999"},{"localidade":"São Luiz do Paraitinga","faixaCep":"12140-000 a 12169-999"},{"localidade":"São Manuel","faixaCep":"18650-000 a 18659-999"},{"localidade":"São Miguel Arcanjo","faixaCep":"18230-000 a 18239-999"},{"localidade":"São Paulo","faixaCep":"01000-001 a 05999-999"},{"localidade":"São Paulo","faixaCep":"08000-000 a 08499-999"},{"localidade":"São Paulo","faixaCep":"01000-001 a 05999-999"},{"localidade":"São Paulo","faixaCep":"08000-000 a 08499-999"},{"localidade":"São Pedro","faixaCep":"13520-000 a 13524-999"},{"localidade":"São Pedro do Turvo","faixaCep":"18940-001 a 18949-999"},{"localidade":"São Pedro do Turvo","faixaCep":"18940-001 a 18944-999"},{"localidade":"São Roque","faixaCep":"18130-001 a 18146-999"},{"localidade":"São Roque","faixaCep":"18130-001 a 18146-999"},{"localidade":"São Sebastião","faixaCep":"11600-001 a 11629-999"},{"localidade":"São Sebastião","faixaCep":"11600-001 a 11629-999"},{"localidade":"São Sebastião da Grama","faixaCep":"13790-000 a 13799-999"},{"localidade":"São Simão","faixaCep":"14200-000 a 14209-999"},{"localidade":"São Vicente","faixaCep":"11300-001 a 11399-999"},{"localidade":"São Vicente","faixaCep":"11300-001 a 11399-999"},{"localidade":"Sarapuí","faixaCep":"18225-000 a 18229-999"},{"localidade":"Sarutaiá","faixaCep":"18840-000 a 18859-999"},{"localidade":"Sebastianópolis do Sul","faixaCep":"15180-000 a 15189-999"},{"localidade":"Serra Azul","faixaCep":"14230-000 a 14239-999"},{"localidade":"Serra Negra","faixaCep":"13930-000 a 13939-999"},{"localidade":"Serrana","faixaCep":"14150-000 a 14159-999"},{"localidade":"Sertãozinho","faixaCep":"14160-001 a 14179-999"},{"localidade":"Sertãozinho","faixaCep":"14160-001 a 14179-999"},{"localidade":"Sete Barras","faixaCep":"11910-000 a 11919-999"},{"localidade":"Severínia","faixaCep":"14735-000 a 14739-999"},{"localidade":"Silveiras","faixaCep":"12690-000 a 12699-999"},{"localidade":"Socorro","faixaCep":"13960-000 a 13969-999"},{"localidade":"Sorocaba","faixaCep":"18000-001 a 18109-999"},{"localidade":"Sorocaba","faixaCep":"18000-001 a 18109-999"},{"localidade":"Sud Mennucci","faixaCep":"15360-000 a 15369-999"},{"localidade":"Sumaré","faixaCep":"13170-001 a 13182-999"},{"localidade":"Sumaré","faixaCep":"13170-001 a 13182-999"},{"localidade":"Suzanápolis","faixaCep":"15380-000 a 15384-999"},{"localidade":"Suzano","faixaCep":"08600-001 a 08699-999"},{"localidade":"Suzano","faixaCep":"08600-001 a 08699-999"},{"localidade":"Tabapuã","faixaCep":"15880-000 a 15884-999"},{"localidade":"Tabatinga","faixaCep":"14910-000 a 14919-999"},{"localidade":"Taboão da Serra","faixaCep":"06750-001 a 06799-999"},{"localidade":"Taboão da Serra","faixaCep":"06750-001 a 06799-999"},{"localidade":"Taciba","faixaCep":"19590-000 a 19599-999"},{"localidade":"Taguaí","faixaCep":"18890-000 a 18899-999"},{"localidade":"Taiaçu","faixaCep":"14725-000 a 14729-999"},{"localidade":"Taiúva","faixaCep":"14720-000 a 14724-999"},{"localidade":"Tambaú","faixaCep":"13710-000 a 13714-999"},{"localidade":"Tanabi","faixaCep":"15170-000 a 15179-999"},{"localidade":"Tapiraí","faixaCep":"18180-000 a 18184-999"},{"localidade":"Tapiratiba","faixaCep":"13760-000 a 13769-999"},{"localidade":"Taquaral","faixaCep":"14765-000 a 14769-999"},{"localidade":"Taquaritinga","faixaCep":"15900-000 a 15909-999"},{"localidade":"Taquarituba","faixaCep":"18740-000 a 18744-999"},{"localidade":"Taquarivaí","faixaCep":"18425-000 a 18429-999"},{"localidade":"Tarabai","faixaCep":"19210-000 a 19219-999"},{"localidade":"Tarumã","faixaCep":"19820-000 a 19829-999"},{"localidade":"Tatuí","faixaCep":"18270-001 a 18284-999"},{"localidade":"Tatuí","faixaCep":"18270-001 a 18282-999"},{"localidade":"Taubaté","faixaCep":"12000-001 a 12119-999"},{"localidade":"Taubaté","faixaCep":"12000-001 a 12119-999"},{"localidade":"Tejupá","faixaCep":"18830-000 a 18839-999"},{"localidade":"Teodoro Sampaio","faixaCep":"19280-000 a 19299-999"},{"localidade":"Terra Roxa","faixaCep":"14745-000 a 14749-999"},{"localidade":"Tietê","faixaCep":"18530-000 a 18534-999"},{"localidade":"Timburi","faixaCep":"18860-000 a 18869-999"},{"localidade":"Torre de Pedra","faixaCep":"18265-000 a 18269-999"},{"localidade":"Torrinha","faixaCep":"17360-000 a 17369-999"},{"localidade":"Trabiju","faixaCep":"14935-000 a 14939-999"},{"localidade":"Tremembé","faixaCep":"12120-000 a 12129-999"},{"localidade":"Três Fronteiras","faixaCep":"15770-000 a 15772-999"},{"localidade":"Tuiuti","faixaCep":"12930-000 a 12934-999"},{"localidade":"Tupã","faixaCep":"17600-001 a 17629-999"},{"localidade":"Tupã","faixaCep":"17600-001 a 17626-999"},{"localidade":"Tupi Paulista","faixaCep":"17930-000 a 17939-999"},{"localidade":"Turiúba","faixaCep":"15280-000 a 15284-999"},{"localidade":"Turmalina","faixaCep":"15755-000 a 15759-999"},{"localidade":"Ubarana","faixaCep":"15225-000 a 15229-999"},{"localidade":"Ubatuba","faixaCep":"11680-000 a 11699-999"},{"localidade":"Ubirajara","faixaCep":"17440-000 a 17449-999"},{"localidade":"Uchoa","faixaCep":"15890-000 a 15894-999"},{"localidade":"União Paulista","faixaCep":"15250-000 a 15259-999"},{"localidade":"Urânia","faixaCep":"15760-000 a 15762-999"},{"localidade":"Uru","faixaCep":"16650-000 a 16659-999"},{"localidade":"Urupês","faixaCep":"15850-000 a 15859-999"},{"localidade":"Valentim Gentil","faixaCep":"15520-000 a 15524-999"},{"localidade":"Valinhos","faixaCep":"13270-001 a 13279-999"},{"localidade":"Valinhos","faixaCep":"13270-001 a 13279-999"},{"localidade":"Valparaíso","faixaCep":"16880-000 a 16899-999"},{"localidade":"Vargem","faixaCep":"12935-000 a 12939-999"},{"localidade":"Vargem Grande do Sul","faixaCep":"13880-000 a 13889-999"},{"localidade":"Vargem Grande Paulista","faixaCep":"06730-000 a 06749-999"},{"localidade":"Várzea Paulista","faixaCep":"13220-001 a 13229-999"},{"localidade":"Várzea Paulista","faixaCep":"13220-001 a 13229-999"},{"localidade":"Vera Cruz","faixaCep":"17560-000 a 17569-999"},{"localidade":"Vinhedo","faixaCep":"13280-001 a 13289-999"},{"localidade":"Vinhedo","faixaCep":"13280-001 a 13289-999"},{"localidade":"Viradouro","faixaCep":"14740-000 a 14744-999"},{"localidade":"Vista Alegre do Alto","faixaCep":"15920-000 a 15929-999"},{"localidade":"Vitória Brasil","faixaCep":"15713-000 a 15714-999"},{"localidade":"Votorantim","faixaCep":"18110-001 a 18119-999"},{"localidade":"Votorantim","faixaCep":"18110-001 a 18119-999"},{"localidade":"Votuporanga","faixaCep":"15500-001 a 15519-999"},{"localidade":"Votuporanga","faixaCep":"15500-001 a 15515-999"},{"localidade":"Zacarias","faixaCep":"15265-000 a 15269-999"}]
+[
+ {
+    "localidade":"Abdon Batista",
+    "faixaCep":"89636-000 a 89637-999"
+ },
+    
+ {
+    "localidade":"Abelardo Luz",
+    "faixaCep":"89830-000 a 89831-999"
+ },
+    
+ {
+    "localidade":"Agrolândia",
+    "faixaCep":"88420-000 a 88429-999"
+ },
+    
+ {
+    "localidade":"Agronômica",
+    "faixaCep":"89188-000 a 89189-999"
+ },
+    
+ {
+    "localidade":"Água Doce",
+    "faixaCep":"89654-000 a 89659-999"
+ },
+    
+ {
+    "localidade":"Águas de Chapecó",
+    "faixaCep":"89883-000 a 89884-999"
+ },
+    
+ {
+    "localidade":"Águas Frias",
+    "faixaCep":"89843-000 a 89844-999"
+ },
+    
+ {
+    "localidade":"Águas Mornas",
+    "faixaCep":"88150-000 a 88159-999"
+ },
+    
+ {
+    "localidade":"Alfredo Wagner",
+    "faixaCep":"88450-000 a 88459-999"
+ },
+    
+ {
+    "localidade":"Alto Bela Vista",
+    "faixaCep":"89730-000 a 89734-999"
+ },
+    
+ {
+    "localidade":"Anchieta",
+    "faixaCep":"89970-000 a 89979-999"
+ },
+    
+ {
+    "localidade":"Angelina",
+    "faixaCep":"88460-000 a 88469-999"
+ },
+    
+ {
+    "localidade":"Anita Garibaldi",
+    "faixaCep":"88590-000 a 88597-999"
+ },
+    
+ {
+    "localidade":"Anitápolis",
+    "faixaCep":"88475-000 a 88484-999"
+ },
+    
+ {
+    "localidade":"Antônio Carlos",
+    "faixaCep":"88180-000 a 88189-999"
+ },
+    
+ {
+    "localidade":"Apiúna",
+    "faixaCep":"89135-000 a 89135-999"
+ },
+    
+ {
+    "localidade":"Arabutã",
+    "faixaCep":"89740-000 a 89744-999"
+ },
+    
+ {
+    "localidade":"Araquari",
+    "faixaCep":"89245-000 a 89246-999"
+ },
+    
+ {
+    "localidade":"Araranguá",
+    "faixaCep":"88900-001 a 88913-999"
+ },
+    
+ {
+    "localidade":"Araranguá",
+    "faixaCep":"88900-001 a 88913-999"
+ },
+    
+ {
+    "localidade":"Armazém",
+    "faixaCep":"88740-000 a 88744-999"
+ },
+    
+ {
+    "localidade":"Arroio Trinta",
+    "faixaCep":"89590-000 a 89594-999"
+ },
+    
+ {
+    "localidade":"Arvoredo",
+    "faixaCep":"89778-000 a 89779-999"
+ },
+    
+ {
+    "localidade":"Ascurra",
+    "faixaCep":"89138-000 a 89139-999"
+ },
+    
+ {
+    "localidade":"Atalanta",
+    "faixaCep":"88410-000 a 88419-999"
+ },
+    
+ {
+    "localidade":"Aurora",
+    "faixaCep":"89186-000 a 89187-999"
+ },
+    
+ {
+    "localidade":"Balneário Arroio do Silva",
+    "faixaCep":"88914-000 a 88914-999"
+ },
+    
+ {
+    "localidade":"Balneário Barra do Sul",
+    "faixaCep":"89247-000 a 89247-999"
+ },
+    
+ {
+    "localidade":"Balneário Camboriú",
+    "faixaCep":"88330-001 a 88339-999"
+ },
+    
+ {
+    "localidade":"Balneário Camboriú",
+    "faixaCep":"88330-001 a 88339-999"
+ },
+    
+ {
+    "localidade":"Balneário Gaivota",
+    "faixaCep":"88955-000 a 88959-999"
+ },
+    
+ {
+    "localidade":"Balneário Piçarras",
+    "faixaCep":"88380-000 a 88384-999"
+ },
+    
+ {
+    "localidade":"Balneário Rincão",
+    "faixaCep":"88828-000 a 88829-999"
+ },
+    
+ {
+    "localidade":"Bandeirante",
+    "faixaCep":"89905-000 a 89905-999"
+ },
+    
+ {
+    "localidade":"Barra Bonita",
+    "faixaCep":"89909-000 a 89909-999"
+ },
+    
+ {
+    "localidade":"Barra Velha",
+    "faixaCep":"88390-000 a 88394-999"
+ },
+    
+ {
+    "localidade":"Bela Vista do Toldo",
+    "faixaCep":"89478-000 a 89479-999"
+ },
+    
+ {
+    "localidade":"Belmonte",
+    "faixaCep":"89925-000 a 89929-999"
+ },
+    
+ {
+    "localidade":"Benedito Novo",
+    "faixaCep":"89124-000 a 89125-999"
+ },
+    
+ {
+    "localidade":"Biguaçu",
+    "faixaCep":"88160-001 a 88179-999"
+ },
+    
+ {
+    "localidade":"Biguaçu",
+    "faixaCep":"88160-001 a 88169-999"
+ },
+    
+ {
+    "localidade":"Blumenau",
+    "faixaCep":"89000-001 a 89079-999"
+ },
+    
+ {
+    "localidade":"Blumenau",
+    "faixaCep":"89000-001 a 89079-999"
+ },
+    
+ {
+    "localidade":"Bocaína do Sul",
+    "faixaCep":"88538-000 a 88539-999"
+ },
+    
+ {
+    "localidade":"Bom Jardim da Serra",
+    "faixaCep":"88640-000 a 88649-999"
+ },
+    
+ {
+    "localidade":"Bom Jesus",
+    "faixaCep":"89824-000 a 89824-999"
+ },
+    
+ {
+    "localidade":"Bom Jesus do Oeste",
+    "faixaCep":"89873-000 a 89873-999"
+ },
+    
+ {
+    "localidade":"Bom Retiro",
+    "faixaCep":"88680-000 a 88699-999"
+ },
+    
+ {
+    "localidade":"Bombinhas",
+    "faixaCep":"88215-000 a 88219-999"
+ },
+    
+ {
+    "localidade":"Botuverá",
+    "faixaCep":"88295-000 a 88299-999"
+ },
+    
+ {
+    "localidade":"Braço do Norte",
+    "faixaCep":"88750-000 a 88759-999"
+ },
+    
+ {
+    "localidade":"Braço do Trombudo",
+    "faixaCep":"89178-000 a 89179-999"
+ },
+    
+ {
+    "localidade":"Brunópolis",
+    "faixaCep":"89634-000 a 89635-999"
+ },
+    
+ {
+    "localidade":"Brusque",
+    "faixaCep":"88350-001 a 88359-999"
+ },
+    
+ {
+    "localidade":"Brusque",
+    "faixaCep":"88350-001 a 88359-999"
+ },
+    
+ {
+    "localidade":"Caçador",
+    "faixaCep":"89500-001 a 89514-999"
+ },
+    
+ {
+    "localidade":"Caçador",
+    "faixaCep":"89500-001 a 89514-999"
+ },
+    
+ {
+    "localidade":"Caibi",
+    "faixaCep":"89888-000 a 89889-999"
+ },
+    
+ {
+    "localidade":"Calmon",
+    "faixaCep":"89430-000 a 89439-999"
+ },
+    
+ {
+    "localidade":"Camboriú",
+    "faixaCep":"88340-001 a 88349-999"
+ },
+    
+ {
+    "localidade":"Camboriú",
+    "faixaCep":"88340-001 a 88349-999"
+ },
+    
+ {
+    "localidade":"Campo Alegre",
+    "faixaCep":"89294-000 a 89294-999"
+ },
+    
+ {
+    "localidade":"Campo Belo do Sul",
+    "faixaCep":"88580-000 a 88584-999"
+ },
+    
+ {
+    "localidade":"Campo Erê",
+    "faixaCep":"89980-000 a 89980-999"
+ },
+    
+ {
+    "localidade":"Campos Novos",
+    "faixaCep":"89620-000 a 89632-999"
+ },
+    
+ {
+    "localidade":"Canelinha",
+    "faixaCep":"88230-000 a 88239-999"
+ },
+    
+ {
+    "localidade":"Canoinhas",
+    "faixaCep":"89460-001 a 89477-999"
+ },
+    
+ {
+    "localidade":"Canoinhas",
+    "faixaCep":"89460-001 a 89477-999"
+ },
+    
+ {
+    "localidade":"Capão Alto",
+    "faixaCep":"88548-000 a 88549-999"
+ },
+    
+ {
+    "localidade":"Capinzal",
+    "faixaCep":"89665-000 a 89666-999"
+ },
+    
+ {
+    "localidade":"Capivari de Baixo",
+    "faixaCep":"88745-000 a 88749-999"
+ },
+    
+ {
+    "localidade":"Catanduvas",
+    "faixaCep":"89670-000 a 89674-999"
+ },
+    
+ {
+    "localidade":"Caxambu do Sul",
+    "faixaCep":"89880-000 a 89881-999"
+ },
+    
+ {
+    "localidade":"Celso Ramos",
+    "faixaCep":"88598-000 a 88599-999"
+ },
+    
+ {
+    "localidade":"Cerro Negro",
+    "faixaCep":"88585-000 a 88589-999"
+ },
+    
+ {
+    "localidade":"Chapadão do Lageado",
+    "faixaCep":"88407-000 a 88409-999"
+ },
+    
+ {
+    "localidade":"Chapecó",
+    "faixaCep":"89800-001 a 89816-999"
+ },
+    
+ {
+    "localidade":"Chapecó",
+    "faixaCep":"89800-001 a 89816-199"
+ },
+    
+ {
+    "localidade":"Cocal do Sul",
+    "faixaCep":"88845-000 a 88849-999"
+ },
+    
+ {
+    "localidade":"Concórdia",
+    "faixaCep":"89700-001 a 89729-999"
+ },
+    
+ {
+    "localidade":"Concórdia",
+    "faixaCep":"89700-001 a 89715-999"
+ },
+    
+ {
+    "localidade":"Cordilheira Alta",
+    "faixaCep":"89819-000 a 89819-999"
+ },
+    
+ {
+    "localidade":"Coronel Freitas",
+    "faixaCep":"89840-000 a 89842-999"
+ },
+    
+ {
+    "localidade":"Coronel Martins",
+    "faixaCep":"89837-000 a 89837-999"
+ },
+    
+ {
+    "localidade":"Correia Pinto",
+    "faixaCep":"88535-000 a 88537-999"
+ },
+    
+ {
+    "localidade":"Corupá",
+    "faixaCep":"89278-000 a 89279-999"
+ },
+    
+ {
+    "localidade":"Criciúma",
+    "faixaCep":"88800-001 a 88819-999"
+ },
+    
+ {
+    "localidade":"Criciúma",
+    "faixaCep":"88800-001 a 88819-999"
+ },
+    
+ {
+    "localidade":"Cunha Porã",
+    "faixaCep":"89890-000 a 89890-999"
+ },
+    
+ {
+    "localidade":"Cunhataí",
+    "faixaCep":"89886-000 a 89886-999"
+ },
+    
+ {
+    "localidade":"Curitibanos",
+    "faixaCep":"89520-000 a 89529-999"
+ },
+    
+ {
+    "localidade":"Descanso",
+    "faixaCep":"89910-000 a 89914-999"
+ },
+    
+ {
+    "localidade":"Dionísio Cerqueira",
+    "faixaCep":"89950-000 a 89969-999"
+ },
+    
+ {
+    "localidade":"Dona Emma",
+    "faixaCep":"89155-000 a 89156-999"
+ },
+    
+ {
+    "localidade":"Doutor Pedrinho",
+    "faixaCep":"89126-000 a 89127-999"
+ },
+    
+ {
+    "localidade":"Entre Rios",
+    "faixaCep":"89862-000 a 89864-999"
+ },
+    
+ {
+    "localidade":"Ermo",
+    "faixaCep":"88935-000 a 88939-999"
+ },
+    
+ {
+    "localidade":"Erval Velho",
+    "faixaCep":"89613-000 a 89617-999"
+ },
+    
+ {
+    "localidade":"Faxinal dos Guedes",
+    "faixaCep":"89694-000 a 89699-999"
+ },
+    
+ {
+    "localidade":"Flor do Sertão",
+    "faixaCep":"89878-000 a 89878-999"
+ },
+    
+ {
+    "localidade":"Florianópolis",
+    "faixaCep":"88000-001 a 88099-999"
+ },
+    
+ {
+    "localidade":"Florianópolis",
+    "faixaCep":"88000-001 a 88099-999"
+ },
+    
+ {
+    "localidade":"Formosa do Sul",
+    "faixaCep":"89859-000 a 89859-999"
+ },
+    
+ {
+    "localidade":"Forquilhinha",
+    "faixaCep":"88850-000 a 88859-999"
+ },
+    
+ {
+    "localidade":"Fraiburgo",
+    "faixaCep":"89580-000 a 89589-999"
+ },
+    
+ {
+    "localidade":"Frei Rogério",
+    "faixaCep":"89530-000 a 89532-999"
+ },
+    
+ {
+    "localidade":"Galvão",
+    "faixaCep":"89838-000 a 89838-999"
+ },
+    
+ {
+    "localidade":"Garopaba",
+    "faixaCep":"88495-000 a 88499-999"
+ },
+    
+ {
+    "localidade":"Garuva",
+    "faixaCep":"89248-000 a 89248-999"
+ },
+    
+ {
+    "localidade":"Gaspar",
+    "faixaCep":"89110-001 a 89119-999"
+ },
+    
+ {
+    "localidade":"Gaspar",
+    "faixaCep":"89110-001 a 89119-999"
+ },
+    
+ {
+    "localidade":"Governador Celso Ramos",
+    "faixaCep":"88190-000 a 88199-999"
+ },
+    
+ {
+    "localidade":"Grão Pará",
+    "faixaCep":"88890-000 a 88899-999"
+ },
+    
+ {
+    "localidade":"Gravatal",
+    "faixaCep":"88735-000 a 88739-999"
+ },
+    
+ {
+    "localidade":"Guabiruba",
+    "faixaCep":"88360-000 a 88369-999"
+ },
+    
+ {
+    "localidade":"Guaraciaba",
+    "faixaCep":"89920-000 a 89924-999"
+ },
+    
+ {
+    "localidade":"Guaramirim",
+    "faixaCep":"89270-000 a 89274-999"
+ },
+    
+ {
+    "localidade":"Guarujá do Sul",
+    "faixaCep":"89940-000 a 89949-999"
+ },
+    
+ {
+    "localidade":"Guatambú",
+    "faixaCep":"89817-000 a 89817-999"
+ },
+    
+ {
+    "localidade":"Herval D\u0027Oeste",
+    "faixaCep":"89610-000 a 89612-999"
+ },
+    
+ {
+    "localidade":"Ibiam",
+    "faixaCep":"89652-000 a 89653-999"
+ },
+    
+ {
+    "localidade":"Ibicaré",
+    "faixaCep":"89640-000 a 89641-999"
+ },
+    
+ {
+    "localidade":"Ibirama",
+    "faixaCep":"89140-000 a 89144-999"
+ },
+    
+ {
+    "localidade":"Içara",
+    "faixaCep":"88820-000 a 88827-999"
+ },
+    
+ {
+    "localidade":"Ilhota",
+    "faixaCep":"88320-000 a 88329-999"
+ },
+    
+ {
+    "localidade":"Imaruí",
+    "faixaCep":"88770-000 a 88779-999"
+ },
+    
+ {
+    "localidade":"Imbituba",
+    "faixaCep":"88780-000 a 88789-999"
+ },
+    
+ {
+    "localidade":"Imbuia",
+    "faixaCep":"88440-000 a 88442-999"
+ },
+    
+ {
+    "localidade":"Indaial",
+    "faixaCep":"89080-000 a 89099-999"
+ },
+    
+ {
+    "localidade":"Indaial",
+    "faixaCep":"89080-000 a 89089-999"
+ },
+    
+ {
+    "localidade":"Iomerê",
+    "faixaCep":"89558-000 a 89559-999"
+ },
+    
+ {
+    "localidade":"Ipira",
+    "faixaCep":"89669-000 a 89669-999"
+ },
+    
+ {
+    "localidade":"Iporã do Oeste",
+    "faixaCep":"89899-000 a 89899-999"
+ },
+    
+ {
+    "localidade":"Ipuaçu",
+    "faixaCep":"89832-000 a 89833-999"
+ },
+    
+ {
+    "localidade":"Ipumirim",
+    "faixaCep":"89790-000 a 89799-999"
+ },
+    
+ {
+    "localidade":"Iraceminha",
+    "faixaCep":"89891-000 a 89892-999"
+ },
+    
+ {
+    "localidade":"Irani",
+    "faixaCep":"89680-000 a 89682-999"
+ },
+    
+ {
+    "localidade":"Irati",
+    "faixaCep":"89856-000 a 89858-999"
+ },
+    
+ {
+    "localidade":"Irineópolis",
+    "faixaCep":"89440-000 a 89459-999"
+ },
+    
+ {
+    "localidade":"Itá",
+    "faixaCep":"89760-000 a 89764-999"
+ },
+    
+ {
+    "localidade":"Itaiópolis",
+    "faixaCep":"89340-000 a 89369-999"
+ },
+    
+ {
+    "localidade":"Itajaí",
+    "faixaCep":"88300-001 a 88319-999"
+ },
+    
+ {
+    "localidade":"Itajaí",
+    "faixaCep":"88300-001 a 88319-999"
+ },
+    
+ {
+    "localidade":"Itapema",
+    "faixaCep":"88220-000 a 88229-999"
+ },
+    
+ {
+    "localidade":"Itapiranga",
+    "faixaCep":"89896-000 a 89896-999"
+ },
+    
+ {
+    "localidade":"Itapoá",
+    "faixaCep":"89249-000 a 89249-999"
+ },
+    
+ {
+    "localidade":"Ituporanga",
+    "faixaCep":"88400-000 a 88406-999"
+ },
+    
+ {
+    "localidade":"Jaborá",
+    "faixaCep":"89677-000 a 89679-999"
+ },
+    
+ {
+    "localidade":"Jacinto Machado",
+    "faixaCep":"88950-000 a 88954-999"
+ },
+    
+ {
+    "localidade":"Jaguaruna",
+    "faixaCep":"88715-000 a 88716-999"
+ },
+    
+ {
+    "localidade":"Jaraguá do Sul",
+    "faixaCep":"89250-001 a 89269-999"
+ },
+    
+ {
+    "localidade":"Jaraguá do Sul",
+    "faixaCep":"89250-001 a 89269-999"
+ },
+    
+ {
+    "localidade":"Jardinópolis",
+    "faixaCep":"89848-000 a 89849-999"
+ },
+    
+ {
+    "localidade":"Joaçaba",
+    "faixaCep":"89600-000 a 89608-999"
+ },
+    
+ {
+    "localidade":"Joinville",
+    "faixaCep":"89200-001 a 89239-999"
+ },
+    
+ {
+    "localidade":"Joinville",
+    "faixaCep":"89200-001 a 89239-999"
+ },
+    
+ {
+    "localidade":"José Boiteux",
+    "faixaCep":"89145-000 a 89147-999"
+ },
+    
+ {
+    "localidade":"Jupiá",
+    "faixaCep":"89839-000 a 89839-999"
+ },
+    
+ {
+    "localidade":"Lacerdópolis",
+    "faixaCep":"89660-000 a 89662-999"
+ },
+    
+ {
+    "localidade":"Lages",
+    "faixaCep":"88500-001 a 88534-999"
+ },
+    
+ {
+    "localidade":"Lages",
+    "faixaCep":"88500-001 a 88531-999"
+ },
+    
+ {
+    "localidade":"Laguna",
+    "faixaCep":"88790-000 a 88797-999"
+ },
+    
+ {
+    "localidade":"Lajeado Grande",
+    "faixaCep":"89828-000 a 89829-999"
+ },
+    
+ {
+    "localidade":"Laurentino",
+    "faixaCep":"89170-000 a 89171-999"
+ },
+    
+ {
+    "localidade":"Lauro Müller",
+    "faixaCep":"88880-000 a 88889-999"
+ },
+    
+ {
+    "localidade":"Lebon Régis",
+    "faixaCep":"89515-000 a 89517-999"
+ },
+    
+ {
+    "localidade":"Leoberto Leal",
+    "faixaCep":"88445-000 a 88449-999"
+ },
+    
+ {
+    "localidade":"Lindóia do Sul",
+    "faixaCep":"89735-000 a 89739-999"
+ },
+    
+ {
+    "localidade":"Lontras",
+    "faixaCep":"89182-000 a 89183-999"
+ },
+    
+ {
+    "localidade":"Luiz Alves",
+    "faixaCep":"89128-000 a 89129-999"
+ },
+    
+ {
+    "localidade":"Luzerna",
+    "faixaCep":"89609-000 a 89609-999"
+ },
+    
+ {
+    "localidade":"Macieira",
+    "faixaCep":"89518-000 a 89519-999"
+ },
+    
+ {
+    "localidade":"Mafra",
+    "faixaCep":"89300-001 a 89339-999"
+ },
+    
+ {
+    "localidade":"Mafra",
+    "faixaCep":"89300-001 a 89309-999"
+ },
+    
+ {
+    "localidade":"Major Gercino",
+    "faixaCep":"88260-000 a 88269-999"
+ },
+    
+ {
+    "localidade":"Major Vieira",
+    "faixaCep":"89480-000 a 89489-999"
+ },
+    
+ {
+    "localidade":"Maracajá",
+    "faixaCep":"88915-000 a 88919-999"
+ },
+    
+ {
+    "localidade":"Maravilha",
+    "faixaCep":"89874-000 a 89874-999"
+ },
+    
+ {
+    "localidade":"Marema",
+    "faixaCep":"89860-000 a 89861-999"
+ },
+    
+ {
+    "localidade":"Massaranduba",
+    "faixaCep":"89108-000 a 89109-999"
+ },
+    
+ {
+    "localidade":"Matos Costa",
+    "faixaCep":"89420-000 a 89429-999"
+ },
+    
+ {
+    "localidade":"Meleiro",
+    "faixaCep":"88920-000 a 88924-999"
+ },
+    
+ {
+    "localidade":"Mirim Doce",
+    "faixaCep":"89194-000 a 89195-999"
+ },
+    
+ {
+    "localidade":"Modelo",
+    "faixaCep":"89872-000 a 89872-999"
+ },
+    
+ {
+    "localidade":"Mondaí",
+    "faixaCep":"89893-000 a 89894-999"
+ },
+    
+ {
+    "localidade":"Monte Carlo",
+    "faixaCep":"89618-000 a 89619-999"
+ },
+    
+ {
+    "localidade":"Monte Castelo",
+    "faixaCep":"89380-000 a 89399-999"
+ },
+    
+ {
+    "localidade":"Morro da Fumaça",
+    "faixaCep":"88830-000 a 88839-999"
+ },
+    
+ {
+    "localidade":"Morro Grande",
+    "faixaCep":"88925-000 a 88929-999"
+ },
+    
+ {
+    "localidade":"Navegantes",
+    "faixaCep":"88370-001 a 88379-999"
+ },
+    
+ {
+    "localidade":"Navegantes",
+    "faixaCep":"88370-001 a 88379-999"
+ },
+    
+ {
+    "localidade":"Nova Erechim",
+    "faixaCep":"89865-000 a 89867-999"
+ },
+    
+ {
+    "localidade":"Nova Itaberaba",
+    "faixaCep":"89818-000 a 89818-999"
+ },
+    
+ {
+    "localidade":"Nova Trento",
+    "faixaCep":"88270-000 a 88294-999"
+ },
+    
+ {
+    "localidade":"Nova Veneza",
+    "faixaCep":"88865-000 a 88869-999"
+ },
+    
+ {
+    "localidade":"Novo Horizonte",
+    "faixaCep":"89998-000 a 89999-999"
+ },
+    
+ {
+    "localidade":"Orleans",
+    "faixaCep":"88870-000 a 88879-999"
+ },
+    
+ {
+    "localidade":"Otacílio Costa",
+    "faixaCep":"88540-000 a 88542-999"
+ },
+    
+ {
+    "localidade":"Ouro",
+    "faixaCep":"89663-000 a 89664-999"
+ },
+    
+ {
+    "localidade":"Ouro Verde",
+    "faixaCep":"89834-000 a 89834-999"
+ },
+    
+ {
+    "localidade":"Paial",
+    "faixaCep":"89765-000 a 89769-999"
+ },
+    
+ {
+    "localidade":"Painel",
+    "faixaCep":"88543-000 a 88544-999"
+ },
+    
+ {
+    "localidade":"Palhoça",
+    "faixaCep":"88130-001 a 88139-999"
+ },
+    
+ {
+    "localidade":"Palhoça",
+    "faixaCep":"88130-001 a 88139-999"
+ },
+    
+ {
+    "localidade":"Palma Sola",
+    "faixaCep":"89985-000 a 89989-999"
+ },
+    
+ {
+    "localidade":"Palmeira",
+    "faixaCep":"88545-000 a 88547-999"
+ },
+    
+ {
+    "localidade":"Palmitos",
+    "faixaCep":"89887-000 a 89887-999"
+ },
+    
+ {
+    "localidade":"Papanduva",
+    "faixaCep":"89370-000 a 89379-999"
+ },
+    
+ {
+    "localidade":"Paraíso",
+    "faixaCep":"89906-000 a 89907-999"
+ },
+    
+ {
+    "localidade":"Passo de Torres",
+    "faixaCep":"88980-000 a 88989-999"
+ },
+    
+ {
+    "localidade":"Passos Maia",
+    "faixaCep":"89687-000 a 89689-999"
+ },
+    
+ {
+    "localidade":"Paulo Lopes",
+    "faixaCep":"88490-000 a 88494-999"
+ },
+    
+ {
+    "localidade":"Pedras Grandes",
+    "faixaCep":"88720-000 a 88729-999"
+ },
+    
+ {
+    "localidade":"Penha",
+    "faixaCep":"88385-000 a 88389-999"
+ },
+    
+ {
+    "localidade":"Peritiba",
+    "faixaCep":"89750-000 a 89759-999"
+ },
+    
+ {
+    "localidade":"Pescaria Brava",
+    "faixaCep":"88798-000 a 88799-999"
+ },
+    
+ {
+    "localidade":"Petrolândia",
+    "faixaCep":"88430-000 a 88439-999"
+ },
+    
+ {
+    "localidade":"Pinhalzinho",
+    "faixaCep":"89870-000 a 89870-999"
+ },
+    
+ {
+    "localidade":"Pinheiro Preto",
+    "faixaCep":"89570-000 a 89579-999"
+ },
+    
+ {
+    "localidade":"Piratuba",
+    "faixaCep":"89667-000 a 89668-999"
+ },
+    
+ {
+    "localidade":"Planalto Alegre",
+    "faixaCep":"89882-000 a 89882-999"
+ },
+    
+ {
+    "localidade":"Pomerode",
+    "faixaCep":"89107-000 a 89107-999"
+ },
+    
+ {
+    "localidade":"Ponte Alta",
+    "faixaCep":"88550-000 a 88569-999"
+ },
+    
+ {
+    "localidade":"Ponte Alta do Norte",
+    "faixaCep":"89535-000 a 89539-999"
+ },
+    
+ {
+    "localidade":"Ponte Serrada",
+    "faixaCep":"89683-000 a 89686-999"
+ },
+    
+ {
+    "localidade":"Porto Belo",
+    "faixaCep":"88210-000 a 88214-999"
+ },
+    
+ {
+    "localidade":"Porto União",
+    "faixaCep":"89400-000 a 89419-999"
+ },
+    
+ {
+    "localidade":"Pouso Redondo",
+    "faixaCep":"89172-000 a 89175-999"
+ },
+    
+ {
+    "localidade":"Praia Grande",
+    "faixaCep":"88990-000 a 88999-999"
+ },
+    
+ {
+    "localidade":"Presidente Castello Branco",
+    "faixaCep":"89745-000 a 89749-999"
+ },
+    
+ {
+    "localidade":"Presidente Getúlio",
+    "faixaCep":"89150-000 a 89154-999"
+ },
+    
+ {
+    "localidade":"Presidente Nereu",
+    "faixaCep":"89184-000 a 89185-999"
+ },
+    
+ {
+    "localidade":"Princesa",
+    "faixaCep":"89935-000 a 89939-999"
+ },
+    
+ {
+    "localidade":"Quilombo",
+    "faixaCep":"89850-000 a 89853-999"
+ },
+    
+ {
+    "localidade":"Rancho Queimado",
+    "faixaCep":"88470-000 a 88474-999"
+ },
+    
+ {
+    "localidade":"Rio das Antas",
+    "faixaCep":"89550-000 a 89557-999"
+ },
+    
+ {
+    "localidade":"Rio do Campo",
+    "faixaCep":"89198-000 a 89198-999"
+ },
+    
+ {
+    "localidade":"Rio do Oeste",
+    "faixaCep":"89180-000 a 89181-999"
+ },
+    
+ {
+    "localidade":"Rio do Sul",
+    "faixaCep":"89160-001 a 89169-999"
+ },
+    
+ {
+    "localidade":"Rio do Sul",
+    "faixaCep":"89160-001 a 89169-999"
+ },
+    
+ {
+    "localidade":"Rio dos Cedros",
+    "faixaCep":"89121-000 a 89123-999"
+ },
+    
+ {
+    "localidade":"Rio Fortuna",
+    "faixaCep":"88760-000 a 88762-999"
+ },
+    
+ {
+    "localidade":"Rio Negrinho",
+    "faixaCep":"89295-000 a 89299-999"
+ },
+    
+ {
+    "localidade":"Rio Rufino",
+    "faixaCep":"88658-000 a 88679-999"
+ },
+    
+ {
+    "localidade":"Riqueza",
+    "faixaCep":"89895-000 a 89895-999"
+ },
+    
+ {
+    "localidade":"Rodeio",
+    "faixaCep":"89136-000 a 89137-999"
+ },
+    
+ {
+    "localidade":"Romelândia",
+    "faixaCep":"89908-000 a 89908-999"
+ },
+    
+ {
+    "localidade":"Salete",
+    "faixaCep":"89196-000 a 89197-999"
+ },
+    
+ {
+    "localidade":"Saltinho",
+    "faixaCep":"89981-000 a 89981-999"
+ },
+    
+ {
+    "localidade":"Salto Veloso",
+    "faixaCep":"89595-000 a 89599-999"
+ },
+    
+ {
+    "localidade":"Sangão",
+    "faixaCep":"88717-000 a 88719-999"
+ },
+    
+ {
+    "localidade":"Santa Cecília",
+    "faixaCep":"89540-000 a 89544-999"
+ },
+    
+ {
+    "localidade":"Santa Helena",
+    "faixaCep":"89915-000 a 89919-999"
+ },
+    
+ {
+    "localidade":"Santa Rosa de Lima",
+    "faixaCep":"88763-000 a 88764-999"
+ },
+    
+ {
+    "localidade":"Santa Rosa do Sul",
+    "faixaCep":"88965-000 a 88969-999"
+ },
+    
+ {
+    "localidade":"Santa Terezinha",
+    "faixaCep":"89199-000 a 89199-999"
+ },
+    
+ {
+    "localidade":"Santa Terezinha do Progresso",
+    "faixaCep":"89983-000 a 89984-999"
+ },
+    
+ {
+    "localidade":"Santiago do Sul",
+    "faixaCep":"89854-000 a 89854-999"
+ },
+    
+ {
+    "localidade":"Santo Amaro da Imperatriz",
+    "faixaCep":"88140-000 a 88149-999"
+ },
+    
+ {
+    "localidade":"São Bento do Sul",
+    "faixaCep":"89280-001 a 89293-999"
+ },
+    
+ {
+    "localidade":"São Bento do Sul",
+    "faixaCep":"89280-001 a 89293-999"
+ },
+    
+ {
+    "localidade":"São Bernardino",
+    "faixaCep":"89982-000 a 89982-999"
+ },
+    
+ {
+    "localidade":"São Bonifácio",
+    "faixaCep":"88485-000 a 88489-999"
+ },
+    
+ {
+    "localidade":"São Carlos",
+    "faixaCep":"89885-000 a 89885-999"
+ },
+    
+ {
+    "localidade":"São Cristóvão do Sul",
+    "faixaCep":"89533-000 a 89534-999"
+ },
+    
+ {
+    "localidade":"São Domingos",
+    "faixaCep":"89835-000 a 89836-999"
+ },
+    
+ {
+    "localidade":"São Francisco do Sul",
+    "faixaCep":"89240-000 a 89244-999"
+ },
+    
+ {
+    "localidade":"São João Batista",
+    "faixaCep":"88240-000 a 88259-999"
+ },
+    
+ {
+    "localidade":"São João do Itaperiú",
+    "faixaCep":"88395-000 a 88399-999"
+ },
+    
+ {
+    "localidade":"São João do Oeste",
+    "faixaCep":"89897-000 a 89897-999"
+ },
+    
+ {
+    "localidade":"São João do Sul",
+    "faixaCep":"88970-000 a 88979-999"
+ },
+    
+ {
+    "localidade":"São Joaquim",
+    "faixaCep":"88600-000 a 88624-999"
+ },
+    
+ {
+    "localidade":"São José",
+    "faixaCep":"88100-001 a 88124-999"
+ },
+    
+ {
+    "localidade":"São José",
+    "faixaCep":"88100-001 a 88123-999"
+ },
+    
+ {
+    "localidade":"São José do Cedro",
+    "faixaCep":"89930-000 a 89934-999"
+ },
+    
+ {
+    "localidade":"São José do Cerrito",
+    "faixaCep":"88570-000 a 88579-999"
+ },
+    
+ {
+    "localidade":"São Lourenço do Oeste",
+    "faixaCep":"89990-000 a 89997-999"
+ },
+    
+ {
+    "localidade":"São Ludgero",
+    "faixaCep":"88730-000 a 88734-999"
+ },
+    
+ {
+    "localidade":"São Martinho",
+    "faixaCep":"88765-000 a 88769-999"
+ },
+    
+ {
+    "localidade":"São Miguel da Boa Vista",
+    "faixaCep":"89879-000 a 89879-999"
+ },
+    
+ {
+    "localidade":"São Miguel do Oeste",
+    "faixaCep":"89900-000 a 89904-999"
+ },
+    
+ {
+    "localidade":"São Pedro de Alcântara",
+    "faixaCep":"88125-000 a 88129-999"
+ },
+    
+ {
+    "localidade":"Saudades",
+    "faixaCep":"89868-000 a 89869-999"
+ },
+    
+ {
+    "localidade":"Schroeder",
+    "faixaCep":"89275-000 a 89277-999"
+ },
+    
+ {
+    "localidade":"Seara",
+    "faixaCep":"89770-000 a 89777-999"
+ },
+    
+ {
+    "localidade":"Serra Alta",
+    "faixaCep":"89871-000 a 89871-999"
+ },
+    
+ {
+    "localidade":"Siderópolis",
+    "faixaCep":"88860-000 a 88861-999"
+ },
+    
+ {
+    "localidade":"Sombrio",
+    "faixaCep":"88960-000 a 88964-999"
+ },
+    
+ {
+    "localidade":"Sul Brasil",
+    "faixaCep":"89855-000 a 89855-999"
+ },
+    
+ {
+    "localidade":"Taió",
+    "faixaCep":"89190-000 a 89193-999"
+ },
+    
+ {
+    "localidade":"Tangará",
+    "faixaCep":"89642-000 a 89649-999"
+ },
+    
+ {
+    "localidade":"Tigrinhos",
+    "faixaCep":"89875-000 a 89877-999"
+ },
+    
+ {
+    "localidade":"Tijucas",
+    "faixaCep":"88200-000 a 88209-999"
+ },
+    
+ {
+    "localidade":"Timbé do Sul",
+    "faixaCep":"88940-000 a 88949-999"
+ },
+    
+ {
+    "localidade":"Timbó",
+    "faixaCep":"89120-000 a 89120-999"
+ },
+    
+ {
+    "localidade":"Timbó Grande",
+    "faixaCep":"89545-000 a 89549-999"
+ },
+    
+ {
+    "localidade":"Três Barras",
+    "faixaCep":"89490-000 a 89499-999"
+ },
+    
+ {
+    "localidade":"Treviso",
+    "faixaCep":"88862-000 a 88864-999"
+ },
+    
+ {
+    "localidade":"Treze de Maio",
+    "faixaCep":"88710-000 a 88714-999"
+ },
+    
+ {
+    "localidade":"Treze Tílias",
+    "faixaCep":"89650-000 a 89651-999"
+ },
+    
+ {
+    "localidade":"Trombudo Central",
+    "faixaCep":"89176-000 a 89177-999"
+ },
+    
+ {
+    "localidade":"Tubarão",
+    "faixaCep":"88700-001 a 88709-999"
+ },
+    
+ {
+    "localidade":"Tubarão",
+    "faixaCep":"88700-001 a 88709-999"
+ },
+    
+ {
+    "localidade":"Tunápolis",
+    "faixaCep":"89898-000 a 89898-999"
+ },
+    
+ {
+    "localidade":"Turvo",
+    "faixaCep":"88930-000 a 88934-999"
+ },
+    
+ {
+    "localidade":"União do Oeste",
+    "faixaCep":"89845-000 a 89847-999"
+ },
+    
+ {
+    "localidade":"Urubici",
+    "faixaCep":"88650-000 a 88657-999"
+ },
+    
+ {
+    "localidade":"Urupema",
+    "faixaCep":"88625-000 a 88639-999"
+ },
+    
+ {
+    "localidade":"Urussanga",
+    "faixaCep":"88840-000 a 88844-999"
+ },
+    
+ {
+    "localidade":"Vargeão",
+    "faixaCep":"89690-000 a 89693-999"
+ },
+    
+ {
+    "localidade":"Vargem",
+    "faixaCep":"89638-000 a 89639-999"
+ },
+    
+ {
+    "localidade":"Vargem Bonita",
+    "faixaCep":"89675-000 a 89676-999"
+ },
+    
+ {
+    "localidade":"Vidal Ramos",
+    "faixaCep":"88443-000 a 88444-999"
+ },
+    
+ {
+    "localidade":"Videira",
+    "faixaCep":"89560-001 a 89569-999"
+ },
+    
+ {
+    "localidade":"Videira",
+    "faixaCep":"89560-001 a 89567-999"
+ },
+    
+ {
+    "localidade":"Vitor Meireles",
+    "faixaCep":"89148-000 a 89149-999"
+ },
+    
+ {
+    "localidade":"Witmarsum",
+    "faixaCep":"89157-000 a 89159-999"
+ },
+    
+ {
+    "localidade":"Xanxerê",
+    "faixaCep":"89820-000 a 89823-999"
+ },
+    
+ {
+    "localidade":"Xavantina",
+    "faixaCep":"89780-000 a 89789-999"
+ },
+    
+ {
+    "localidade":"Xaxim",
+    "faixaCep":"89825-000 a 89827-999"
+ },
+    
+ {
+    "localidade":"Zortéa",
+    "faixaCep":"89633-000 a 89633-999"
+ },
+    
+ {
+    "localidade":"Adamantina",
+    "faixaCep":"17800-000 a 17809-999"
+ },
+    
+ {
+    "localidade":"Adolfo",
+    "faixaCep":"15230-000 a 15239-999"
+ },
+    
+ {
+    "localidade":"Aguaí",
+    "faixaCep":"13860-000 a 13869-999"
+ },
+    
+ {
+    "localidade":"Águas da Prata",
+    "faixaCep":"13890-000 a 13899-999"
+ },
+    
+ {
+    "localidade":"Águas de Lindóia",
+    "faixaCep":"13940-000 a 13949-999"
+ },
+    
+ {
+    "localidade":"Águas de Santa Bárbara",
+    "faixaCep":"18770-000 a 18774-999"
+ },
+    
+ {
+    "localidade":"Águas de São Pedro",
+    "faixaCep":"13525-000 a 13529-999"
+ },
+    
+ {
+    "localidade":"Agudos",
+    "faixaCep":"17120-001 a 17149-999"
+ },
+    
+ {
+    "localidade":"Agudos",
+    "faixaCep":"17120-001 a 17139-999"
+ },
+    
+ {
+    "localidade":"Alambari",
+    "faixaCep":"18220-000 a 18224-999"
+ },
+    
+ {
+    "localidade":"Alfredo Marcondes",
+    "faixaCep":"19180-000 a 19189-999"
+ },
+    
+ {
+    "localidade":"Altair",
+    "faixaCep":"15430-000 a 15439-999"
+ },
+    
+ {
+    "localidade":"Altinópolis",
+    "faixaCep":"14350-000 a 14389-999"
+ },
+    
+ {
+    "localidade":"Alto Alegre",
+    "faixaCep":"16310-000 a 16339-999"
+ },
+    
+ {
+    "localidade":"Alumínio",
+    "faixaCep":"18125-000 a 18129-999"
+ },
+    
+ {
+    "localidade":"Álvares Florence",
+    "faixaCep":"15540-000 a 15549-999"
+ },
+    
+ {
+    "localidade":"Álvares Machado",
+    "faixaCep":"19160-000 a 19179-999"
+ },
+    
+ {
+    "localidade":"Álvaro de Carvalho",
+    "faixaCep":"17410-000 a 17419-999"
+ },
+    
+ {
+    "localidade":"Alvinlândia",
+    "faixaCep":"17430-000 a 17439-999"
+ },
+    
+ {
+    "localidade":"Americana",
+    "faixaCep":"13465-001 a 13479-999"
+ },
+    
+ {
+    "localidade":"Americana",
+    "faixaCep":"13465-001 a 13479-999"
+ },
+    
+ {
+    "localidade":"Américo Brasiliense",
+    "faixaCep":"14820-000 a 14824-999"
+ },
+    
+ {
+    "localidade":"Américo de Campos",
+    "faixaCep":"15550-000 a 15559-999"
+ },
+    
+ {
+    "localidade":"Amparo",
+    "faixaCep":"13900-001 a 13909-999"
+ },
+    
+ {
+    "localidade":"Amparo",
+    "faixaCep":"13900-001 a 13909-999"
+ },
+    
+ {
+    "localidade":"Analândia",
+    "faixaCep":"13550-000 a 13559-999"
+ },
+    
+ {
+    "localidade":"Andradina",
+    "faixaCep":"16900-001 a 16919-999"
+ },
+    
+ {
+    "localidade":"Andradina",
+    "faixaCep":"16900-001 a 16914-999"
+ },
+    
+ {
+    "localidade":"Angatuba",
+    "faixaCep":"18240-000 a 18244-999"
+ },
+    
+ {
+    "localidade":"Anhembi",
+    "faixaCep":"18620-000 a 18639-999"
+ },
+    
+ {
+    "localidade":"Anhumas",
+    "faixaCep":"19580-000 a 19589-999"
+ },
+    
+ {
+    "localidade":"Aparecida",
+    "faixaCep":"12570-000 a 12579-999"
+ },
+    
+ {
+    "localidade":"Aparecida D\u0027Oeste",
+    "faixaCep":"15735-000 a 15739-999"
+ },
+    
+ {
+    "localidade":"Apiaí",
+    "faixaCep":"18320-000 a 18324-999"
+ },
+    
+ {
+    "localidade":"Araçariguama",
+    "faixaCep":"18147-000 a 18149-999"
+ },
+    
+ {
+    "localidade":"Araçatuba",
+    "faixaCep":"16000-001 a 16129-999"
+ },
+    
+ {
+    "localidade":"Araçatuba",
+    "faixaCep":"16000-001 a 16129-999"
+ },
+    
+ {
+    "localidade":"Araçoiaba da Serra",
+    "faixaCep":"18190-000 a 18194-999"
+ },
+    
+ {
+    "localidade":"Aramina",
+    "faixaCep":"14550-000 a 14569-999"
+ },
+    
+ {
+    "localidade":"Arandu",
+    "faixaCep":"18710-000 a 18719-999"
+ },
+    
+ {
+    "localidade":"Arapeí",
+    "faixaCep":"12870-000 a 12899-999"
+ },
+    
+ {
+    "localidade":"Araraquara",
+    "faixaCep":"14800-001 a 14812-999"
+ },
+    
+ {
+    "localidade":"Araraquara",
+    "faixaCep":"14800-001 a 14811-999"
+ },
+    
+ {
+    "localidade":"Araras",
+    "faixaCep":"13600-001 a 13609-999"
+ },
+    
+ {
+    "localidade":"Araras",
+    "faixaCep":"13600-001 a 13609-999"
+ },
+    
+ {
+    "localidade":"Arco-Íris",
+    "faixaCep":"17630-000 a 17649-999"
+ },
+    
+ {
+    "localidade":"Arealva",
+    "faixaCep":"17160-000 a 17179-999"
+ },
+    
+ {
+    "localidade":"Areias",
+    "faixaCep":"12820-000 a 12829-999"
+ },
+    
+ {
+    "localidade":"Areiópolis",
+    "faixaCep":"18670-000 a 18674-999"
+ },
+    
+ {
+    "localidade":"Ariranha",
+    "faixaCep":"15960-000 a 15969-999"
+ },
+    
+ {
+    "localidade":"Artur Nogueira",
+    "faixaCep":"13160-001 a 13169-999"
+ },
+    
+ {
+    "localidade":"Artur Nogueira",
+    "faixaCep":"13160-001 a 13169-999"
+ },
+    
+ {
+    "localidade":"Arujá",
+    "faixaCep":"07400-001 a 07499-999"
+ },
+    
+ {
+    "localidade":"Arujá",
+    "faixaCep":"07400-001 a 07499-999"
+ },
+    
+ {
+    "localidade":"Aspásia",
+    "faixaCep":"15763-000 a 15764-999"
+ },
+    
+ {
+    "localidade":"Assis",
+    "faixaCep":"19800-001 a 19819-999"
+ },
+    
+ {
+    "localidade":"Assis",
+    "faixaCep":"19800-001 a 19819-999"
+ },
+    
+ {
+    "localidade":"Atibaia",
+    "faixaCep":"12940-001 a 12954-999"
+ },
+    
+ {
+    "localidade":"Atibaia",
+    "faixaCep":"12940-001 a 12954-999"
+ },
+    
+ {
+    "localidade":"Auriflama",
+    "faixaCep":"15350-000 a 15354-999"
+ },
+    
+ {
+    "localidade":"Avaí",
+    "faixaCep":"16680-000 a 16699-999"
+ },
+    
+ {
+    "localidade":"Avanhandava",
+    "faixaCep":"16360-000 a 16369-999"
+ },
+    
+ {
+    "localidade":"Avaré",
+    "faixaCep":"18700-001 a 18709-999"
+ },
+    
+ {
+    "localidade":"Avaré",
+    "faixaCep":"18700-001 a 18709-999"
+ },
+    
+ {
+    "localidade":"Bady Bassitt",
+    "faixaCep":"15115-000 a 15119-999"
+ },
+    
+ {
+    "localidade":"Balbinos",
+    "faixaCep":"16640-000 a 16649-999"
+ },
+    
+ {
+    "localidade":"Bálsamo",
+    "faixaCep":"15140-000 a 15144-999"
+ },
+    
+ {
+    "localidade":"Bananal",
+    "faixaCep":"12850-000 a 12869-999"
+ },
+    
+ {
+    "localidade":"Barão de Antonina",
+    "faixaCep":"18490-000 a 18499-999"
+ },
+    
+ {
+    "localidade":"Barbosa",
+    "faixaCep":"16350-000 a 16359-999"
+ },
+    
+ {
+    "localidade":"Bariri",
+    "faixaCep":"17250-000 a 17259-999"
+ },
+    
+ {
+    "localidade":"Barra Bonita",
+    "faixaCep":"17340-000 a 17349-999"
+ },
+    
+ {
+    "localidade":"Barra do Chapéu",
+    "faixaCep":"18325-000 a 18329-999"
+ },
+    
+ {
+    "localidade":"Barra do Turvo",
+    "faixaCep":"11955-000 a 11959-999"
+ },
+    
+ {
+    "localidade":"Barretos",
+    "faixaCep":"14780-001 a 14789-999"
+ },
+    
+ {
+    "localidade":"Barretos",
+    "faixaCep":"14780-001 a 14789-999"
+ },
+    
+ {
+    "localidade":"Barrinha",
+    "faixaCep":"14860-000 a 14869-999"
+ },
+    
+ {
+    "localidade":"Barueri",
+    "faixaCep":"06400-001 a 06499-999"
+ },
+    
+ {
+    "localidade":"Barueri",
+    "faixaCep":"06400-001 a 06499-999"
+ },
+    
+ {
+    "localidade":"Bastos",
+    "faixaCep":"17690-000 a 17699-999"
+ },
+    
+ {
+    "localidade":"Batatais",
+    "faixaCep":"14300-001 a 14339-999"
+ },
+    
+ {
+    "localidade":"Batatais",
+    "faixaCep":"14300-001 a 14319-999"
+ },
+    
+ {
+    "localidade":"Bauru",
+    "faixaCep":"17000-001 a 17119-999"
+ },
+    
+ {
+    "localidade":"Bauru",
+    "faixaCep":"17000-001 a 17110-999"
+ },
+    
+ {
+    "localidade":"Bebedouro",
+    "faixaCep":"14700-001 a 14719-999"
+ },
+    
+ {
+    "localidade":"Bebedouro",
+    "faixaCep":"14700-001 a 14718-999"
+ },
+    
+ {
+    "localidade":"Bento de Abreu",
+    "faixaCep":"16790-000 a 16799-999"
+ },
+    
+ {
+    "localidade":"Bernardino de Campos",
+    "faixaCep":"18960-000 a 18969-999"
+ },
+    
+ {
+    "localidade":"Bertioga",
+    "faixaCep":"11250-000 a 11299-999"
+ },
+    
+ {
+    "localidade":"Bertioga",
+    "faixaCep":"11250-001 a 11299-999"
+ },
+    
+ {
+    "localidade":"Bilac",
+    "faixaCep":"16210-000 a 16219-999"
+ },
+    
+ {
+    "localidade":"Birigüi",
+    "faixaCep":"16200-001 a 16209-999"
+ },
+    
+ {
+    "localidade":"Birigüi",
+    "faixaCep":"16200-001 a 16209-999"
+ },
+    
+ {
+    "localidade":"Biritiba-Mirim",
+    "faixaCep":"08940-000 a 08969-999"
+ },
+    
+ {
+    "localidade":"Boa Esperança do Sul",
+    "faixaCep":"14930-000 a 14934-999"
+ },
+    
+ {
+    "localidade":"Bocaina",
+    "faixaCep":"17240-000 a 17249-999"
+ },
+    
+ {
+    "localidade":"Bofete",
+    "faixaCep":"18590-000 a 18599-999"
+ },
+    
+ {
+    "localidade":"Boituva",
+    "faixaCep":"18550-000 a 18559-999"
+ },
+    
+ {
+    "localidade":"Bom Jesus dos Perdões",
+    "faixaCep":"12955-000 a 12959-999"
+ },
+    
+ {
+    "localidade":"Bom Sucesso de Itararé",
+    "faixaCep":"18475-000 a 18479-999"
+ },
+    
+ {
+    "localidade":"Borá",
+    "faixaCep":"19740-000 a 19749-999"
+ },
+    
+ {
+    "localidade":"Boracéia",
+    "faixaCep":"17270-000 a 17279-999"
+ },
+    
+ {
+    "localidade":"Borborema",
+    "faixaCep":"14955-000 a 14959-999"
+ },
+    
+ {
+    "localidade":"Borebi",
+    "faixaCep":"18675-000 a 18679-999"
+ },
+    
+ {
+    "localidade":"Botucatu",
+    "faixaCep":"18600-001 a 18619-999"
+ },
+    
+ {
+    "localidade":"Botucatu",
+    "faixaCep":"18600-001 a 18619-999"
+ },
+    
+ {
+    "localidade":"Bragança Paulista",
+    "faixaCep":"12900-001 a 12929-999"
+ },
+    
+ {
+    "localidade":"Bragança Paulista",
+    "faixaCep":"12900-001 a 12929-999"
+ },
+    
+ {
+    "localidade":"Braúna",
+    "faixaCep":"16290-000 a 16299-999"
+ },
+    
+ {
+    "localidade":"Brejo Alegre",
+    "faixaCep":"16265-000 a 16269-999"
+ },
+    
+ {
+    "localidade":"Brodowski",
+    "faixaCep":"14340-000 a 14349-999"
+ },
+    
+ {
+    "localidade":"Brotas",
+    "faixaCep":"17380-000 a 17399-999"
+ },
+    
+ {
+    "localidade":"Buri",
+    "faixaCep":"18290-000 a 18299-999"
+ },
+    
+ {
+    "localidade":"Buritama",
+    "faixaCep":"15290-000 a 15299-999"
+ },
+    
+ {
+    "localidade":"Buritizal",
+    "faixaCep":"14570-000 a 14579-999"
+ },
+    
+ {
+    "localidade":"Cabrália Paulista",
+    "faixaCep":"17480-000 a 17489-999"
+ },
+    
+ {
+    "localidade":"Cabreúva",
+    "faixaCep":"13315-000 a 13319-999"
+ },
+    
+ {
+    "localidade":"Caçapava",
+    "faixaCep":"12280-001 a 12299-999"
+ },
+    
+ {
+    "localidade":"Caçapava",
+    "faixaCep":"12280-001 a 12299-999"
+ },
+    
+ {
+    "localidade":"Cachoeira Paulista",
+    "faixaCep":"12630-000 a 12689-999"
+ },
+    
+ {
+    "localidade":"Caconde",
+    "faixaCep":"13770-000 a 13779-999"
+ },
+    
+ {
+    "localidade":"Cafelândia",
+    "faixaCep":"16500-000 a 16569-999"
+ },
+    
+ {
+    "localidade":"Caiabu",
+    "faixaCep":"19530-000 a 19559-999"
+ },
+    
+ {
+    "localidade":"Caieiras",
+    "faixaCep":"07700-001 a 07749-999"
+ },
+    
+ {
+    "localidade":"Caieiras",
+    "faixaCep":"07700-001 a 07749-999"
+ },
+    
+ {
+    "localidade":"Caiuá",
+    "faixaCep":"19450-000 a 19469-999"
+ },
+    
+ {
+    "localidade":"Cajamar",
+    "faixaCep":"07750-001 a 07799-999"
+ },
+    
+ {
+    "localidade":"Cajamar",
+    "faixaCep":"07750-001 a 07799-999"
+ },
+    
+ {
+    "localidade":"Cajati",
+    "faixaCep":"11950-000 a 11954-999"
+ },
+    
+ {
+    "localidade":"Cajobi",
+    "faixaCep":"15410-000 a 15419-999"
+ },
+    
+ {
+    "localidade":"Cajuru",
+    "faixaCep":"14240-000 a 14249-999"
+ },
+    
+ {
+    "localidade":"Campina do Monte Alegre",
+    "faixaCep":"18245-000 a 18249-999"
+ },
+    
+ {
+    "localidade":"Campinas",
+    "faixaCep":"13000-001 a 13139-999"
+ },
+    
+ {
+    "localidade":"Campinas",
+    "faixaCep":"13000-001 a 13139-999"
+ },
+    
+ {
+    "localidade":"Campo Limpo Paulista",
+    "faixaCep":"13230-001 a 13239-999"
+ },
+    
+ {
+    "localidade":"Campo Limpo Paulista",
+    "faixaCep":"13230-001 a 13239-999"
+ },
+    
+ {
+    "localidade":"Campos do Jordão",
+    "faixaCep":"12460-000 a 12489-999"
+ },
+    
+ {
+    "localidade":"Campos Novos Paulista",
+    "faixaCep":"19960-000 a 19969-999"
+ },
+    
+ {
+    "localidade":"Cananéia",
+    "faixaCep":"11990-000 a 11999-999"
+ },
+    
+ {
+    "localidade":"Canas",
+    "faixaCep":"12615-000 a 12619-999"
+ },
+    
+ {
+    "localidade":"Cândido Mota",
+    "faixaCep":"19880-000 a 19899-999"
+ },
+    
+ {
+    "localidade":"Cândido Rodrigues",
+    "faixaCep":"15930-000 a 15939-999"
+ },
+    
+ {
+    "localidade":"Canitar",
+    "faixaCep":"18990-001 a 18999-999"
+ },
+    
+ {
+    "localidade":"Canitar",
+    "faixaCep":"18990-001 a 18994-999"
+ },
+    
+ {
+    "localidade":"Capão Bonito",
+    "faixaCep":"18300-001 a 18309-999"
+ },
+    
+ {
+    "localidade":"Capão Bonito",
+    "faixaCep":"18300-001 a 18308-999"
+ },
+    
+ {
+    "localidade":"Capela do Alto",
+    "faixaCep":"18195-000 a 18199-999"
+ },
+    
+ {
+    "localidade":"Capivari",
+    "faixaCep":"13360-000 a 13369-999"
+ },
+    
+ {
+    "localidade":"Caraguatatuba",
+    "faixaCep":"11660-001 a 11679-999"
+ },
+    
+ {
+    "localidade":"Caraguatatuba",
+    "faixaCep":"11660-001 a 11679-999"
+ },
+    
+ {
+    "localidade":"Carapicuíba",
+    "faixaCep":"06300-001 a 06399-999"
+ },
+    
+ {
+    "localidade":"Carapicuíba",
+    "faixaCep":"06300-001 a 06399-999"
+ },
+    
+ {
+    "localidade":"Cardoso",
+    "faixaCep":"15570-000 a 15579-999"
+ },
+    
+ {
+    "localidade":"Casa Branca",
+    "faixaCep":"13700-000 a 13709-999"
+ },
+    
+ {
+    "localidade":"Cássia dos Coqueiros",
+    "faixaCep":"14260-000 a 14269-999"
+ },
+    
+ {
+    "localidade":"Castilho",
+    "faixaCep":"16920-000 a 16939-999"
+ },
+    
+ {
+    "localidade":"Catanduva",
+    "faixaCep":"15800-001 a 15819-999"
+ },
+    
+ {
+    "localidade":"Catanduva",
+    "faixaCep":"15800-001 a 15819-999"
+ },
+    
+ {
+    "localidade":"Catiguá",
+    "faixaCep":"15870-000 a 15879-999"
+ },
+    
+ {
+    "localidade":"Cedral",
+    "faixaCep":"15895-000 a 15899-999"
+ },
+    
+ {
+    "localidade":"Cerqueira César",
+    "faixaCep":"18760-001 a 18769-999"
+ },
+    
+ {
+    "localidade":"Cerqueira César",
+    "faixaCep":"18760-001 a 18769-999"
+ },
+    
+ {
+    "localidade":"Cerquilho",
+    "faixaCep":"18520-000 a 18529-999"
+ },
+    
+ {
+    "localidade":"Cesário Lange",
+    "faixaCep":"18285-000 a 18289-999"
+ },
+    
+ {
+    "localidade":"Charqueada",
+    "faixaCep":"13515-000 a 13519-999"
+ },
+    
+ {
+    "localidade":"Chavantes",
+    "faixaCep":"18970-001 a 18989-999"
+ },
+    
+ {
+    "localidade":"Chavantes",
+    "faixaCep":"18970-001 a 18989-999"
+ },
+    
+ {
+    "localidade":"Clementina",
+    "faixaCep":"16250-000 a 16259-999"
+ },
+    
+ {
+    "localidade":"Colina",
+    "faixaCep":"14770-000 a 14774-999"
+ },
+    
+ {
+    "localidade":"Colômbia",
+    "faixaCep":"14795-000 a 14799-999"
+ },
+    
+ {
+    "localidade":"Conchal",
+    "faixaCep":"13835-000 a 13839-999"
+ },
+    
+ {
+    "localidade":"Conchas",
+    "faixaCep":"18570-000 a 18579-999"
+ },
+    
+ {
+    "localidade":"Cordeirópolis",
+    "faixaCep":"13490-000 a 13494-999"
+ },
+    
+ {
+    "localidade":"Coroados",
+    "faixaCep":"16260-000 a 16264-999"
+ },
+    
+ {
+    "localidade":"Coronel Macedo",
+    "faixaCep":"18745-000 a 18759-999"
+ },
+    
+ {
+    "localidade":"Corumbataí",
+    "faixaCep":"13540-000 a 13549-999"
+ },
+    
+ {
+    "localidade":"Cosmópolis",
+    "faixaCep":"13150-001 a 13159-999"
+ },
+    
+ {
+    "localidade":"Cosmópolis",
+    "faixaCep":"13150-001 a 13159-999"
+ },
+    
+ {
+    "localidade":"Cosmorama",
+    "faixaCep":"15530-000 a 15539-999"
+ },
+    
+ {
+    "localidade":"Cotia",
+    "faixaCep":"06700-001 a 06729-999"
+ },
+    
+ {
+    "localidade":"Cotia",
+    "faixaCep":"06700-001 a 06729-999"
+ },
+    
+ {
+    "localidade":"Cravinhos",
+    "faixaCep":"14140-000 a 14149-999"
+ },
+    
+ {
+    "localidade":"Cristais Paulista",
+    "faixaCep":"14460-000 a 14469-999"
+ },
+    
+ {
+    "localidade":"Cruzália",
+    "faixaCep":"19860-000 a 19864-999"
+ },
+    
+ {
+    "localidade":"Cruzeiro",
+    "faixaCep":"12700-001 a 12759-999"
+ },
+    
+ {
+    "localidade":"Cruzeiro",
+    "faixaCep":"12700-001 a 12759-999"
+ },
+    
+ {
+    "localidade":"Cubatão",
+    "faixaCep":"11500-001 a 11599-999"
+ },
+    
+ {
+    "localidade":"Cubatão",
+    "faixaCep":"11500-001 a 11599-999"
+ },
+    
+ {
+    "localidade":"Cunha",
+    "faixaCep":"12530-000 a 12569-999"
+ },
+    
+ {
+    "localidade":"Descalvado",
+    "faixaCep":"13690-000 a 13699-999"
+ },
+    
+ {
+    "localidade":"Diadema",
+    "faixaCep":"09900-001 a 09999-999"
+ },
+    
+ {
+    "localidade":"Diadema",
+    "faixaCep":"09900-001 a 09999-999"
+ },
+    
+ {
+    "localidade":"Dirce Reis",
+    "faixaCep":"15715-000 a 15717-999"
+ },
+    
+ {
+    "localidade":"Divinolândia",
+    "faixaCep":"13780-000 a 13789-999"
+ },
+    
+ {
+    "localidade":"Dobrada",
+    "faixaCep":"15980-000 a 15989-999"
+ },
+    
+ {
+    "localidade":"Dois Córregos",
+    "faixaCep":"17300-000 a 17319-999"
+ },
+    
+ {
+    "localidade":"Dolcinópolis",
+    "faixaCep":"15740-000 a 15744-999"
+ },
+    
+ {
+    "localidade":"Dourado",
+    "faixaCep":"13590-000 a 13599-999"
+ },
+    
+ {
+    "localidade":"Dracena",
+    "faixaCep":"17900-000 a 17919-999"
+ },
+    
+ {
+    "localidade":"Duartina",
+    "faixaCep":"17470-000 a 17474-999"
+ },
+    
+ {
+    "localidade":"Dumont",
+    "faixaCep":"14120-000 a 14139-999"
+ },
+    
+ {
+    "localidade":"Echaporã",
+    "faixaCep":"19830-000 a 19839-999"
+ },
+    
+ {
+    "localidade":"Eldorado",
+    "faixaCep":"11960-000 a 11989-999"
+ },
+    
+ {
+    "localidade":"Elias Fausto",
+    "faixaCep":"13350-000 a 13359-999"
+ },
+    
+ {
+    "localidade":"Elisiário",
+    "faixaCep":"15823-000 a 15824-999"
+ },
+    
+ {
+    "localidade":"Embaúba",
+    "faixaCep":"15425-000 a 15429-999"
+ },
+    
+ {
+    "localidade":"Embu das Artes",
+    "faixaCep":"06800-001 a 06849-999"
+ },
+    
+ {
+    "localidade":"Embu das Artes",
+    "faixaCep":"06800-001 a 06849-999"
+ },
+    
+ {
+    "localidade":"Embu-Guaçu",
+    "faixaCep":"06900-000 a 06949-999"
+ },
+    
+ {
+    "localidade":"Emilianópolis",
+    "faixaCep":"19350-000 a 19359-999"
+ },
+    
+ {
+    "localidade":"Engenheiro Coelho",
+    "faixaCep":"13445-001 a 13449-999"
+ },
+    
+ {
+    "localidade":"Engenheiro Coelho",
+    "faixaCep":"13445-001 a 13449-999"
+ },
+    
+ {
+    "localidade":"Espírito Santo do Pinhal",
+    "faixaCep":"13990-000 a 13994-999"
+ },
+    
+ {
+    "localidade":"Espírito Santo do Turvo",
+    "faixaCep":"18935-001 a 18939-999"
+ },
+    
+ {
+    "localidade":"Espírito Santo do Turvo",
+    "faixaCep":"18935-001 a 18939-999"
+ },
+    
+ {
+    "localidade":"Estiva Gerbi",
+    "faixaCep":"13857-000 a 13859-999"
+ },
+    
+ {
+    "localidade":"Estrela do Norte",
+    "faixaCep":"19230-000 a 19249-999"
+ },
+    
+ {
+    "localidade":"Estrela D\u0027Oeste",
+    "faixaCep":"15650-000 a 15669-999"
+ },
+    
+ {
+    "localidade":"Euclides da Cunha Paulista",
+    "faixaCep":"19275-000 a 19279-999"
+ },
+    
+ {
+    "localidade":"Fartura",
+    "faixaCep":"18870-000 a 18889-999"
+ },
+    
+ {
+    "localidade":"Fernando Prestes",
+    "faixaCep":"15940-000 a 15949-999"
+ },
+    
+ {
+    "localidade":"Fernandópolis",
+    "faixaCep":"15600-001 a 15619-999"
+ },
+    
+ {
+    "localidade":"Fernandópolis",
+    "faixaCep":"15600-001 a 15614-999"
+ },
+    
+ {
+    "localidade":"Fernão",
+    "faixaCep":"17455-000 a 17469-999"
+ },
+    
+ {
+    "localidade":"Ferraz de Vasconcelos",
+    "faixaCep":"08500-001 a 08549-999"
+ },
+    
+ {
+    "localidade":"Ferraz de Vasconcelos",
+    "faixaCep":"08500-001 a 08549-999"
+ },
+    
+ {
+    "localidade":"Flora Rica",
+    "faixaCep":"17870-000 a 17879-999"
+ },
+    
+ {
+    "localidade":"Floreal",
+    "faixaCep":"15320-000 a 15329-999"
+ },
+    
+ {
+    "localidade":"Flórida Paulista",
+    "faixaCep":"17830-000 a 17859-999"
+ },
+    
+ {
+    "localidade":"Florínea",
+    "faixaCep":"19870-000 a 19879-999"
+ },
+    
+ {
+    "localidade":"Franca",
+    "faixaCep":"14400-001 a 14414-999"
+ },
+    
+ {
+    "localidade":"Franca",
+    "faixaCep":"14400-001 a 14414-999"
+ },
+    
+ {
+    "localidade":"Francisco Morato",
+    "faixaCep":"07900-001 a 07999-999"
+ },
+    
+ {
+    "localidade":"Francisco Morato",
+    "faixaCep":"07900-001 a 07999-999"
+ },
+    
+ {
+    "localidade":"Franco da Rocha",
+    "faixaCep":"07800-001 a 07899-999"
+ },
+    
+ {
+    "localidade":"Franco da Rocha",
+    "faixaCep":"07800-001 a 07899-999"
+ },
+    
+ {
+    "localidade":"Gabriel Monteiro",
+    "faixaCep":"16220-000 a 16229-999"
+ },
+    
+ {
+    "localidade":"Gália",
+    "faixaCep":"17450-000 a 17454-999"
+ },
+    
+ {
+    "localidade":"Garça",
+    "faixaCep":"17400-000 a 17409-999"
+ },
+    
+ {
+    "localidade":"Gastão Vidigal",
+    "faixaCep":"15330-000 a 15339-999"
+ },
+    
+ {
+    "localidade":"Gavião Peixoto",
+    "faixaCep":"14813-000 a 14814-999"
+ },
+    
+ {
+    "localidade":"General Salgado",
+    "faixaCep":"15300-000 a 15309-999"
+ },
+    
+ {
+    "localidade":"Getulina",
+    "faixaCep":"16450-000 a 16479-999"
+ },
+    
+ {
+    "localidade":"Glicério",
+    "faixaCep":"16270-000 a 16289-999"
+ },
+    
+ {
+    "localidade":"Guaiçara",
+    "faixaCep":"16430-000 a 16439-999"
+ },
+    
+ {
+    "localidade":"Guaimbê",
+    "faixaCep":"16480-000 a 16499-999"
+ },
+    
+ {
+    "localidade":"Guaíra",
+    "faixaCep":"14790-000 a 14794-999"
+ },
+    
+ {
+    "localidade":"Guapiaçu",
+    "faixaCep":"15110-000 a 15114-999"
+ },
+    
+ {
+    "localidade":"Guapiara",
+    "faixaCep":"18310-000 a 18314-999"
+ },
+    
+ {
+    "localidade":"Guará",
+    "faixaCep":"14580-000 a 14599-999"
+ },
+    
+ {
+    "localidade":"Guaraçaí",
+    "faixaCep":"16980-000 a 16999-999"
+ },
+    
+ {
+    "localidade":"Guaraci",
+    "faixaCep":"15420-000 a 15424-999"
+ },
+    
+ {
+    "localidade":"Guarani D\u0027Oeste",
+    "faixaCep":"15680-000 a 15684-999"
+ },
+    
+ {
+    "localidade":"Guarantã",
+    "faixaCep":"16570-000 a 16599-999"
+ },
+    
+ {
+    "localidade":"Guararapes",
+    "faixaCep":"16700-000 a 16749-999"
+ },
+    
+ {
+    "localidade":"Guararema",
+    "faixaCep":"08900-000 a 08939-999"
+ },
+    
+ {
+    "localidade":"Guaratinguetá",
+    "faixaCep":"12500-001 a 12524-999"
+ },
+    
+ {
+    "localidade":"Guaratinguetá",
+    "faixaCep":"12500-001 a 12524-999"
+ },
+    
+ {
+    "localidade":"Guareí",
+    "faixaCep":"18250-000 a 18254-999"
+ },
+    
+ {
+    "localidade":"Guariba",
+    "faixaCep":"14840-000 a 14849-999"
+ },
+    
+ {
+    "localidade":"Guarujá",
+    "faixaCep":"11400-001 a 11499-999"
+ },
+    
+ {
+    "localidade":"Guarujá",
+    "faixaCep":"11400-001 a 11499-999"
+ },
+    
+ {
+    "localidade":"Guarulhos",
+    "faixaCep":"07000-001 a 07399-999"
+ },
+    
+ {
+    "localidade":"Guarulhos",
+    "faixaCep":"07000-001 a 07399-999"
+ },
+    
+ {
+    "localidade":"Guatapará",
+    "faixaCep":"14115-000 a 14119-999"
+ },
+    
+ {
+    "localidade":"Guzolândia",
+    "faixaCep":"15355-000 a 15359-999"
+ },
+    
+ {
+    "localidade":"Herculândia",
+    "faixaCep":"17650-000 a 17669-999"
+ },
+    
+ {
+    "localidade":"Holambra",
+    "faixaCep":"13825-000 a 13829-999"
+ },
+    
+ {
+    "localidade":"Hortolândia",
+    "faixaCep":"13183-001 a 13189-999"
+ },
+    
+ {
+    "localidade":"Hortolândia",
+    "faixaCep":"13183-001 a 13189-999"
+ },
+    
+ {
+    "localidade":"Iacanga",
+    "faixaCep":"17180-000 a 17189-999"
+ },
+    
+ {
+    "localidade":"Iacri",
+    "faixaCep":"17680-000 a 17689-999"
+ },
+    
+ {
+    "localidade":"Iaras",
+    "faixaCep":"18775-000 a 18779-999"
+ },
+    
+ {
+    "localidade":"Ibaté",
+    "faixaCep":"14815-000 a 14819-999"
+ },
+    
+ {
+    "localidade":"Ibirá",
+    "faixaCep":"15860-000 a 15869-999"
+ },
+    
+ {
+    "localidade":"Ibirarema",
+    "faixaCep":"19940-000 a 19959-999"
+ },
+    
+ {
+    "localidade":"Ibitinga",
+    "faixaCep":"14940-001 a 14954-999"
+ },
+    
+ {
+    "localidade":"Ibitinga",
+    "faixaCep":"14940-001 a 14949-999"
+ },
+    
+ {
+    "localidade":"Ibiúna",
+    "faixaCep":"18150-000 a 18159-999"
+ },
+    
+ {
+    "localidade":"Icém",
+    "faixaCep":"15460-000 a 15469-999"
+ },
+    
+ {
+    "localidade":"Iepê",
+    "faixaCep":"19640-000 a 19644-999"
+ },
+    
+ {
+    "localidade":"Igaraçu do Tietê",
+    "faixaCep":"17350-000 a 17359-999"
+ },
+    
+ {
+    "localidade":"Igarapava",
+    "faixaCep":"14540-000 a 14549-999"
+ },
+    
+ {
+    "localidade":"Igaratá",
+    "faixaCep":"12350-000 a 12379-999"
+ },
+    
+ {
+    "localidade":"Iguape",
+    "faixaCep":"11920-000 a 11924-999"
+ },
+    
+ {
+    "localidade":"Ilha Comprida",
+    "faixaCep":"11925-000 a 11929-999"
+ },
+    
+ {
+    "localidade":"Ilha Solteira",
+    "faixaCep":"15385-000 a 15389-999"
+ },
+    
+ {
+    "localidade":"Ilhabela",
+    "faixaCep":"11630-000 a 11659-999"
+ },
+    
+ {
+    "localidade":"Indaiatuba",
+    "faixaCep":"13330-001 a 13349-999"
+ },
+    
+ {
+    "localidade":"Indaiatuba",
+    "faixaCep":"13330-001 a 13349-999"
+ },
+    
+ {
+    "localidade":"Indiana",
+    "faixaCep":"19560-000 a 19569-999"
+ },
+    
+ {
+    "localidade":"Indiaporã",
+    "faixaCep":"15690-000 a 15699-999"
+ },
+    
+ {
+    "localidade":"Inúbia Paulista",
+    "faixaCep":"17760-000 a 17779-999"
+ },
+    
+ {
+    "localidade":"Ipaussu",
+    "faixaCep":"18950-000 a 18959-999"
+ },
+    
+ {
+    "localidade":"Iperó",
+    "faixaCep":"18560-000 a 18569-999"
+ },
+    
+ {
+    "localidade":"Ipeúna",
+    "faixaCep":"13537-000 a 13539-999"
+ },
+    
+ {
+    "localidade":"Ipiguá",
+    "faixaCep":"15108-000 a 15109-999"
+ },
+    
+ {
+    "localidade":"Iporanga",
+    "faixaCep":"18330-000 a 18359-999"
+ },
+    
+ {
+    "localidade":"Ipuã",
+    "faixaCep":"14610-000 a 14619-999"
+ },
+    
+ {
+    "localidade":"Iracemápolis",
+    "faixaCep":"13495-000 a 13499-999"
+ },
+    
+ {
+    "localidade":"Irapuã",
+    "faixaCep":"14990-000 a 14999-999"
+ },
+    
+ {
+    "localidade":"Irapuru",
+    "faixaCep":"17880-000 a 17889-999"
+ },
+    
+ {
+    "localidade":"Itaberá",
+    "faixaCep":"18440-000 a 18459-999"
+ },
+    
+ {
+    "localidade":"Itaí",
+    "faixaCep":"18730-001 a 18739-999"
+ },
+    
+ {
+    "localidade":"Itaí",
+    "faixaCep":"18730-001 a 18739-999"
+ },
+    
+ {
+    "localidade":"Itajobi",
+    "faixaCep":"15840-000 a 15844-999"
+ },
+    
+ {
+    "localidade":"Itaju",
+    "faixaCep":"17260-000 a 17269-999"
+ },
+    
+ {
+    "localidade":"Itanhaém",
+    "faixaCep":"11740-000 a 11749-999"
+ },
+    
+ {
+    "localidade":"Itaóca",
+    "faixaCep":"18360-000 a 18379-999"
+ },
+    
+ {
+    "localidade":"Itapecerica da Serra",
+    "faixaCep":"06850-001 a 06889-999"
+ },
+    
+ {
+    "localidade":"Itapecerica da Serra",
+    "faixaCep":"06850-001 a 06889-999"
+ },
+    
+ {
+    "localidade":"Itapetininga",
+    "faixaCep":"18200-001 a 18219-999"
+ },
+    
+ {
+    "localidade":"Itapetininga",
+    "faixaCep":"18200-001 a 18215-999"
+ },
+    
+ {
+    "localidade":"Itapeva",
+    "faixaCep":"18400-001 a 18424-999"
+ },
+    
+ {
+    "localidade":"Itapeva",
+    "faixaCep":"18400-001 a 18419-999"
+ },
+    
+ {
+    "localidade":"Itapevi",
+    "faixaCep":"06650-001 a 06699-999"
+ },
+    
+ {
+    "localidade":"Itapevi",
+    "faixaCep":"06650-001 a 06699-999"
+ },
+    
+ {
+    "localidade":"Itapira",
+    "faixaCep":"13970-001 a 13989-999"
+ },
+    
+ {
+    "localidade":"Itapira",
+    "faixaCep":"13970-001 a 13985-999"
+ },
+    
+ {
+    "localidade":"Itapirapuã Paulista",
+    "faixaCep":"18385-000 a 18399-999"
+ },
+    
+ {
+    "localidade":"Itápolis",
+    "faixaCep":"14900-000 a 14909-999"
+ },
+    
+ {
+    "localidade":"Itaporanga",
+    "faixaCep":"18480-000 a 18489-999"
+ },
+    
+ {
+    "localidade":"Itapuí",
+    "faixaCep":"17230-000 a 17239-999"
+ },
+    
+ {
+    "localidade":"Itapura",
+    "faixaCep":"15390-000 a 15399-999"
+ },
+    
+ {
+    "localidade":"Itaquaquecetuba",
+    "faixaCep":"08570-001 a 08599-999"
+ },
+    
+ {
+    "localidade":"Itaquaquecetuba",
+    "faixaCep":"08570-001 a 08599-999"
+ },
+    
+ {
+    "localidade":"Itararé",
+    "faixaCep":"18460-000 a 18469-999"
+ },
+    
+ {
+    "localidade":"Itariri",
+    "faixaCep":"11760-000 a 11789-999"
+ },
+    
+ {
+    "localidade":"Itatiba",
+    "faixaCep":"13250-001 a 13259-999"
+ },
+    
+ {
+    "localidade":"Itatiba",
+    "faixaCep":"13250-001 a 13259-999"
+ },
+    
+ {
+    "localidade":"Itatinga",
+    "faixaCep":"18690-000 a 18699-999"
+ },
+    
+ {
+    "localidade":"Itirapina",
+    "faixaCep":"13530-000 a 13536-999"
+ },
+    
+ {
+    "localidade":"Itirapuã",
+    "faixaCep":"14420-000 a 14429-999"
+ },
+    
+ {
+    "localidade":"Itobi",
+    "faixaCep":"13715-000 a 13719-999"
+ },
+    
+ {
+    "localidade":"Itu",
+    "faixaCep":"13300-001 a 13314-999"
+ },
+    
+ {
+    "localidade":"Itu",
+    "faixaCep":"13300-001 a 13314-999"
+ },
+    
+ {
+    "localidade":"Itupeva",
+    "faixaCep":"13295-000 a 13299-999"
+ },
+    
+ {
+    "localidade":"Ituverava",
+    "faixaCep":"14500-000 a 14529-999"
+ },
+    
+ {
+    "localidade":"Jaborandi",
+    "faixaCep":"14775-000 a 14779-999"
+ },
+    
+ {
+    "localidade":"Jaboticabal",
+    "faixaCep":"14870-001 a 14899-999"
+ },
+    
+ {
+    "localidade":"Jaboticabal",
+    "faixaCep":"14870-001 a 14898-999"
+ },
+    
+ {
+    "localidade":"Jacareí",
+    "faixaCep":"12300-001 a 12349-999"
+ },
+    
+ {
+    "localidade":"Jacareí",
+    "faixaCep":"12300-001 a 12349-999"
+ },
+    
+ {
+    "localidade":"Jaci",
+    "faixaCep":"15155-000 a 15159-999"
+ },
+    
+ {
+    "localidade":"Jacupiranga",
+    "faixaCep":"11940-000 a 11949-999"
+ },
+    
+ {
+    "localidade":"Jaguariúna",
+    "faixaCep":"13910-001 a 13919-999"
+ },
+    
+ {
+    "localidade":"Jaguariúna",
+    "faixaCep":"13910-001 a 13919-999"
+ },
+    
+ {
+    "localidade":"Jales",
+    "faixaCep":"15700-001 a 15709-999"
+ },
+    
+ {
+    "localidade":"Jales",
+    "faixaCep":"15700-001 a 15709-999"
+ },
+    
+ {
+    "localidade":"Jambeiro",
+    "faixaCep":"12270-000 a 12279-999"
+ },
+    
+ {
+    "localidade":"Jandira",
+    "faixaCep":"06600-001 a 06649-999"
+ },
+    
+ {
+    "localidade":"Jandira",
+    "faixaCep":"06600-001 a 06649-999"
+ },
+    
+ {
+    "localidade":"Jardinópolis",
+    "faixaCep":"14680-000 a 14699-999"
+ },
+    
+ {
+    "localidade":"Jarinu",
+    "faixaCep":"13240-000 a 13249-999"
+ },
+    
+ {
+    "localidade":"Jaú",
+    "faixaCep":"17200-001 a 17229-999"
+ },
+    
+ {
+    "localidade":"Jaú",
+    "faixaCep":"17200-001 a 17220-999"
+ },
+    
+ {
+    "localidade":"Jeriquara",
+    "faixaCep":"14450-000 a 14459-999"
+ },
+    
+ {
+    "localidade":"Joanópolis",
+    "faixaCep":"12980-000 a 12989-999"
+ },
+    
+ {
+    "localidade":"João Ramalho",
+    "faixaCep":"19680-000 a 19699-999"
+ },
+    
+ {
+    "localidade":"José Bonifácio",
+    "faixaCep":"15200-000 a 15209-999"
+ },
+    
+ {
+    "localidade":"Júlio Mesquita",
+    "faixaCep":"17550-000 a 17559-999"
+ },
+    
+ {
+    "localidade":"Jumirim",
+    "faixaCep":"18535-000 a 18539-999"
+ },
+    
+ {
+    "localidade":"Jundiaí",
+    "faixaCep":"13200-001 a 13219-999"
+ },
+    
+ {
+    "localidade":"Jundiaí",
+    "faixaCep":"13200-001 a 13219-999"
+ },
+    
+ {
+    "localidade":"Junqueirópolis",
+    "faixaCep":"17890-000 a 17899-999"
+ },
+    
+ {
+    "localidade":"Juquiá",
+    "faixaCep":"11800-000 a 11849-999"
+ },
+    
+ {
+    "localidade":"Juquitiba",
+    "faixaCep":"06950-000 a 06999-999"
+ },
+    
+ {
+    "localidade":"Lagoinha",
+    "faixaCep":"12130-000 a 12139-999"
+ },
+    
+ {
+    "localidade":"Laranjal Paulista",
+    "faixaCep":"18500-000 a 18519-999"
+ },
+    
+ {
+    "localidade":"Lavínia",
+    "faixaCep":"16850-000 a 16879-999"
+ },
+    
+ {
+    "localidade":"Lavrinhas",
+    "faixaCep":"12760-000 a 12799-999"
+ },
+    
+ {
+    "localidade":"Leme",
+    "faixaCep":"13610-001 a 13624-999"
+ },
+    
+ {
+    "localidade":"Leme",
+    "faixaCep":"13610-001 a 13624-999"
+ },
+    
+ {
+    "localidade":"Lençóis Paulista",
+    "faixaCep":"18680-001 a 18689-999"
+ },
+    
+ {
+    "localidade":"Lençóis Paulista",
+    "faixaCep":"18680-001 a 18687-999"
+ },
+    
+ {
+    "localidade":"Limeira",
+    "faixaCep":"13480-001 a 13489-999"
+ },
+    
+ {
+    "localidade":"Limeira",
+    "faixaCep":"13480-001 a 13489-999"
+ },
+    
+ {
+    "localidade":"Lindóia",
+    "faixaCep":"13950-000 a 13959-999"
+ },
+    
+ {
+    "localidade":"Lins",
+    "faixaCep":"16400-001 a 16429-999"
+ },
+    
+ {
+    "localidade":"Lins",
+    "faixaCep":"16400-001 a 16419-999"
+ },
+    
+ {
+    "localidade":"Lorena",
+    "faixaCep":"12600-001 a 12614-999"
+ },
+    
+ {
+    "localidade":"Lorena",
+    "faixaCep":"12600-001 a 12614-999"
+ },
+    
+ {
+    "localidade":"Lourdes",
+    "faixaCep":"15285-000 a 15289-999"
+ },
+    
+ {
+    "localidade":"Louveira",
+    "faixaCep":"13290-000 a 13294-999"
+ },
+    
+ {
+    "localidade":"Lucélia",
+    "faixaCep":"17780-000 a 17789-999"
+ },
+    
+ {
+    "localidade":"Lucianópolis",
+    "faixaCep":"17475-000 a 17479-999"
+ },
+    
+ {
+    "localidade":"Luís Antônio",
+    "faixaCep":"14210-000 a 14229-999"
+ },
+    
+ {
+    "localidade":"Luiziânia",
+    "faixaCep":"16340-000 a 16349-999"
+ },
+    
+ {
+    "localidade":"Lupércio",
+    "faixaCep":"17420-000 a 17429-999"
+ },
+    
+ {
+    "localidade":"Lutécia",
+    "faixaCep":"19750-000 a 19769-999"
+ },
+    
+ {
+    "localidade":"Macatuba",
+    "faixaCep":"17290-000 a 17299-999"
+ },
+    
+ {
+    "localidade":"Macaubal",
+    "faixaCep":"15270-000 a 15274-999"
+ },
+    
+ {
+    "localidade":"Macedônia",
+    "faixaCep":"15620-000 a 15624-999"
+ },
+    
+ {
+    "localidade":"Mágda",
+    "faixaCep":"15310-000 a 15312-999"
+ },
+    
+ {
+    "localidade":"Mairinque",
+    "faixaCep":"18120-000 a 18124-999"
+ },
+    
+ {
+    "localidade":"Mairiporã",
+    "faixaCep":"07600-000 a 07699-999"
+ },
+    
+ {
+    "localidade":"Manduri",
+    "faixaCep":"18780-000 a 18789-999"
+ },
+    
+ {
+    "localidade":"Marabá Paulista",
+    "faixaCep":"19430-000 a 19449-999"
+ },
+    
+ {
+    "localidade":"Maracaí",
+    "faixaCep":"19840-000 a 19859-999"
+ },
+    
+ {
+    "localidade":"Marapoama",
+    "faixaCep":"15845-000 a 15849-999"
+ },
+    
+ {
+    "localidade":"Mariápolis",
+    "faixaCep":"17810-000 a 17829-999"
+ },
+    
+ {
+    "localidade":"Marília",
+    "faixaCep":"17500-001 a 17539-999"
+ },
+    
+ {
+    "localidade":"Marília",
+    "faixaCep":"17500-001 a 17539-999"
+ },
+    
+ {
+    "localidade":"Marinópolis",
+    "faixaCep":"15730-000 a 15734-999"
+ },
+    
+ {
+    "localidade":"Martinópolis",
+    "faixaCep":"19500-000 a 19529-999"
+ },
+    
+ {
+    "localidade":"Matão",
+    "faixaCep":"15990-001 a 15999-999"
+ },
+    
+ {
+    "localidade":"Matão",
+    "faixaCep":"15990-001 a 15999-999"
+ },
+    
+ {
+    "localidade":"Mauá",
+    "faixaCep":"09300-001 a 09399-999"
+ },
+    
+ {
+    "localidade":"Mauá",
+    "faixaCep":"09300-001 a 09399-999"
+ },
+    
+ {
+    "localidade":"Mendonça",
+    "faixaCep":"15220-000 a 15224-999"
+ },
+    
+ {
+    "localidade":"Meridiano",
+    "faixaCep":"15625-000 a 15629-999"
+ },
+    
+ {
+    "localidade":"Mesópolis",
+    "faixaCep":"15748-000 a 15749-999"
+ },
+    
+ {
+    "localidade":"Miguelópolis",
+    "faixaCep":"14530-000 a 14539-999"
+ },
+    
+ {
+    "localidade":"Mineiros do Tietê",
+    "faixaCep":"17320-000 a 17339-999"
+ },
+    
+ {
+    "localidade":"Mira Estrela",
+    "faixaCep":"15580-000 a 15599-999"
+ },
+    
+ {
+    "localidade":"Miracatu",
+    "faixaCep":"11850-000 a 11899-999"
+ },
+    
+ {
+    "localidade":"Mirandópolis",
+    "faixaCep":"16800-000 a 16849-999"
+ },
+    
+ {
+    "localidade":"Mirante do Paranapanema",
+    "faixaCep":"19260-000 a 19272-999"
+ },
+    
+ {
+    "localidade":"Mirassol",
+    "faixaCep":"15130-001 a 15139-999"
+ },
+    
+ {
+    "localidade":"Mirassol",
+    "faixaCep":"15130-001 a 15139-999"
+ },
+    
+ {
+    "localidade":"Mirassolândia",
+    "faixaCep":"15145-000 a 15149-999"
+ },
+    
+ {
+    "localidade":"Mococa",
+    "faixaCep":"13730-001 a 13759-999"
+ },
+    
+ {
+    "localidade":"Mococa",
+    "faixaCep":"13730-001 a 13749-999"
+ },
+    
+ {
+    "localidade":"Mogi das Cruzes",
+    "faixaCep":"08700-001 a 08899-999"
+ },
+    
+ {
+    "localidade":"Mogi das Cruzes",
+    "faixaCep":"08700-001 a 08889-999"
+ },
+    
+ {
+    "localidade":"Mogi Guaçu",
+    "faixaCep":"13840-001 a 13856-999"
+ },
+    
+ {
+    "localidade":"Mogi Guaçu",
+    "faixaCep":"13840-001 a 13855-999"
+ },
+    
+ {
+    "localidade":"Mogi Mirim",
+    "faixaCep":"13800-001 a 13819-999"
+ },
+    
+ {
+    "localidade":"Mogi Mirim",
+    "faixaCep":"13800-001 a 13817-999"
+ },
+    
+ {
+    "localidade":"Mombuca",
+    "faixaCep":"13375-000 a 13379-999"
+ },
+    
+ {
+    "localidade":"Monções",
+    "faixaCep":"15275-000 a 15279-999"
+ },
+    
+ {
+    "localidade":"Mongaguá",
+    "faixaCep":"11730-000 a 11739-999"
+ },
+    
+ {
+    "localidade":"Monte Alegre do Sul",
+    "faixaCep":"13820-000 a 13824-999"
+ },
+    
+ {
+    "localidade":"Monte Alto",
+    "faixaCep":"15910-000 a 15919-999"
+ },
+    
+ {
+    "localidade":"Monte Aprazível",
+    "faixaCep":"15150-000 a 15154-999"
+ },
+    
+ {
+    "localidade":"Monte Azul Paulista",
+    "faixaCep":"14730-000 a 14734-999"
+ },
+    
+ {
+    "localidade":"Monte Castelo",
+    "faixaCep":"17960-000 a 17969-999"
+ },
+    
+ {
+    "localidade":"Monte Mor",
+    "faixaCep":"13190-000 a 13199-999"
+ },
+    
+ {
+    "localidade":"Monteiro Lobato",
+    "faixaCep":"12250-000 a 12259-999"
+ },
+    
+ {
+    "localidade":"Morro Agudo",
+    "faixaCep":"14640-000 a 14659-999"
+ },
+    
+ {
+    "localidade":"Morungaba",
+    "faixaCep":"13260-000 a 13269-999"
+ },
+    
+ {
+    "localidade":"Motuca",
+    "faixaCep":"14835-000 a 14839-999"
+ },
+    
+ {
+    "localidade":"Murutinga do Sul",
+    "faixaCep":"16950-000 a 16979-999"
+ },
+    
+ {
+    "localidade":"Nantes",
+    "faixaCep":"19645-000 a 19679-999"
+ },
+    
+ {
+    "localidade":"Narandiba",
+    "faixaCep":"19220-000 a 19229-999"
+ },
+    
+ {
+    "localidade":"Natividade da Serra",
+    "faixaCep":"12180-000 a 12199-999"
+ },
+    
+ {
+    "localidade":"Nazaré Paulista",
+    "faixaCep":"12960-000 a 12969-999"
+ },
+    
+ {
+    "localidade":"Neves Paulista",
+    "faixaCep":"15120-000 a 15129-999"
+ },
+    
+ {
+    "localidade":"Nhandeara",
+    "faixaCep":"15190-000 a 15199-999"
+ },
+    
+ {
+    "localidade":"Nipoã",
+    "faixaCep":"15240-000 a 15249-999"
+ },
+    
+ {
+    "localidade":"Nova Aliança",
+    "faixaCep":"15210-000 a 15219-999"
+ },
+    
+ {
+    "localidade":"Nova Campina",
+    "faixaCep":"18435-000 a 18439-999"
+ },
+    
+ {
+    "localidade":"Nova Canaã Paulista",
+    "faixaCep":"15773-000 a 15774-999"
+ },
+    
+ {
+    "localidade":"Nova Castilho",
+    "faixaCep":"15313-000 a 15314-999"
+ },
+    
+ {
+    "localidade":"Nova Europa",
+    "faixaCep":"14920-000 a 14929-999"
+ },
+    
+ {
+    "localidade":"Nova Granada",
+    "faixaCep":"15440-000 a 15449-999"
+ },
+    
+ {
+    "localidade":"Nova Guataporanga",
+    "faixaCep":"17950-000 a 17959-999"
+ },
+    
+ {
+    "localidade":"Nova Independência",
+    "faixaCep":"16940-000 a 16949-999"
+ },
+    
+ {
+    "localidade":"Nova Luzitânia",
+    "faixaCep":"15340-000 a 15349-999"
+ },
+    
+ {
+    "localidade":"Nova Odessa",
+    "faixaCep":"13380-001 a 13389-999"
+ },
+    
+ {
+    "localidade":"Nova Odessa",
+    "faixaCep":"13380-001 a 13389-999"
+ },
+    
+ {
+    "localidade":"Novais",
+    "faixaCep":"15885-000 a 15889-999"
+ },
+    
+ {
+    "localidade":"Novo Horizonte",
+    "faixaCep":"14960-000 a 14979-999"
+ },
+    
+ {
+    "localidade":"Nuporanga",
+    "faixaCep":"14670-000 a 14679-999"
+ },
+    
+ {
+    "localidade":"Ocauçu",
+    "faixaCep":"17540-000 a 17549-999"
+ },
+    
+ {
+    "localidade":"Óleo",
+    "faixaCep":"18790-000 a 18799-999"
+ },
+    
+ {
+    "localidade":"Olímpia",
+    "faixaCep":"15400-000 a 15409-999"
+ },
+    
+ {
+    "localidade":"Onda Verde",
+    "faixaCep":"15450-000 a 15459-999"
+ },
+    
+ {
+    "localidade":"Oriente",
+    "faixaCep":"17570-000 a 17579-999"
+ },
+    
+ {
+    "localidade":"Orindiúva",
+    "faixaCep":"15480-000 a 15489-999"
+ },
+    
+ {
+    "localidade":"Orlândia",
+    "faixaCep":"14620-000 a 14639-999"
+ },
+    
+ {
+    "localidade":"Osasco",
+    "faixaCep":"06000-001 a 06299-999"
+ },
+    
+ {
+    "localidade":"Osasco",
+    "faixaCep":"06000-001 a 06299-999"
+ },
+    
+ {
+    "localidade":"Oscar Bressane",
+    "faixaCep":"19770-000 a 19779-999"
+ },
+    
+ {
+    "localidade":"Osvaldo Cruz",
+    "faixaCep":"17700-000 a 17709-999"
+ },
+    
+ {
+    "localidade":"Ourinhos",
+    "faixaCep":"19900-001 a 19919-999"
+ },
+    
+ {
+    "localidade":"Ourinhos",
+    "faixaCep":"19900-001 a 19919-999"
+ },
+    
+ {
+    "localidade":"Ouro Verde",
+    "faixaCep":"17920-000 a 17929-999"
+ },
+    
+ {
+    "localidade":"Ouroeste",
+    "faixaCep":"15685-000 a 15689-999"
+ },
+    
+ {
+    "localidade":"Pacaembu",
+    "faixaCep":"17860-000 a 17869-999"
+ },
+    
+ {
+    "localidade":"Palestina",
+    "faixaCep":"15470-000 a 15479-999"
+ },
+    
+ {
+    "localidade":"Palmares Paulista",
+    "faixaCep":"15828-000 a 15829-999"
+ },
+    
+ {
+    "localidade":"Palmeira D\u0027Oeste",
+    "faixaCep":"15720-000 a 15729-999"
+ },
+    
+ {
+    "localidade":"Palmital",
+    "faixaCep":"19970-000 a 19989-999"
+ },
+    
+ {
+    "localidade":"Panorama",
+    "faixaCep":"17980-000 a 17989-999"
+ },
+    
+ {
+    "localidade":"Paraguaçu Paulista",
+    "faixaCep":"19700-000 a 19739-999"
+ },
+    
+ {
+    "localidade":"Paraibuna",
+    "faixaCep":"12260-000 a 12269-999"
+ },
+    
+ {
+    "localidade":"Paraíso",
+    "faixaCep":"15825-000 a 15827-999"
+ },
+    
+ {
+    "localidade":"Paranapanema",
+    "faixaCep":"18720-000 a 18729-999"
+ },
+    
+ {
+    "localidade":"Paranapuã",
+    "faixaCep":"15745-000 a 15747-999"
+ },
+    
+ {
+    "localidade":"Parapuã",
+    "faixaCep":"17730-000 a 17739-999"
+ },
+    
+ {
+    "localidade":"Pardinho",
+    "faixaCep":"18640-000 a 18649-999"
+ },
+    
+ {
+    "localidade":"Pariquera-Açu",
+    "faixaCep":"11930-000 a 11939-999"
+ },
+    
+ {
+    "localidade":"Parisi",
+    "faixaCep":"15525-000 a 15529-999"
+ },
+    
+ {
+    "localidade":"Patrocínio Paulista",
+    "faixaCep":"14415-000 a 14419-999"
+ },
+    
+ {
+    "localidade":"Paulicéia",
+    "faixaCep":"17990-000 a 17999-999"
+ },
+    
+ {
+    "localidade":"Paulínia",
+    "faixaCep":"13140-001 a 13149-999"
+ },
+    
+ {
+    "localidade":"Paulínia",
+    "faixaCep":"13140-001 a 13149-999"
+ },
+    
+ {
+    "localidade":"Paulistânia",
+    "faixaCep":"17150-001 a 17159-999"
+ },
+    
+ {
+    "localidade":"Paulistânia",
+    "faixaCep":"17150-001 a 17154-999"
+ },
+    
+ {
+    "localidade":"Paulo de Faria",
+    "faixaCep":"15490-000 a 15494-999"
+ },
+    
+ {
+    "localidade":"Pederneiras",
+    "faixaCep":"17280-000 a 17289-999"
+ },
+    
+ {
+    "localidade":"Pedra Bela",
+    "faixaCep":"12990-000 a 12994-999"
+ },
+    
+ {
+    "localidade":"Pedranópolis",
+    "faixaCep":"15630-000 a 15639-999"
+ },
+    
+ {
+    "localidade":"Pedregulho",
+    "faixaCep":"14470-000 a 14489-999"
+ },
+    
+ {
+    "localidade":"Pedreira",
+    "faixaCep":"13920-000 a 13929-999"
+ },
+    
+ {
+    "localidade":"Pedrinhas Paulista",
+    "faixaCep":"19865-000 a 19869-999"
+ },
+    
+ {
+    "localidade":"Pedro de Toledo",
+    "faixaCep":"11790-000 a 11799-999"
+ },
+    
+ {
+    "localidade":"Penápolis",
+    "faixaCep":"16300-001 a 16309-999"
+ },
+    
+ {
+    "localidade":"Penápolis",
+    "faixaCep":"16300-001 a 16309-999"
+ },
+    
+ {
+    "localidade":"Pereira Barreto",
+    "faixaCep":"15370-000 a 15379-999"
+ },
+    
+ {
+    "localidade":"Pereiras",
+    "faixaCep":"18580-000 a 18589-999"
+ },
+    
+ {
+    "localidade":"Peruíbe",
+    "faixaCep":"11750-000 a 11759-999"
+ },
+    
+ {
+    "localidade":"Piacatu",
+    "faixaCep":"16230-000 a 16239-999"
+ },
+    
+ {
+    "localidade":"Piedade",
+    "faixaCep":"18170-000 a 18179-999"
+ },
+    
+ {
+    "localidade":"Pilar do Sul",
+    "faixaCep":"18185-000 a 18189-999"
+ },
+    
+ {
+    "localidade":"Pindamonhangaba",
+    "faixaCep":"12400-001 a 12449-999"
+ },
+    
+ {
+    "localidade":"Pindamonhangaba",
+    "faixaCep":"12400-001 a 12449-999"
+ },
+    
+ {
+    "localidade":"Pindorama",
+    "faixaCep":"15830-000 a 15839-999"
+ },
+    
+ {
+    "localidade":"Pinhalzinho",
+    "faixaCep":"12995-000 a 12999-999"
+ },
+    
+ {
+    "localidade":"Piquerobi",
+    "faixaCep":"19410-000 a 19429-999"
+ },
+    
+ {
+    "localidade":"Piquete",
+    "faixaCep":"12620-000 a 12629-999"
+ },
+    
+ {
+    "localidade":"Piracaia",
+    "faixaCep":"12970-000 a 12979-999"
+ },
+    
+ {
+    "localidade":"Piracicaba",
+    "faixaCep":"13400-001 a 13439-999"
+ },
+    
+ {
+    "localidade":"Piracicaba",
+    "faixaCep":"13400-001 a 13434-999"
+ },
+    
+ {
+    "localidade":"Piraju",
+    "faixaCep":"18800-000 a 18829-999"
+ },
+    
+ {
+    "localidade":"Pirajuí",
+    "faixaCep":"16600-001 a 16639-999"
+ },
+    
+ {
+    "localidade":"Pirajuí",
+    "faixaCep":"16600-001 a 16619-999"
+ },
+    
+ {
+    "localidade":"Pirangi",
+    "faixaCep":"15820-000 a 15822-999"
+ },
+    
+ {
+    "localidade":"Pirapora do Bom Jesus",
+    "faixaCep":"06550-000 a 06599-999"
+ },
+    
+ {
+    "localidade":"Pirapozinho",
+    "faixaCep":"19200-000 a 19209-999"
+ },
+    
+ {
+    "localidade":"Pirassununga",
+    "faixaCep":"13630-001 a 13649-999"
+ },
+    
+ {
+    "localidade":"Pirassununga",
+    "faixaCep":"13630-001 a 13644-999"
+ },
+    
+ {
+    "localidade":"Piratininga",
+    "faixaCep":"17490-001 a 17499-999"
+ },
+    
+ {
+    "localidade":"Piratininga",
+    "faixaCep":"17490-001 a 17499-999"
+ },
+    
+ {
+    "localidade":"Pitangueiras",
+    "faixaCep":"14750-000 a 14764-999"
+ },
+    
+ {
+    "localidade":"Planalto",
+    "faixaCep":"15260-000 a 15264-999"
+ },
+    
+ {
+    "localidade":"Platina",
+    "faixaCep":"19990-000 a 19999-999"
+ },
+    
+ {
+    "localidade":"Poá",
+    "faixaCep":"08550-001 a 08569-999"
+ },
+    
+ {
+    "localidade":"Poá",
+    "faixaCep":"08550-001 a 08569-999"
+ },
+    
+ {
+    "localidade":"Poloni",
+    "faixaCep":"15160-000 a 15169-999"
+ },
+    
+ {
+    "localidade":"Pompéia",
+    "faixaCep":"17580-000 a 17589-999"
+ },
+    
+ {
+    "localidade":"Pongaí",
+    "faixaCep":"16660-000 a 16669-999"
+ },
+    
+ {
+    "localidade":"Pontal",
+    "faixaCep":"14180-000 a 14199-999"
+ },
+    
+ {
+    "localidade":"Pontalinda",
+    "faixaCep":"15718-000 a 15719-999"
+ },
+    
+ {
+    "localidade":"Pontes Gestal",
+    "faixaCep":"15560-000 a 15569-999"
+ },
+    
+ {
+    "localidade":"Populina",
+    "faixaCep":"15670-000 a 15679-999"
+ },
+    
+ {
+    "localidade":"Porangaba",
+    "faixaCep":"18260-000 a 18264-999"
+ },
+    
+ {
+    "localidade":"Porto Feliz",
+    "faixaCep":"18540-000 a 18549-999"
+ },
+    
+ {
+    "localidade":"Porto Ferreira",
+    "faixaCep":"13660-001 a 13669-999"
+ },
+    
+ {
+    "localidade":"Porto Ferreira",
+    "faixaCep":"13660-001 a 13669-999"
+ },
+    
+ {
+    "localidade":"Potim",
+    "faixaCep":"12525-000 a 12529-999"
+ },
+    
+ {
+    "localidade":"Potirendaba",
+    "faixaCep":"15105-000 a 15107-999"
+ },
+    
+ {
+    "localidade":"Pracinha",
+    "faixaCep":"17790-000 a 17799-999"
+ },
+    
+ {
+    "localidade":"Pradópolis",
+    "faixaCep":"14850-000 a 14859-999"
+ },
+    
+ {
+    "localidade":"Praia Grande",
+    "faixaCep":"11700-001 a 11729-999"
+ },
+    
+ {
+    "localidade":"Praia Grande",
+    "faixaCep":"11700-001 a 11729-999"
+ },
+    
+ {
+    "localidade":"Pratânia",
+    "faixaCep":"18660-000 a 18669-999"
+ },
+    
+ {
+    "localidade":"Presidente Alves",
+    "faixaCep":"16670-000 a 16679-999"
+ },
+    
+ {
+    "localidade":"Presidente Bernardes",
+    "faixaCep":"19300-000 a 19349-999"
+ },
+    
+ {
+    "localidade":"Presidente Epitácio",
+    "faixaCep":"19470-000 a 19499-999"
+ },
+    
+ {
+    "localidade":"Presidente Prudente",
+    "faixaCep":"19000-001 a 19159-999"
+ },
+    
+ {
+    "localidade":"Presidente Prudente",
+    "faixaCep":"19000-001 a 19140-999"
+ },
+    
+ {
+    "localidade":"Presidente Venceslau",
+    "faixaCep":"19400-000 a 19409-999"
+ },
+    
+ {
+    "localidade":"Promissão",
+    "faixaCep":"16370-000 a 16399-999"
+ },
+    
+ {
+    "localidade":"Quadra",
+    "faixaCep":"18255-000 a 18259-999"
+ },
+    
+ {
+    "localidade":"Quatá",
+    "faixaCep":"19780-000 a 19799-999"
+ },
+    
+ {
+    "localidade":"Queiroz",
+    "faixaCep":"17590-000 a 17599-999"
+ },
+    
+ {
+    "localidade":"Queluz",
+    "faixaCep":"12800-000 a 12819-999"
+ },
+    
+ {
+    "localidade":"Quintana",
+    "faixaCep":"17670-000 a 17679-999"
+ },
+    
+ {
+    "localidade":"Rafard",
+    "faixaCep":"13370-000 a 13374-999"
+ },
+    
+ {
+    "localidade":"Rancharia",
+    "faixaCep":"19600-000 a 19639-999"
+ },
+    
+ {
+    "localidade":"Redenção da Serra",
+    "faixaCep":"12170-000 a 12179-999"
+ },
+    
+ {
+    "localidade":"Regente Feijó",
+    "faixaCep":"19570-000 a 19579-999"
+ },
+    
+ {
+    "localidade":"Reginópolis",
+    "faixaCep":"17190-000 a 17199-999"
+ },
+    
+ {
+    "localidade":"Registro",
+    "faixaCep":"11900-000 a 11909-999"
+ },
+    
+ {
+    "localidade":"Restinga",
+    "faixaCep":"14430-000 a 14439-999"
+ },
+    
+ {
+    "localidade":"Ribeira",
+    "faixaCep":"18380-000 a 18384-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Bonito",
+    "faixaCep":"13580-000 a 13589-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Branco",
+    "faixaCep":"18430-000 a 18434-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Corrente",
+    "faixaCep":"14445-000 a 14449-999"
+ },
+    
+ {
+    "localidade":"Ribeirão do Sul",
+    "faixaCep":"19930-000 a 19939-999"
+ },
+    
+ {
+    "localidade":"Ribeirão dos Índios",
+    "faixaCep":"19380-000 a 19399-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Grande",
+    "faixaCep":"18315-000 a 18319-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Pires",
+    "faixaCep":"09400-001 a 09449-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Pires",
+    "faixaCep":"09400-001 a 09449-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Preto",
+    "faixaCep":"14000-001 a 14114-999"
+ },
+    
+ {
+    "localidade":"Ribeirão Preto",
+    "faixaCep":"14000-001 a 14109-999"
+ },
+    
+ {
+    "localidade":"Rifaina",
+    "faixaCep":"14490-000 a 14499-999"
+ },
+    
+ {
+    "localidade":"Rincão",
+    "faixaCep":"14830-000 a 14834-999"
+ },
+    
+ {
+    "localidade":"Rinópolis",
+    "faixaCep":"17740-000 a 17759-999"
+ },
+    
+ {
+    "localidade":"Rio Claro",
+    "faixaCep":"13500-001 a 13509-999"
+ },
+    
+ {
+    "localidade":"Rio Claro",
+    "faixaCep":"13500-001 a 13509-999"
+ },
+    
+ {
+    "localidade":"Rio das Pedras",
+    "faixaCep":"13390-000 a 13399-999"
+ },
+    
+ {
+    "localidade":"Rio Grande da Serra",
+    "faixaCep":"09450-000 a 09499-999"
+ },
+    
+ {
+    "localidade":"Riolândia",
+    "faixaCep":"15495-000 a 15499-999"
+ },
+    
+ {
+    "localidade":"Riversul",
+    "faixaCep":"18470-000 a 18474-999"
+ },
+    
+ {
+    "localidade":"Rosana",
+    "faixaCep":"19273-000 a 19274-999"
+ },
+    
+ {
+    "localidade":"Roseira",
+    "faixaCep":"12580-000 a 12599-999"
+ },
+    
+ {
+    "localidade":"Rubiácea",
+    "faixaCep":"16750-000 a 16789-999"
+ },
+    
+ {
+    "localidade":"Rubinéia",
+    "faixaCep":"15790-000 a 15799-999"
+ },
+    
+ {
+    "localidade":"Sabino",
+    "faixaCep":"16440-000 a 16449-999"
+ },
+    
+ {
+    "localidade":"Sagres",
+    "faixaCep":"17710-000 a 17719-999"
+ },
+    
+ {
+    "localidade":"Sales",
+    "faixaCep":"14980-000 a 14989-999"
+ },
+    
+ {
+    "localidade":"Sales Oliveira",
+    "faixaCep":"14660-000 a 14669-999"
+ },
+    
+ {
+    "localidade":"Salesópolis",
+    "faixaCep":"08970-000 a 08999-999"
+ },
+    
+ {
+    "localidade":"Salmourão",
+    "faixaCep":"17720-000 a 17729-999"
+ },
+    
+ {
+    "localidade":"Saltinho",
+    "faixaCep":"13440-000 a 13444-999"
+ },
+    
+ {
+    "localidade":"Salto",
+    "faixaCep":"13320-001 a 13329-999"
+ },
+    
+ {
+    "localidade":"Salto",
+    "faixaCep":"13320-001 a 13329-999"
+ },
+    
+ {
+    "localidade":"Salto de Pirapora",
+    "faixaCep":"18160-000 a 18169-999"
+ },
+    
+ {
+    "localidade":"Salto Grande",
+    "faixaCep":"19920-001 a 19929-999"
+ },
+    
+ {
+    "localidade":"Salto Grande",
+    "faixaCep":"19920-001 a 19929-999"
+ },
+    
+ {
+    "localidade":"Sandovalina",
+    "faixaCep":"19250-000 a 19259-999"
+ },
+    
+ {
+    "localidade":"Santa Adélia",
+    "faixaCep":"15950-000 a 15959-999"
+ },
+    
+ {
+    "localidade":"Santa Albertina",
+    "faixaCep":"15750-000 a 15754-999"
+ },
+    
+ {
+    "localidade":"Santa Bárbara D\u0027Oeste",
+    "faixaCep":"13450-001 a 13464-999"
+ },
+    
+ {
+    "localidade":"Santa Bárbara D\u0027Oeste",
+    "faixaCep":"13450-001 a 13464-999"
+ },
+    
+ {
+    "localidade":"Santa Branca",
+    "faixaCep":"12380-000 a 12399-999"
+ },
+    
+ {
+    "localidade":"Santa Clara D\u0027Oeste",
+    "faixaCep":"15785-000 a 15789-999"
+ },
+    
+ {
+    "localidade":"Santa Cruz da Conceição",
+    "faixaCep":"13625-000 a 13629-999"
+ },
+    
+ {
+    "localidade":"Santa Cruz da Esperança",
+    "faixaCep":"14250-000 a 14259-999"
+ },
+    
+ {
+    "localidade":"Santa Cruz das Palmeiras",
+    "faixaCep":"13650-000 a 13659-999"
+ },
+    
+ {
+    "localidade":"Santa Cruz do Rio Pardo",
+    "faixaCep":"18900-000 a 18934-999"
+ },
+    
+ {
+    "localidade":"Santa Ernestina",
+    "faixaCep":"15970-000 a 15979-999"
+ },
+    
+ {
+    "localidade":"Santa Fé do Sul",
+    "faixaCep":"15775-000 a 15779-999"
+ },
+    
+ {
+    "localidade":"Santa Gertrudes",
+    "faixaCep":"13510-000 a 13514-999"
+ },
+    
+ {
+    "localidade":"Santa Isabel",
+    "faixaCep":"07500-000 a 07599-999"
+ },
+    
+ {
+    "localidade":"Santa Lúcia",
+    "faixaCep":"14825-000 a 14829-999"
+ },
+    
+ {
+    "localidade":"Santa Maria da Serra",
+    "faixaCep":"17370-000 a 17379-999"
+ },
+    
+ {
+    "localidade":"Santa Mercedes",
+    "faixaCep":"17940-000 a 17949-999"
+ },
+    
+ {
+    "localidade":"Santa Rita do Passa Quatro",
+    "faixaCep":"13670-000 a 13689-999"
+ },
+    
+ {
+    "localidade":"Santa Rita D\u0027Oeste",
+    "faixaCep":"15780-000 a 15784-999"
+ },
+    
+ {
+    "localidade":"Santa Rosa de Viterbo",
+    "faixaCep":"14270-000 a 14299-999"
+ },
+    
+ {
+    "localidade":"Santa Salete",
+    "faixaCep":"15768-000 a 15769-999"
+ },
+    
+ {
+    "localidade":"Santana da Ponte Pensa",
+    "faixaCep":"15765-000 a 15767-999"
+ },
+    
+ {
+    "localidade":"Santana de Parnaíba",
+    "faixaCep":"06500-001 a 06549-999"
+ },
+    
+ {
+    "localidade":"Santana de Parnaíba",
+    "faixaCep":"06500-001 a 06549-999"
+ },
+    
+ {
+    "localidade":"Santo Anastácio",
+    "faixaCep":"19360-000 a 19379-999"
+ },
+    
+ {
+    "localidade":"Santo André",
+    "faixaCep":"09000-001 a 09299-999"
+ },
+    
+ {
+    "localidade":"Santo André",
+    "faixaCep":"09000-001 a 09299-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio da Alegria",
+    "faixaCep":"14390-000 a 14399-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio de Posse",
+    "faixaCep":"13830-001 a 13834-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio de Posse",
+    "faixaCep":"13830-001 a 13834-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio do Aracanguá",
+    "faixaCep":"16130-000 a 16199-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio do Jardim",
+    "faixaCep":"13995-000 a 13999-999"
+ },
+    
+ {
+    "localidade":"Santo Antônio do Pinhal",
+    "faixaCep":"12450-000 a 12459-999"
+ },
+    
+ {
+    "localidade":"Santo Expedito",
+    "faixaCep":"19190-000 a 19199-999"
+ },
+    
+ {
+    "localidade":"Santópolis do Aguapeí",
+    "faixaCep":"16240-000 a 16249-999"
+ },
+    
+ {
+    "localidade":"Santos",
+    "faixaCep":"11000-001 a 11249-999"
+ },
+    
+ {
+    "localidade":"Santos",
+    "faixaCep":"11000-001 a 11199-999"
+ },
+    
+ {
+    "localidade":"São Bento do Sapucaí",
+    "faixaCep":"12490-000 a 12499-999"
+ },
+    
+ {
+    "localidade":"São Bernardo do Campo",
+    "faixaCep":"09600-001 a 09899-999"
+ },
+    
+ {
+    "localidade":"São Bernardo do Campo",
+    "faixaCep":"09600-001 a 09899-999"
+ },
+    
+ {
+    "localidade":"São Caetano do Sul",
+    "faixaCep":"09500-001 a 09599-999"
+ },
+    
+ {
+    "localidade":"São Caetano do Sul",
+    "faixaCep":"09500-001 a 09599-999"
+ },
+    
+ {
+    "localidade":"São Carlos",
+    "faixaCep":"13560-001 a 13579-999"
+ },
+    
+ {
+    "localidade":"São Carlos",
+    "faixaCep":"13560-001 a 13577-999"
+ },
+    
+ {
+    "localidade":"São Francisco",
+    "faixaCep":"15710-000 a 15712-999"
+ },
+    
+ {
+    "localidade":"São João da Boa Vista",
+    "faixaCep":"13870-001 a 13879-999"
+ },
+    
+ {
+    "localidade":"São João da Boa Vista",
+    "faixaCep":"13870-001 a 13879-999"
+ },
+    
+ {
+    "localidade":"São João das Duas Pontes",
+    "faixaCep":"15640-000 a 15649-999"
+ },
+    
+ {
+    "localidade":"São João de Iracema",
+    "faixaCep":"15315-000 a 15319-999"
+ },
+    
+ {
+    "localidade":"São João do Pau d\u0027Alho",
+    "faixaCep":"17970-000 a 17979-999"
+ },
+    
+ {
+    "localidade":"São Joaquim da Barra",
+    "faixaCep":"14600-000 a 14609-999"
+ },
+    
+ {
+    "localidade":"São José da Bela Vista",
+    "faixaCep":"14440-000 a 14444-999"
+ },
+    
+ {
+    "localidade":"São José do Barreiro",
+    "faixaCep":"12830-000 a 12849-999"
+ },
+    
+ {
+    "localidade":"São José do Rio Pardo",
+    "faixaCep":"13720-000 a 13729-999"
+ },
+    
+ {
+    "localidade":"São José do Rio Preto",
+    "faixaCep":"15000-001 a 15104-999"
+ },
+    
+ {
+    "localidade":"São José do Rio Preto",
+    "faixaCep":"15000-001 a 15104-999"
+ },
+    
+ {
+    "localidade":"São José dos Campos",
+    "faixaCep":"12200-001 a 12249-999"
+ },
+    
+ {
+    "localidade":"São José dos Campos",
+    "faixaCep":"12200-001 a 12249-999"
+ },
+    
+ {
+    "localidade":"São Lourenço da Serra",
+    "faixaCep":"06890-000 a 06899-999"
+ },
+    
+ {
+    "localidade":"São Luiz do Paraitinga",
+    "faixaCep":"12140-000 a 12169-999"
+ },
+    
+ {
+    "localidade":"São Manuel",
+    "faixaCep":"18650-000 a 18659-999"
+ },
+    
+ {
+    "localidade":"São Miguel Arcanjo",
+    "faixaCep":"18230-000 a 18239-999"
+ },
+    
+ {
+    "localidade":"São Paulo",
+    "faixaCep":"01000-001 a 05999-999"
+ },
+    
+ {
+    "localidade":"São Paulo",
+    "faixaCep":"08000-000 a 08499-999"
+ },
+    
+ {
+    "localidade":"São Paulo",
+    "faixaCep":"01000-001 a 05999-999"
+ },
+    
+ {
+    "localidade":"São Paulo",
+    "faixaCep":"08000-000 a 08499-999"
+ },
+    
+ {
+    "localidade":"São Pedro",
+    "faixaCep":"13520-000 a 13524-999"
+ },
+    
+ {
+    "localidade":"São Pedro do Turvo",
+    "faixaCep":"18940-001 a 18949-999"
+ },
+    
+ {
+    "localidade":"São Pedro do Turvo",
+    "faixaCep":"18940-001 a 18944-999"
+ },
+    
+ {
+    "localidade":"São Roque",
+    "faixaCep":"18130-001 a 18146-999"
+ },
+    
+ {
+    "localidade":"São Roque",
+    "faixaCep":"18130-001 a 18146-999"
+ },
+    
+ {
+    "localidade":"São Sebastião",
+    "faixaCep":"11600-001 a 11629-999"
+ },
+    
+ {
+    "localidade":"São Sebastião",
+    "faixaCep":"11600-001 a 11629-999"
+ },
+    
+ {
+    "localidade":"São Sebastião da Grama",
+    "faixaCep":"13790-000 a 13799-999"
+ },
+    
+ {
+    "localidade":"São Simão",
+    "faixaCep":"14200-000 a 14209-999"
+ },
+    
+ {
+    "localidade":"São Vicente",
+    "faixaCep":"11300-001 a 11399-999"
+ },
+    
+ {
+    "localidade":"São Vicente",
+    "faixaCep":"11300-001 a 11399-999"
+ },
+    
+ {
+    "localidade":"Sarapuí",
+    "faixaCep":"18225-000 a 18229-999"
+ },
+    
+ {
+    "localidade":"Sarutaiá",
+    "faixaCep":"18840-000 a 18859-999"
+ },
+    
+ {
+    "localidade":"Sebastianópolis do Sul",
+    "faixaCep":"15180-000 a 15189-999"
+ },
+    
+ {
+    "localidade":"Serra Azul",
+    "faixaCep":"14230-000 a 14239-999"
+ },
+    
+ {
+    "localidade":"Serra Negra",
+    "faixaCep":"13930-000 a 13939-999"
+ },
+    
+ {
+    "localidade":"Serrana",
+    "faixaCep":"14150-000 a 14159-999"
+ },
+    
+ {
+    "localidade":"Sertãozinho",
+    "faixaCep":"14160-001 a 14179-999"
+ },
+    
+ {
+    "localidade":"Sertãozinho",
+    "faixaCep":"14160-001 a 14179-999"
+ },
+    
+ {
+    "localidade":"Sete Barras",
+    "faixaCep":"11910-000 a 11919-999"
+ },
+    
+ {
+    "localidade":"Severínia",
+    "faixaCep":"14735-000 a 14739-999"
+ },
+    
+ {
+    "localidade":"Silveiras",
+    "faixaCep":"12690-000 a 12699-999"
+ },
+    
+ {
+    "localidade":"Socorro",
+    "faixaCep":"13960-000 a 13969-999"
+ },
+    
+ {
+    "localidade":"Sorocaba",
+    "faixaCep":"18000-001 a 18109-999"
+ },
+    
+ {
+    "localidade":"Sorocaba",
+    "faixaCep":"18000-001 a 18109-999"
+ },
+    
+ {
+    "localidade":"Sud Mennucci",
+    "faixaCep":"15360-000 a 15369-999"
+ },
+    
+ {
+    "localidade":"Sumaré",
+    "faixaCep":"13170-001 a 13182-999"
+ },
+    
+ {
+    "localidade":"Sumaré",
+    "faixaCep":"13170-001 a 13182-999"
+ },
+    
+ {
+    "localidade":"Suzanápolis",
+    "faixaCep":"15380-000 a 15384-999"
+ },
+    
+ {
+    "localidade":"Suzano",
+    "faixaCep":"08600-001 a 08699-999"
+ },
+    
+ {
+    "localidade":"Suzano",
+    "faixaCep":"08600-001 a 08699-999"
+ },
+    
+ {
+    "localidade":"Tabapuã",
+    "faixaCep":"15880-000 a 15884-999"
+ },
+    
+ {
+    "localidade":"Tabatinga",
+    "faixaCep":"14910-000 a 14919-999"
+ },
+    
+ {
+    "localidade":"Taboão da Serra",
+    "faixaCep":"06750-001 a 06799-999"
+ },
+    
+ {
+    "localidade":"Taboão da Serra",
+    "faixaCep":"06750-001 a 06799-999"
+ },
+    
+ {
+    "localidade":"Taciba",
+    "faixaCep":"19590-000 a 19599-999"
+ },
+    
+ {
+    "localidade":"Taguaí",
+    "faixaCep":"18890-000 a 18899-999"
+ },
+    
+ {
+    "localidade":"Taiaçu",
+    "faixaCep":"14725-000 a 14729-999"
+ },
+    
+ {
+    "localidade":"Taiúva",
+    "faixaCep":"14720-000 a 14724-999"
+ },
+    
+ {
+    "localidade":"Tambaú",
+    "faixaCep":"13710-000 a 13714-999"
+ },
+    
+ {
+    "localidade":"Tanabi",
+    "faixaCep":"15170-000 a 15179-999"
+ },
+    
+ {
+    "localidade":"Tapiraí",
+    "faixaCep":"18180-000 a 18184-999"
+ },
+    
+ {
+    "localidade":"Tapiratiba",
+    "faixaCep":"13760-000 a 13769-999"
+ },
+    
+ {
+    "localidade":"Taquaral",
+    "faixaCep":"14765-000 a 14769-999"
+ },
+    
+ {
+    "localidade":"Taquaritinga",
+    "faixaCep":"15900-000 a 15909-999"
+ },
+    
+ {
+    "localidade":"Taquarituba",
+    "faixaCep":"18740-000 a 18744-999"
+ },
+    
+ {
+    "localidade":"Taquarivaí",
+    "faixaCep":"18425-000 a 18429-999"
+ },
+    
+ {
+    "localidade":"Tarabai",
+    "faixaCep":"19210-000 a 19219-999"
+ },
+    
+ {
+    "localidade":"Tarumã",
+    "faixaCep":"19820-000 a 19829-999"
+ },
+    
+ {
+    "localidade":"Tatuí",
+    "faixaCep":"18270-001 a 18284-999"
+ },
+    
+ {
+    "localidade":"Tatuí",
+    "faixaCep":"18270-001 a 18282-999"
+ },
+    
+ {
+    "localidade":"Taubaté",
+    "faixaCep":"12000-001 a 12119-999"
+ },
+    
+ {
+    "localidade":"Taubaté",
+    "faixaCep":"12000-001 a 12119-999"
+ },
+    
+ {
+    "localidade":"Tejupá",
+    "faixaCep":"18830-000 a 18839-999"
+ },
+    
+ {
+    "localidade":"Teodoro Sampaio",
+    "faixaCep":"19280-000 a 19299-999"
+ },
+    
+ {
+    "localidade":"Terra Roxa",
+    "faixaCep":"14745-000 a 14749-999"
+ },
+    
+ {
+    "localidade":"Tietê",
+    "faixaCep":"18530-000 a 18534-999"
+ },
+    
+ {
+    "localidade":"Timburi",
+    "faixaCep":"18860-000 a 18869-999"
+ },
+    
+ {
+    "localidade":"Torre de Pedra",
+    "faixaCep":"18265-000 a 18269-999"
+ },
+    
+ {
+    "localidade":"Torrinha",
+    "faixaCep":"17360-000 a 17369-999"
+ },
+    
+ {
+    "localidade":"Trabiju",
+    "faixaCep":"14935-000 a 14939-999"
+ },
+    
+ {
+    "localidade":"Tremembé",
+    "faixaCep":"12120-000 a 12129-999"
+ },
+    
+ {
+    "localidade":"Três Fronteiras",
+    "faixaCep":"15770-000 a 15772-999"
+ },
+    
+ {
+    "localidade":"Tuiuti",
+    "faixaCep":"12930-000 a 12934-999"
+ },
+    
+ {
+    "localidade":"Tupã",
+    "faixaCep":"17600-001 a 17629-999"
+ },
+    
+ {
+    "localidade":"Tupã",
+    "faixaCep":"17600-001 a 17626-999"
+ },
+    
+ {
+    "localidade":"Tupi Paulista",
+    "faixaCep":"17930-000 a 17939-999"
+ },
+    
+ {
+    "localidade":"Turiúba",
+    "faixaCep":"15280-000 a 15284-999"
+ },
+    
+ {
+    "localidade":"Turmalina",
+    "faixaCep":"15755-000 a 15759-999"
+ },
+    
+ {
+    "localidade":"Ubarana",
+    "faixaCep":"15225-000 a 15229-999"
+ },
+    
+ {
+    "localidade":"Ubatuba",
+    "faixaCep":"11680-000 a 11699-999"
+ },
+    
+ {
+    "localidade":"Ubirajara",
+    "faixaCep":"17440-000 a 17449-999"
+ },
+    
+ {
+    "localidade":"Uchoa",
+    "faixaCep":"15890-000 a 15894-999"
+ },
+    
+ {
+    "localidade":"União Paulista",
+    "faixaCep":"15250-000 a 15259-999"
+ },
+    
+ {
+    "localidade":"Urânia",
+    "faixaCep":"15760-000 a 15762-999"
+ },
+    
+ {
+    "localidade":"Uru",
+    "faixaCep":"16650-000 a 16659-999"
+ },
+    
+ {
+    "localidade":"Urupês",
+    "faixaCep":"15850-000 a 15859-999"
+ },
+    
+ {
+    "localidade":"Valentim Gentil",
+    "faixaCep":"15520-000 a 15524-999"
+ },
+    
+ {
+    "localidade":"Valinhos",
+    "faixaCep":"13270-001 a 13279-999"
+ },
+    
+ {
+    "localidade":"Valinhos",
+    "faixaCep":"13270-001 a 13279-999"
+ },
+    
+ {
+    "localidade":"Valparaíso",
+    "faixaCep":"16880-000 a 16899-999"
+ },
+    
+ {
+    "localidade":"Vargem",
+    "faixaCep":"12935-000 a 12939-999"
+ },
+    
+ {
+    "localidade":"Vargem Grande do Sul",
+    "faixaCep":"13880-000 a 13889-999"
+ },
+    
+ {
+    "localidade":"Vargem Grande Paulista",
+    "faixaCep":"06730-000 a 06749-999"
+ },
+    
+ {
+    "localidade":"Várzea Paulista",
+    "faixaCep":"13220-001 a 13229-999"
+ },
+    
+ {
+    "localidade":"Várzea Paulista",
+    "faixaCep":"13220-001 a 13229-999"
+ },
+    
+ {
+    "localidade":"Vera Cruz",
+    "faixaCep":"17560-000 a 17569-999"
+ },
+    
+ {
+    "localidade":"Vinhedo",
+    "faixaCep":"13280-001 a 13289-999"
+ },
+    
+ {
+    "localidade":"Vinhedo",
+    "faixaCep":"13280-001 a 13289-999"
+ },
+    
+ {
+    "localidade":"Viradouro",
+    "faixaCep":"14740-000 a 14744-999"
+ },
+    
+ {
+    "localidade":"Vista Alegre do Alto",
+    "faixaCep":"15920-000 a 15929-999"
+ },
+    
+ {
+    "localidade":"Vitória Brasil",
+    "faixaCep":"15713-000 a 15714-999"
+ },
+    
+ {
+    "localidade":"Votorantim",
+    "faixaCep":"18110-001 a 18119-999"
+ },
+    
+ {
+    "localidade":"Votorantim",
+    "faixaCep":"18110-001 a 18119-999"
+ },
+    
+ {
+    "localidade":"Votuporanga",
+    "faixaCep":"15500-001 a 15519-999"
+ },
+    
+ {
+    "localidade":"Votuporanga",
+    "faixaCep":"15500-001 a 15515-999"
+ },
+    
+ {
+    "localidade":"Zacarias",
+    "faixaCep":"15265-000 a 15269-999"
+ }
+]

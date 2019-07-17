@@ -1,8 +1,5 @@
 package com.neoway.servico;
 
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -68,21 +65,6 @@ public class FaixaCepServico {
 
 		FaixaCepRepository repositorio = new FaixaCepRepository();
 		repositorio.save(faixas);
-	}
-
-	public void imprimirJson() {
-		try {
-			String json = new String(Files.readAllBytes(Paths.get(FaixaCepRepository.JSON)));
-			json = json.replace("[{", "[\n {\n    ");
-			json = json.replace("]", "\n]");
-			json = json.replace(",{", ",\n {\n    ");
-			json = json.replace("}", "\n }");
-			json = json.replace(",", ",\n    ");
-			System.out.println(json);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-	}
+	}	
 
 }
