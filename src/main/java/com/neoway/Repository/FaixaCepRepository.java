@@ -15,10 +15,22 @@ public class FaixaCepRepository {
 	public void save(List<FaixaCep> faixasCep) {
 		try {
 
+			/*
+			 * Arquivo sem formatacao
+			 */
+			
 			FileWriter writeFile = new FileWriter(JSON, false);
-			writeFile.write(imprimirJson(new Gson().toJson(faixasCep)));
+			writeFile.write(new Gson().toJson(faixasCep));
 			writeFile.close();
+			
+			//Arquivo Formatado
+			writeFile = new FileWriter(JSON + "l", false);
+			writeFile.write(imprimirJson(new Gson().toJson(faixasCep)));
+			writeFile.close();			
+			
+			
 			System.out.println("Finally! Generated file: " + new File(JSON).getAbsolutePath());
+			System.out.println("Finally! Generated file: " + new File(JSON+"l").getAbsolutePath());
 		} catch (IOException e) {
 			System.out.println("Error generating file");
 		}
