@@ -1,5 +1,6 @@
 package com.neoway.Repository;
 
+import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
 import java.util.List;
@@ -9,22 +10,18 @@ import com.neoway.entity.FaixaCep;
 
 public class FaixaCepRepository {
 
+	public static final String JSON = "faixacep.json";
+
 	public void save(List<FaixaCep> faixasCep) {
 		try {
-			FileWriter writeFile = new FileWriter("faixacep.json");
-			writeFile.write(converterParaJson(faixasCep));
-            writeFile.close();
+
+			FileWriter writeFile = new FileWriter(JSON, false);
+			writeFile.write(new Gson().toJson(faixasCep));
+			writeFile.close();
+			System.out.println("Finally! Generated file: " + new File(JSON).getAbsolutePath());
 		} catch (IOException e) {
 			System.out.println("Error generating file");
 		}
-	}
-	
-	public String converterParaJson(List<FaixaCep> list) {
-	    Gson gson = new Gson();
-	    StringBuilder stringBuilder = new StringBuilder();
-	    for(FaixaCep faixaCep : list)
-	        stringBuilder.append(gson.toJson(faixaCep));
-	    return stringBuilder.toString();
 	}
 
 }

@@ -1,5 +1,8 @@
 package com.neoway;
 
+import java.util.ArrayList;
+import java.util.List;
+
 import com.neoway.servico.FaixaCepServico;
 
 /**
@@ -8,13 +11,12 @@ import com.neoway.servico.FaixaCepServico;
  */
 public class App {
 	public static void main(String[] args) throws Exception {
-		
-
+		System.out.println("Initializing...");
+		List<String>ufs = new ArrayList<String>();
+		ufs.add("SC");
+		ufs.add("SP");
 		FaixaCepServico fcs = new FaixaCepServico();
-		//FaixaCepRepository fcr = new FaixaCepRepository();
-		fcs.getFaixaCep("BA");
-	
-		
-		
+		fcs.getFaixaCep(ufs);
+		fcs.imprimirJson();
 	}
 }
